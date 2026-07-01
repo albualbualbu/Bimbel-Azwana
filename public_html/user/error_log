@@ -1,0 +1,18 @@
+[26-Jun-2026 15:37:39 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/bimbelaz/public_html/user/kerjakan.php on line 188
+[26-Jun-2026 15:37:59 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/bimbelaz/public_html/user/kerjakan.php on line 188
+[26-Jun-2026 15:38:10 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/bimbelaz/public_html/user/kerjakan.php on line 188
+[26-Jun-2026 08:38:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/bimbelaz/public_html/user/pembahasan.php on line 183
+[26-Jun-2026 08:38:28 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/bimbelaz/public_html/user/pembahasan.php on line 183
+[26-Jun-2026 08:38:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/bimbelaz/public_html/user/pembahasan.php on line 183
+[26-Jun-2026 08:44:18 UTC] PHP Warning:  Undefined array key "user" in /home/bimbelaz/public_html/user/index.php on line 36
+[26-Jun-2026 08:45:40 UTC] PHP Warning:  Undefined array key "user" in /home/bimbelaz/public_html/user/index.php on line 36
+[26-Jun-2026 09:00:44 UTC] PHP Warning:  Undefined array key "user" in /home/bimbelaz/public_html/user/index.php on line 36
+[26-Jun-2026 09:00:46 UTC] PHP Warning:  Undefined array key "user" in /home/bimbelaz/public_html/user/index.php on line 36
+[26-Jun-2026 16:01:04 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/bimbelaz/public_html/user/kerjakan.php on line 188
+[26-Jun-2026 09:01:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/bimbelaz/public_html/user/pembahasan.php on line 183
+[26-Jun-2026 09:01:20 UTC] PHP Warning:  Undefined array key "user" in /home/bimbelaz/public_html/user/index.php on line 36
+[26-Jun-2026 10:15:40 UTC] PHP Warning:  Undefined array key "user" in /home/bimbelaz/public_html/user/pembahasan.php on line 10
+[26-Jun-2026 10:15:40 UTC] PHP Warning:  Undefined array key "user" in /home/bimbelaz/public_html/user/pembahasan.php on line 117
+[26-Jun-2026 10:15:40 UTC] PHP Warning:  Undefined array key "user" in /home/bimbelaz/public_html/user/pembahasan.php on line 162
+[26-Jun-2026 10:15:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/bimbelaz/public_html/user/pembahasan.php on line 183
+[27-Jun-2026 03:01:04 UTC] PHP Warning:  Undefined array key "user" in /home/bimbelaz/public_html/user/index.php on line 36

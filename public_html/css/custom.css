@@ -1,0 +1,120 @@
+.ck-file-dialog-button{
+    display:none;
+}
+@media only screen and (max-width: 800px) {
+    .seratus{
+        width: 100%;
+    }
+    *{
+        font-size:12px;
+    }
+    .btn{
+        display:block !important;
+        margin:5px;
+    }
+    .span{
+        display:block !important;
+    }
+}
+      
+.bgbg{
+    background-position:center;
+    background-size:cover;
+    width: 150px;
+    height: 150px;
+    margin:5px;
+  }
+  
+.image-container {
+    display: flex;
+    margin: 20px;
+}
+
+.thumbnail {
+    width: 100%;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.thumbnail:hover {
+    opacity: 0.7;
+}
+
+/* Modal Styles */
+.modal {
+    display: none;
+    position: fixed;
+    z-index: 1000;
+    padding-top: 60px;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgba(0, 0, 0, 0.9);
+}
+
+.modal-content {
+    margin: auto;
+    display: block;
+    width: 80%;
+    max-width: 700px;
+    text-align:center;
+}
+
+.close {
+    margin-right: auto;
+    margin-left: auto;
+    color: #fff;
+    font-size: 40px;
+    font-weight: bold;
+    transition: 0.3s;
+    display:contents;
+}
+
+.close:hover,
+.close:focus {
+    color: #bbb;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+    /* CSS untuk Loader */
+    .loader-containerx {
+        width: 100%;
+        background-color: #f3f3f3;
+        height: 20px;
+        margin: 20px auto;
+        border-radius: 5px;
+        display: none; /* default hidden */
+    }
+
+    .loader-barx {
+        height: 100%;
+        width: 0%;
+        background-color: #3498db;
+        border-radius: 5px;
+        text-align: center;
+        color: white;
+        line-height: 20px;
+    }
+
+        /* Pesan sukses dan error */
+        .message-error {
+            padding: 10px;
+            margin: 10px 0;
+            border-radius: 5px;
+            font-weight: bold;
+            background-color: #e5eaf7;
+            color: #a1a4ad;
+        }
+        /* Class Jika Sukses */
+.success-box {
+    display: block !important;
+    background-color: #ffffff;
+    color: #155724;
+    border: 1px solid #c3e6cb;
+    border-radius: 4px;
+    padding: 6px;
+    margin-top: 15px;
+}

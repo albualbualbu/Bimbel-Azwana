@@ -1,0 +1,3 @@
+[/home/bimbelaz/public_html]
+htaccess_list = /home/bimbelaz/public_html/daftar/.htaccess,/home/bimbelaz/public_html/vendor/tecnickcom/tcpdf/tools/.htaccess,/home/bimbelaz/public_html/user/.htaccess,/home/bimbelaz/public_html/.htaccess
+

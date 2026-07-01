@@ -1,0 +1,670 @@
+AWSTATS DATA FILE 8.0 (build 20240604)
+# If you remove this file, all statistics for date 202603 will be lost/reset.
+# Last config file used to build this data file was /home/bimbelaz/tmp/awstats/awstats.bimbelazwana.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2084                
+POS_TIME 2762                
+POS_VISITOR 19764               
+POS_DAY 22023               
+POS_DOMAIN 3679                
+POS_LOGIN 4058                
+POS_ROBOT 4213                
+POS_WORMS 4752                
+POS_EMAILSENDER 4883                
+POS_EMAILRECEIVER 5026                
+POS_SESSION 22610               
+POS_FILESIZE 23414               
+POS_REQUESTTIME 23562               
+POS_SIDER 22795               
+POS_FILETYPES 5161                
+POS_DOWNLOADS 5416                
+POS_OS 5464                
+POS_BROWSER 5667                
+POS_SCREENSIZE 6218                
+POS_UNKNOWNREFERER 6292                
+POS_UNKNOWNREFERERBROWSER 6665                
+POS_ORIGIN 7006                
+POS_SEREFERRALS 7143                
+POS_PAGEREFS 7331                
+POS_SEARCHWORDS 7479                
+POS_KEYWORDS 7727                
+POS_MISC 2426                
+POS_ERRORS 7879                
+POS_CLUSTER 3914                
+POS_SIDER_404 7997                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20260401012024 22 5931 16980646281556
+FirstTime 20260301001002
+LastTime 20260331220026
+LastUpdate 20260401215204 22 0 21 0 0
+TotalVisits 95                  
+TotalUnique 56                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 57                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+FlashSupport 0 0 0
+JavaEnabled 0 0 0
+DirectorSupport 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+AddToFavourites 0 0 0
+JavascriptDisabled 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 1 1 18962 7021 7045 175934529
+1 3 3 16779 8923 8951 225852354
+2 0 0 0 13375 13394 336353222
+3 2 2 9521 10872 10900 272591162
+4 2 2 40152 5786 5815 141586254
+5 0 0 0 5219 5244 130107383
+6 0 0 0 7032 7059 174596273
+7 22 22 70350 8110 8133 202596559
+8 17 17 186686 10143 10164 255326956
+9 72 73 114980 7661 7668 192423475
+10 20 20 220505 5604 5615 140342093
+11 16 16 111919 8324 8332 208589486
+12 1 1 367 8204 8235 204289760
+13 9 9 13879 4203 4224 103733293
+14 0 0 0 5512 5520 137762531
+15 0 0 0 5750 5774 144170651
+16 4 110 25837459 8013 8033 198623116
+17 8 34 3625570 11562 11587 287931463
+18 2 2 437 11375 11389 284075619
+19 2 27 2677199 12338 12355 309398896
+20 5 5 45665 3333 3360 83144340
+21 2 2 14660 3066 3095 79157249
+22 3 3 43949 1948 1998 53702641
+23 3 4 36239 3313 3324 83002214
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 12
+us 98 176 9174129
+es 63 63 13745
+jp 14 14 77538
+vn 7 7 14735
+ca 3 3 83484
+se 3 3 22169
+cn 2 2 37119
+nl 1 2 35652
+zz 1 1 7337
+be 1 1 7337
+gb 1 1 30593
+ir 0 80 23581440
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 11
+Googlebot/ 175457 4410059718 20260331233113 0
+bingbot/ 31 4484847 20260331183308 0
+Applebot/ 29 2597928 20260330222514 0
+urllib 9 5397183 20260306220159 0
+link 5 28585 20260319165809 0
+360Spider 3 22081 20260331061816 0
+crawl 3 286839 20260305121236 0
+Googlebot\-Image/ 3 1134947 20260330221040 0
+[\s_+:,\.\;\/\\-]bot 1 24484 20260324075941 0
+CCBot/ 1 5412 20260314040414 0
+Adsbot 1 24476 20260317153442 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 10
+php 39 285141 0 0
+js 21 214353 0 0
+Unknown 11 65716 0 0
+png 19 4313071 0 0
+woff2 5 143904 0 0
+jpeg 38 5987257 0 0
+webp 2 262144 0 0
+jpg 67 21049524 0 0
+html 139 599228 0 0
+css 12 164940 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 10
+ios_iphone 13 13
+macosx15 3 3
+win10 142 116
+linux 59 6
+linuxubuntu 3 3
+android10 5 5
+ios_ipad 2 2
+android 1 1
+macosx8 1 1
+Unknown 124 44
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 27
+chrome117.0.5938.132 32 6
+safari11.0 1 1
+firefox128.0 1 1
+chrome122.0.0.0 1 1
+firefox142.0 2 1
+chrome134.0.0.0 1 1
+chrome91.0.4472.106 30 30
+safari13.0.3 7 7
+chrome131.0.0.0 8 8
+safari 4 4
+safari5.0 1 1
+chrome146.0.7680.165 1 1
+chrome145.0.0.0 58 7
+safari18.0.1 1 1
+chrome143.0.0.0 63 63
+chrome55.0.2883.87 1 1
+firefox123 1 1
+chrome138.0.0.0 4 4
+iphone 3 3
+chrome146.0.0.0 1 1
+safari17.3.1 1 1
+Unknown 123 43
+chrome137.0.0.0 1 1
+netscape5.0 1 1
+safari17.3 1 1
+chrome120.0.0.0 1 1
+chrome142.0.0.0 4 3
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 5
+Hello_from_Palo_Alto_Networks,_find_out_more_about_our_scans_in_https://docs-cortex.paloaltonetworks.com/r/1/Cortex-Xpanse/Scanning-activity 20260331071242
+python-requests/2.32.5 20260331012515
+GoogleOther-Image/1.0 20260331131130
+Mozilla/5.0 20260331102316
+GuzzleHttp/7 20260323161829
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 4
+GoogleOther-Image/1.0 20260331131130
+python-requests/2.32.5 20260331012515
+GuzzleHttp/7 20260323161829
+Hello_from_Palo_Alto_Networks,_find_out_more_about_our_scans_in_https://docs-cortex.paloaltonetworks.com/r/1/Cortex-Xpanse/Scanning-activity 20260331071242
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 112 192
+From1 0 0
+From2 77 77
+From3 0 0
+From4 5 84
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+search_yahoo_co_jp 8 8
+www_google_com 69 69
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 2
+http+//bimbelazwana.com/%3fi%3d10520116262801 2
+http+//bimbelazwana.com/%3fi%3d17774103222403 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 3
+http 3
+//bimbelazwana.com/%3fi%3d10520116262801 2
+//bimbelazwana.com/%3fi%3d17774103222403 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+403 9 11178
+404 1017 1207807
+500 608 6034
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 244
+/geoserver/ows 6 -
+/Undangan_Kegiatan_Simulasi_dan_Motivasi_Menuju_TKA 2 -
+/Belajar_Parenting_untuk_Masa_Depan_Anak_yang_Cemerlang_Bergabunglah_dengan_Kami 3 -
+/Bimbel_Azwana_Kembali_Adakan_SImulasi_dan_Motivasi_Menuju_TKA 3 -
+/Islamic_Learning_Program_Bimbel_Azwana_Menanamkan_Cinta_Islam_Sejak_Dini_Lewat_Pembelajaran_yang_Penuh_Makna_ 2 -
+/config/env 1 -
+/Spesial_Opening_Bimbel_Azwana_Cabang_Teluk_Betung_Dapatkan_Gratis_Biaya_Pendaftaran 3 -
+/Pra_Tryout_Sahabat_Azwana_Semester_2_di_Bandar_Lampung_2026_Persiapan_Sumatif_Akhir_Semester 2 -
+/Bimbel_Azwana_Hadirkan_Kajian_Parenting_Senjata_Orang_Tua_dalam_Mendidik_Anak 2 -
+/ALC_BimbelAzwana 2 -
+/.env.prod 1 -
+/.env.staging 1 -
+/core/.env 1 -
+/Mengintip_Tren_Pendidikan_Terkini_Masa_Depan_Belajar_Ada_di_Sini 2 -
+/.env.tmp 1 -
+/docker/.env 1 -
+/Munaqosah_Team_Bimbel_Azwana_Evaluasi_Kompetensi_Pengajar_Islamic_Learning_untuk_Menjaga_Kualitas_Bacaan_Al_Quran 4 -
+/Fondasi_Hebat_Dimulai_dari_Calistung_Kenapa_Bimbel_Azwana_Jadi_Pilihan_Tepat 2 -
+/Selamat_Inilah_Juara_Umum_Try_Out_2_Semester_Genap_Bimbel_Azwana_Seluruh_Cabang 3 -
+/private/.env 1 -
+/media/system/js/core.js 2 -
+/.env1 1 -
+/contents/event/kansyasai/ 7 -
+/shop/pg/1005024164 6 -
+/Kajian_Rutin_Wali_Murid_Bersama_Ustadzah_Azizah_Astuti_S_HI_Senjata_Orang_Tua_dalam_Mendidik_Anak 3 -
+/Kegiatan_Holiday_Class_Bimbel_anak_anak_di_Lampung 6 -
+/sitemap.txt 2 -
+/.env.dev.local 1 -
+/One_Hour_Inspiration 3 -
+/shell.php 2 -
+/.env_settings 1 -
+/.env.container 1 -
+/.env_backup 1 -
+/Kajian_Inspiratif_Bersama_Wali_Murid_Bimbel_Azwana_Way_Halim 2 -
+/Pesantren_Kilat_Bimbel_Azwana_Spesial_Ramadhan_2026_Bertema_Aku_Cinta_Rasulullah_SAW 3 -
+/Kegiatan_Malam_Bina_Iman_dan_Takwa_di_Bimbel_Azwana_Bandar_Lampung_Membangun_Karakter_dan_Kemandirian_Anak 3 -
+/.env 1 -
+/jukyuban/ 6 -
+/webshell 1 -
+/Kajian_Wali_Murid_Bimbel_Azwana_Orang_Tua_Belajar_Anak_Bahagia 2 -
+/wp1/wp-includes/wlwmanifest.xml 2 -
+/Alasan_Kenapa_Adik_Harus_Bimbel_di_Azwana 2 -
+/Merekatkan_Hati_Menguatkan_Iman_-_Spiritual_Education_Tim_Bimbel_Azwana 2 -
+/userfuns.php 2 www.google.com
+/Meraih_Surga_dengan_Jalan_Menuntut_Ilmu_Kilas_Balik_Kegiatan_Tahsin_danamp_Pembagian_Raport_Tahsin_Team_Bimbel_Azwana 3 -
+/Pembagian_Map_Raport_Bimbel_Azwana_Bukan_Sekadar_Nilai_Tapi_Bukti_Cinta_dalam_Proses_Belajar 2 -
+/shop/pg/1005024086/ 6 -
+/.env.dev 1 -
+/var/www/html/.env 1 -
+/.env.save 1 -
+/sito/wp-includes/wlwmanifest.xml 2 -
+/Warna-Warni_Ceria_Lomba_Mewarnai_Bersama_Si_Jaza_di_Bimbel_Azwana_Penuh_Cinta_danamp_Makna 2 -
+//sitemap126.xml 2 -
+/Marhaban_Ya_Ramadhan_1447_H_Keluarga_Besar_Bimbel_Azwana_Mengucapkan_Selamat_Menunaikan_Ibadah_Puasa 5 -
+/site/wp-includes/wlwmanifest.xml 2 -
+/geoserver/web/wicket/bookmarkable/org.geoserver.web.demo.MapPreviewPage 2 -
+/Rehat_Sejenak_Kuatkan_Ikatan_Satukan_Visi_Serunya_Family_Gathering_Tim_Bimbel_Azwana_ke_Yogyakarta 3 -
+/Spesial_Hardiknas_GRATIS_Biaya_Pendaftaran_di_Bimbel_Azwana 2 -
+/news/wp-includes/wlwmanifest.xml 2 -
+/shop/pg/1AgreementInfo/ 6 -
+/GratispendaftranbimbelazwanLampung 1 -
+/.env.development.local 1 -
+/shop/pg/1005022001/ 6 -
+/shop/pg/1SiteUse 6 -
+/.env.local.backup 1 -
+/api/.env 1 -
+/Belajar_dan_Bertumbuh_Training_Internal_Tim_Hebat_Bimbel_Azwana 2 -
+/Kegiatan_Program_Calistung_Anak_Anak_di_Bimbel_Bandar_Lampung_Tahun_Ajaran_2025_2026_ 2 -
+/public/.env 1 -
+/sitemaps.xml 2 -
+/Cabang_Terbaik_Bimbel_Azwana_Periode_Januari_April_2025_Konsisten_Memberikan_yang_Terbaik 3 -
+/docker-compose.env 1 -
+/Selamat_Ini_Dia_Pemenang_Giveaway_Cabang_ke-11_Bagi-bagi_Marchandise_ 2 -
+/Kegiatan_Seru_di_Bimbel_Azwana_Cabang_Way_Halim_Belajar_Jadi_Menyenangkan 2 -
+/Terima_Kasih_Open_House_Cabang_Karang_Anyar_Bimbel_Azwana_Berlangsung_Sukses 3 -
+/Islamic_Learning_Bimbel_Azwana 2 -
+/Spesial_Bulan_Juli_Bimbel_di_Azwana_biaya_pendaftarannya_GRATIS 2 -
+/about.php 1 -
+/daftar/Program_Bimbel_SMP 4 -
+/Bimbel_Azwana_Gelar_Pra_Try_Out_untuk_Persiapan_Siswa_Hadapi_Try_Out_di_Bulan_September_2025 2 -
+/root/.env 1 -
+/daftar/Program_Private 4 -
+/app/.env 1 -
+/Evaluasi_Level_Calistung_Bulan_September_2025 2 -
+/UNDANGAN_KAJIAN_WALI_MURID 2 -
+/shop/pg/1SiteUse/ 6 -
+/pw/ 6 -
+/Visi_dan_Misi 3 -
+/Goes_To_Nature_Bimbel_Azwana_Di_Lampung_Cara_Efektif_Mengembangkan_Karakter_Anak_Lewat_Belajar_di_Alam_ 4 -
+/Lomba_Mewarnai_Bareng_Si_Jaza_Event_Edukatif_dan_Seru_untuk_Anak-Anak_Bandar_Lampung 2 -
+/Temukan_Solusi_Belajar_yang_Tepat_untuk_Anak_Ayah_Bunda 4 -
+/wp-includes/wlwmanifest.xml 2 -
+/14_Tahun_Tumbuh_Bersama_Bimbel_Azwana_Learning_by_Loving_ 2 -
+/toyu/top/CSfTop.jsp 6 -
+/.env.production 1 -
+/.env.docker 1 -
+/10_Tips_Belajar_Efektif_untuk_Sukses_di_Masa_Depan 2 -
+/.env.php 1 -
+/Kuasai_4_Skill_Bahasa_Inggris_Sejak_Dini_di_Bimbel_Azwana 2 -
+/config/.env.local 1 -
+/site/.env 1 -
+/Azwana_Peduli_Palestina_Bukti_Nyata_Cinta_danamp_Kepedulian_dari_Bimbel_Azwana_untuk_Sesama 2 -
+/Kegiatan_Simulasi_dan_Motivasi_Menuju_TKA_Dipenuhi_Antsusias_Wali_Murid_dan_Sahabat_Azwana 2 -
+/daftar/Program_TKA 2 -
+/test/wp-includes/wlwmanifest.xml 2 -
+/shell 1 -
+/shop/e/e009001036001/ 6 -
+/Grand_Opening_Kantor_Pusat_Bimbel_Azwana_Wujud_Nyata_Pendidikan_dengan_Cinta_dan_Nilai_Spiritual 2 -
+/srv/.env 1 -
+/Try_Out_Bimbel_Azwana_di_Bulan_September_2025 3 -
+/shop/pg/1sancyoku/ 6 -
+/.vscode/sftp.json 1 -
+/Kelas_Privat_Online_Bahasa_Inggris_Hanya_50_Ribu_Solusi_Belajar_yang_Nyaman_danamp_Fokus_dari_Bimbel_Azwana_Lampung 2 -
+/Cabang_Terbaik_Bimbel_Azwana_Dari_Periode_Juli_Sampai_September_Raih_Apresiasi 2 -
+/license.txt 2 -
+/Program_Calistung_Bimbel_Azwana_Bimbel_Calistung_Terbaik_untuk_Anak_Cepat_Membaca_Menulis_dan_Berhitung 2 -
+/Juara_Lomba_Mewarnai_Bersama_Si_Jaza_Merayakan_Kreativitas_dan_Semangat_Belajar_Sahabat_Azwana 2 -
+/Classmeeting_Kegiatan_Edukatif_Anak_yang_Positif_dan_Bermakna_Bimbel_Azwana_Di_Bandar_Lampung 4 -
+/HOLIDAY_CLASS 3 -
+/FileZilla.xml 1 -
+/Tingkatkan_Pemahaman_Matematika_dengan_Metode_Belajar_Terbaik 2 -
+/wordpress/wp-includes/wlwmanifest.xml 2 -
+/Empat_Staf_Azwana_Terima_Reward_Umroh_Sebagai_Bentuk_Apresiasi 3 -
+/Kelas_Online_Bahasa_Inggris_Anak_Terbaik_Upgrade_Skill_dari_Rumah_Bersama_Azwana 3 -
+/shop/userreview/write.aspx 7 -
+/admin.php 1 -
+/home/.env 1 -
+/information/privacy_policy.html 12 -
+/shop/cart/cart.aspx 6 -
+/.env2 1 -
+/.env.development 1 -
+/.env.orig 1 -
+/xmlrpc.php 2 -
+/.env~ 1 -
+/2020/wp-includes/wlwmanifest.xml 1 -
+/daftar/Program_EFK 2 -
+/web/.env 1 -
+/.env.production.bak 1 -
+/wfs 3 -
+/Belajar_Bahasa_Inggris_di_Usia_Dewasa_Siapa_Takut 2 -
+/Holiday_Class_with_Bimbel_Azwana_2025_%C3%A2%E2%82%AC%E2%80%9C_Liburan_Seru_dan_Bermakna 2 -
+/server/.env 1 -
+/ProfileBimbelAzwana 3 -
+/Serunya_Sahabat_Azwana_Berswafoto_Bareng_danquotJazadanquot_Maskot_Kesayangan_Bimbel_Azwana 2 -
+/shop/e/e009001044001/ 6 -
+/geoserver/web/ 2 -
+/Program_Baru_Kementerian_Pendidikan_Sekolah_Dasar_dan_Menengah__Tes_Kemampuan_Akademik 2 -
+/webshell.php 2 -
+/shop/order/make_estimate.aspx 16 -
+/txets.php 1 www.google.com
+/.env.example 1 -
+/.env.dist 1 -
+/shop/customer/bookmark_guest.aspx 6 -
+/www/.env 1 -
+/shop/wp-includes/wlwmanifest.xml 2 -
+/Kegiatan_Anak_Anak_Lulus_Final_Tes_Program_Belajar_English_For_Kids_di_Bimbel_Bandar_Lampung 9 -
+/daftar/Program_Bimbel_SD 35 -
+/iptac-00DF1D3726F2-WMP261200M8/S0001/4d48495c753337313534364041445f41757468656e7469636174696f6e--1773718113--3600--1773649988--d186d3817b2c678017ad4df7b4a2794ae202304ed69e2ec4bf29e174535e92fd/http://bimbelazwana.com/iptac-00DF1D372FB2-WMP261200N8/S0001/4d 1 https://www.google.com/
+/Belajar_Bahasa_Inggris_di_Kelas_Online_Why_Not 2 -
+/Evaluasi_Tasmi_Langkah_Menuju_Hafalan_yang_Lebih_Baik 3 -
+/wp/wp-includes/wlwmanifest.xml 2 -
+/Bimbel_Azwana_Kini_Bernaung_di_Bawah_Yayasan_Prestasi_Azwana_Indonesia 2 -
+/sitemap.xml.gz 2 -
+/Temukan_Cabang_Azwana_di_sekitar_rumahmu_Saatnya_Belajar_Cinta 2 -
+/Evaluasi_Tahdrib_Tashmih_Islamic_Learning_Bimbel_Azwana_Sebagai_Sistem_Kontrol_Mutu_dan_Evaluasi_Hafalan_Al_Quran 3 -
+/docker/.env.local 1 -
+/Serunya_Holiday_Class_Bimbel_Azwana_di_Jati_Argo_Belajar_Bermain_dan_Tumbuh_Bersama 2 -
+/shop/pg/1Sitemap/ 6 -
+/Siswa_Bimbel_Azwana_Jatimulyo_Raih_Juara_1_English_Olympiad_Tingkat_SMP_ 2 -
+/.env.backup 1 -
+/Pembagian_Rapor_di_Bimbel_Azwana_Lampung_Bentuk_Evaluasi_Akademik_Siswa_Selama_Satu_Semester 4 -
+/ows 2 -
+/q_auto/e7a7f107cd8d45c790892184a3ecd9b7_9366/3-STRIPES_COACH_JACKET_Beige_KE3597_42_detail.jpg 1 -
+/.envrc 1 -
+/geoserver/TestWfsPost 2 -
+/assets/plugins/jquery-file-upload/ 1 -
+/Tahsin_Bersama_Team_Bimbel_Azwana_Komitmen_Meningkatkan_Kualitas_Bacaan_Al-Qur%E2%80%99an_Secara_Rutin_dan_Terarah__ 1 -
+/Tahsin_Bersama_Team_Bimbel_Azwana_Komitmen_Meningkatkan_Kualitas_Bacaan_Al_Quran_Secara_Rutin_dan_Terarah__ 3 -
+/web/wp-includes/wlwmanifest.xml 2 -
+/Discover_the_Hidden_Stars_%C3%A2%E2%82%AC%E2%80%9C_Student_Talent_Show_English_for_Kids_Bimbel_Azwana 2 -
+/Pesantren_Kilat_Bimbel_Azwana_Bandar_Lampung 2 -
+/.env.json 1 -
+/contents/renga/ 11 -
+/Mewarnai_Bersama_Sijaza_di_Bimbel_Azwana_Kegiatan_Kreatif_Anak_TK_dan_SD_di_Lampung 4 -
+/Membangun_Budaya_Kerja_Positif_melalui_Training_Spiritual_Employee 3 -
+/shop/pg/1005024010/ 6 -
+/geoserver/j_spring_security_check 2 -
+/Menguatkan_Peran_Orang_Tua_dalam_Pendidikan_Anak_Kajian_Wali_Murid_Bimbel_Azwana_Cabang_RA_Basyid 2 -
+/blog/wp-includes/wlwmanifest.xml 2 -
+/Tryout_Sahabat_Azwana_Evaluasi_Belajar_Rutin_Untuk_Persiapan_Sumatif_Akhir_Semester 4 -
+/Selamat_Ini_Dia_Juara_Try_Out_2_Semester_2_Bimbel_Azwana_Part_2 2 -
+/Kajian_Rutin_Wali_Murid_Bimbel_Azwana_untuk_Meningkatkan_Pemahaman_Keislaman 5 -
+/daftar/Program_IL 2 -
+/.env_config 1 -
+/Bangga_Inilah_Juara_Try_Out_2_Semester_2_Bimbel_Azwana_Part_1 2 -
+/Belajar_Lebih_Dekat_Tumbuh_Lebih_Hebat_-_Manfaat_Program_Private_di_Bimbel_Azwana 3 -
+/2019/wp-includes/wlwmanifest.xml 2 -
+/Penelitian_Mahasiswi_UIN_Lampung_Ungkap_Strategi_Manajemen_Bimbel_Azwana 2 -
+/Tempat_Baru_Semangat_Baru_GRATIS_PENDAFTARAN_di_Bimbel_Azwana_Pusat_ 2 -
+/.env.old 1 -
+/website/wp-includes/wlwmanifest.xml 2 -
+/themes/tenant/css/purple-login.css 1 -
+/Bimbel_SMP_Solusi_Belajar_Efektif_dengan_Pendekatan_Learning_by_Loving 2 -
+/geoserver/wms 4 -
+/backend/.env 1 -
+/config/.env 1 -
+/var/www/.env 1 -
+/contents/reform/ 8 -
+/hg/ 12 -
+/Yuk_Kenalan_Sama_JAZA_Maskot_Bimbel_Azwana_yang_Penuh_Cinta 3 -
+/.env.bak 1 -
+/wp-login.php 2 -
+/Join_Our_Team_Open_Recruitment_for_All_Team_Bimbel_Azwana 3 -
+/.env.test 1 -
+/wp2/wp-includes/wlwmanifest.xml 2 -
+/geoserver/wfs 6 -
+/admin/.env 1 -
+/media/wp-includes/wlwmanifest.xml 1 -
+/images/branding/product_ios/3x/gsa_ios_60dp.png 1 -
+/shop/customer/bookmark.aspx 9 -
+/style.php 1 -
+/daftar/Program_Calistung 2 -
+/.env.production.local 1 -
+/wp-includes/js/jquery/jquery.js 2 -
+/Belajar_Bahasa_Inggris_Online_Cuma_99_Ribu_Yuk_Gabung_Sekarang_di_Kelas_Online_Azwana 2 -
+/sitemap.xml 2 -
+/daftar/Program_Full_Day_Class 3 -
+/EVALUASI_LEVEL_CALISTUNG 2 -
+/Layanan_Penuh_Kasih_Hasil_yang_Menginspirasi_Inilah_Cabang_Terbaik_Bimbel_Azwana_Periode_April-Juli 2 -
+/geoserver/ 2 -
+/cms/wp-includes/wlwmanifest.xml 2 -
+/2018/wp-includes/wlwmanifest.xml 1 -
+/.env_secret 1 -
+/robots.txt 364 http://www.bimbelazwana.com/robots.txt
+/Kajian_Rutin_Wali_Murid_dan_Syukuran_Menyatukan_Ilmu_Doa_dan_Kebersamaan 2 -
+/sitemap_index.xml 1 -
+/Program_Bimbel_SD_dan_SMP_Terbaik_di_Lampung_Bimbingan_Belajar_Berkualitas_Bersama_Bimbel_Azwana 3 -
+/shop/pg/1recruit/ 6 -
+/TalentShow_EFK 2 -
+/.env.local 1 -
+/Struktur_Organisasi 2 -
+/Aku_Lulus_Calistung_Perjalanan_Cinta_Belajar_Bersama_Azwana 2 -
+/Kegiatan_Lulus_Final_Tes_Program_Belajar_Anak_Anak_English_For_Kids_di_Bimbel_Bandar_Lampung 3 -
+//jp.php 2 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 57
+217.217.114.74 63 63 13745 20260324091444
+69.30.225.34 31 31 124095 20260331103802
+66.249.70.199 15 15 93057 20260331115656
+42.96.61.68 7 7 14735 20260303091551
+66.249.70.200 7 7 43399 20260331131130
+205.169.39.51 6 32 3600076 20260301171136
+66.249.71.196 5 5 31095 20260331104414
+66.249.71.194 5 5 31095 20260331130933
+66.249.70.201 4 4 24667 20260331115257
+218.226.121.141 2 2 436 20260320185348
+64.233.173.166 2 2 0 20260313134644
+119.170.27.63 2 2 0 20260313083348
+66.249.71.195 2 2 12438 20260331112305
+59.139.237.67 1 1 218 20260312201513
+161.35.58.239 1 1 0 20260312133703
+34.82.193.235 1 26 2669862 20260331190211
+161.35.152.61 1 2 35652 20260301235033
+153.129.177.6 1 1 0 20260311163227
+5.133.192.203 1 1 7337 20260331160326
+50.3.137.141 1 1 7337 20260331102316
+188.166.172.11 1 2 35652 20260301094409
+66.249.82.3 1 1 24983 20260324083553
+198.235.24.255 1 1 6931 20260331071237
+57.129.106.133 1 1 7337 20260331012234
+216.218.191.194 1 1 7337 20260331190207
+91.98.44.54 0 80 23581440 
+49.109.153.228 1 1 216 20260312204121
+75.76.58.8 1 1 38047 20260331103823
+198.235.24.111 1 1 38506 20260303082149
+217.178.25.149 1 1 30593 20260320111003
+160.249.42.107 1 1 219 20260324083551
+219.161.23.142 1 1 30951 20260319223312
+64.71.166.35 1 27 2248315 20260331162149
+49.51.243.95 1 1 18962 20260301001002
+150.109.230.210 1 1 7337 20260331170335
+133.201.30.32 1 1 220 20260318235053
+43.135.144.126 1 1 7416 20260301204346
+172.4.5.144 1 1 38047 20260331103902
+10.57.0.63 1 1 7337 20260331012515
+63.141.250.58 1 1 38506 20260303092645
+93.158.90.65 1 1 7416 20260303031339
+170.106.143.6 1 1 12780 20260331220026
+137.184.52.200 1 1 7337 20260331083640
+49.51.204.74 1 1 18157 20260331172716
+172.58.119.131 1 1 38047 20260331083521
+192.36.172.171 1 1 7416 20260301211645
+162.84.162.99 1 1 354 20260326134811
+170.106.148.137 1 1 7416 20260301202938
+100.15.6.121 1 1 353 20260304115457
+121.92.226.152 1 1 219 20260327180148
+144.125.114.203 1 1 220 20260323112507
+69.120.233.225 1 1 355 20260304072324
+43.152.72.244 1 1 7244 20260331212653
+147.185.132.192 1 1 6931 20260331071242
+198.235.24.205 1 1 38047 20260331045559
+112.138.70.132 1 1 30399 20260313202019
+66.249.82.4 1 1 24991 20260324083553
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 26
+20260301 12 40 3712590 7
+20260303 10 10 99163 7
+20260304 3 3 1075 3
+20260305 1 1 353 1
+20260306 1 1 353 1
+20260307 1 1 353 1
+20260309 1 1 353 1
+20260310 1 1 353 1
+20260311 3 3 571 3
+20260312 4 4 787 4
+20260313 6 6 30752 4
+20260314 1 1 353 1
+20260316 1 1 353 1
+20260317 1 1 353 1
+20260318 2 2 573 2
+20260319 5 5 32405 5
+20260320 3 3 31164 3
+20260321 1 1 353 1
+20260323 2 82 23582013 2
+20260324 67 67 64291 5
+20260325 1 1 353 1
+20260326 4 4 1427 3
+20260327 2 2 572 2
+20260328 1 1 353 1
+20260330 1 1 353 1
+20260331 59 110 5523659 33
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 5
+2mn-5mn 2
+1h+ 3
+0s-30s 86
+15mn-30mn 1
+30mn-1h 3
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 15
+/ 138 586448 49 48
+/index.php 39 285141 37 37
+/wfs 3 6315 2 1
+/wms 2 4210 2 2
+/ows 2 4210 0 1
+/webshell 1 6931 1 1
+/fonts/Metropolis/Metropolis-SemiBold.woff2 1 12984 0 0
+/fonts/Metropolis/Metropolis-Regular.woff2 1 12996 0 0
+/Menguatkan_Peran_Orang_Tua_dalam_Pendidikan_Anak_Kajian_Wali_Murid_Bimbel_Azwana_Cabang_RA_Basyid 1 18962 1 1
+/fonts/Metropolis/Metropolis-Bold.woff2 1 13036 0 0
+/fonts/Metropolis/Metropolis-Light.woff2 1 12824 0 0
+/shell 1 6931 1 1
+/kegiatan/ 1 12780 1 1
+/fonts/bootstrap-icons.woff2 1 92064 0 1
+/ProfileBimbelAzwana 1 18157 1 1
+END_SIDER
+
+# Payload Range - Payload Frequency
+BEGIN_FILESIZE 7
+500-1K 2
+0-44 633
+100-500 120
+5K+ 175715
+44-100 55
+2K-5K 13
+1K-2K 1029
+END_FILESIZE
+
+# Request Time Range - Request Time Frequency
+BEGIN_REQUESTTIME 0
+END_REQUESTTIME

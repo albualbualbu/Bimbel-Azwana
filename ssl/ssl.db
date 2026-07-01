@@ -1,0 +1,160 @@
+---
+files:
+  certificate:
+    _wildcard__bimbelazwana_com_b955b_7e1f5_1788859901_9cbdb5cbf5c9e17c56e95998acbfa92d:
+      created: '1781087413'
+      domains:
+        - "*.bimbelazwana.com"
+        - bimbelazwana.com
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: Cert for “bimbelazwana.com” 1781087413.0
+      id: _wildcard__bimbelazwana_com_b955b_7e1f5_1788859901_9cbdb5cbf5c9e17c56e95998acbfa92d
+      is_self_signed: 0
+      issuer.commonName: YR1
+      issuer.organizationName: Let's Encrypt
+      key_algorithm: rsaEncryption
+      modulus: b955b0fdaf0b091ea34efc11d2894035dd2ebf2d193c127d3b4f352d9157833dec8b8dbd8f4c5e09119f7004c3862ed1aedb58c0efa187498231851b6e94ea2cccff5dfe44161bd54106985e52e92a44d032563ef27dd36abcbd392cd35efe032ba1859bda660ed5c4ed8d4fac5e658c18f13cd80fc06c7daad611da77d171e533e0f616482363885205cf5eaebc446cd2a7656a25666d14579188e1163ffdfc6fc4b70e0e920750a89286c9d28c056424dbeed12b4fc4ddddcc232117eff31bade62d2757c7d3cecd8972508695b0448ba9ba90d7ed9d2105b19e495219e874e10dba98621af8f90a8dd3a5d0279347fb2c82b411ffa901ed8f470fd627e1f5
+      modulus_length: 2048
+      not_after: '1788859901'
+      not_before: '1781083902'
+      serial: 050abd49da11786cedad8c46dfd88ec607ad
+      signature_algorithm: sha256WithRSAEncryption
+      subject.commonName: "*.bimbelazwana.com"
+      validation_type: dv
+    _wildcard__bimbelazwana_com_bf57f_8e097_1783589076_24d5f51e425cc98c09cad66b81918b14:
+      created: '1775816589'
+      domains:
+        - "*.bimbelazwana.com"
+        - bimbelazwana.com
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: Cert for “bimbelazwana.com”
+      id: _wildcard__bimbelazwana_com_bf57f_8e097_1783589076_24d5f51e425cc98c09cad66b81918b14
+      is_self_signed: 0
+      issuer.commonName: R13
+      issuer.organizationName: Let's Encrypt
+      key_algorithm: rsaEncryption
+      modulus: bf57fe16d4cd3d85aebe18a6fa963db2da6da29afd55c54ee1271c86e5e72d4f4480790be37058e6f3e75dcd7382fc9d354b4c39b5f7942ec57b19bec3698ac57ad44f0e9e59cbd6a96e8ce01464ebe438e71e704df4b79d161f1295d5ab6ab1c0b5a49fbc96ea2fb936eab81e9b34c47ddfcad77051d4bb7dfd21a3a9337c573d77a94337b39df0aa5e28a3e319debaf4193c98012edb2e54cbbbb1da8c79f69e8f5caa7394c340e2f7838241f7483f8b4b16f12ea3156bff95e0beb3b305a5ecd83935fb584da3a37025a72324b2bd2efa2e50c434997607a967d3a98a6741ea2d8311e62c381fb96db84fcfcaab839502baa5b474951061e1699ec168e097
+      modulus_length: 2048
+      not_after: '1783589076'
+      not_before: '1775813077'
+      serial: 061c6674768babd4e87881e13c81c0c5af9c
+      signature_algorithm: sha256WithRSAEncryption
+      subject.commonName: "*.bimbelazwana.com"
+      validation_type: dv
+    bimbelazwana_com_caa3b_c4873_1773048696_475a7f1dbac1a59a7538831cce03c4a3:
+      created: '1765276208'
+      domains:
+        - "*.bimbelazwana.com"
+        - bimbelazwana.com
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: Cert for “bimbelazwana.com” 1765276208.0
+      id: bimbelazwana_com_caa3b_c4873_1773048696_475a7f1dbac1a59a7538831cce03c4a3
+      is_self_signed: 0
+      issuer.commonName: R13
+      issuer.organizationName: Let's Encrypt
+      key_algorithm: rsaEncryption
+      modulus: caa3ba9e7c68ac8ba3c304d704cc48930104f24aeedc5370eeb8e4d6da2c904a0a8a1741365a42da03bc003162616462a6bac001f9d2519f4d280dff792fe0c5ba824389e14a36b495a2e02e380808aa4840090cd3ca01a8cfe3a744a1d47497977029be003545880a9058ef9b878778950bc2cf7bf81b5650060f8f23c77e4b77f7f2e4ff38c954c8f32f62b7d66299ce917e8a12f5ab3a65adb792a2b467bba4963820f5252687011ced602184a2dd824ae6d4a5de0870ea544a64e0168effc1733268a6bfc612f355456e54a391016442ca858676a4b918d44b1513bf6dfb1893101bf44e3118ba2cb05bda6466085d7d9f9e0eb7237cf93df4f5da2c4873
+      modulus_length: 2048
+      not_after: '1773048696'
+      not_before: '1765272697'
+      serial: 06f7548d42437193591dd22f772275a15610
+      signature_algorithm: sha256WithRSAEncryption
+      subject.commonName: bimbelazwana.com
+      validation_type: dv
+    bimbelazwana_com_db407_b747b_1778318659_4ad606613676a1626c01abd436519f80:
+      created: '1770546171'
+      domains:
+        - "*.bimbelazwana.com"
+        - bimbelazwana.com
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: Cert for “bimbelazwana.com” 1770546171.0
+      id: bimbelazwana_com_db407_b747b_1778318659_4ad606613676a1626c01abd436519f80
+      is_self_signed: 0
+      issuer.commonName: R12
+      issuer.organizationName: Let's Encrypt
+      key_algorithm: rsaEncryption
+      modulus: db407f845c6857fbed28bfffeccdde371f7cc2351d2fff3b0667c1edd3453fc4be51586980fada8f8ef821b9317eafcb106cfdca09d202de6b987a1c6717440c795058e351655cc77661b8fff7c4487e9ebfbf302729e80953a9e11f8c849d4e46fecc2e860d9d0516ca5aac4a0be8481edd28b85c4444b75e792aa6e63f1b681cc11e945e9fa2cd64141f6ca110b60cc9b0f280d24682508afdcb10b279be21d783cbd389c441f9a0c34395e04f889d70cc45982e3d7c61d2cf922ef25a604e85c9b513102c3dce5b823821d9c9bf67d15a9d48165b25e18749cd111da16cc8937d9065ed8a186759edabe10bd6bcc95837a8e82023dc4f67351f85c05b747b
+      modulus_length: 2048
+      not_after: '1778318659'
+      not_before: '1770542660'
+      serial: 05387e0eaf1458ab8487f19863a3d270743a
+      signature_algorithm: sha256WithRSAEncryption
+      subject.commonName: bimbelazwana.com
+      validation_type: dv
+  key:
+    b955b_7e1f5_b9fab60a822758a3a5d3336d3d9bb76d:
+      created: '1781087413'
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: Key for “bimbelazwana.com” 1781087413.0
+      id: b955b_7e1f5_b9fab60a822758a3a5d3336d3d9bb76d
+      key_algorithm: rsaEncryption
+      modulus: b955b0fdaf0b091ea34efc11d2894035dd2ebf2d193c127d3b4f352d9157833dec8b8dbd8f4c5e09119f7004c3862ed1aedb58c0efa187498231851b6e94ea2cccff5dfe44161bd54106985e52e92a44d032563ef27dd36abcbd392cd35efe032ba1859bda660ed5c4ed8d4fac5e658c18f13cd80fc06c7daad611da77d171e533e0f616482363885205cf5eaebc446cd2a7656a25666d14579188e1163ffdfc6fc4b70e0e920750a89286c9d28c056424dbeed12b4fc4ddddcc232117eff31bade62d2757c7d3cecd8972508695b0448ba9ba90d7ed9d2105b19e495219e874e10dba98621af8f90a8dd3a5d0279347fb2c82b411ffa901ed8f470fd627e1f5
+      modulus_length: 2048
+    bf57f_8e097_af179db73c84ffa40df11b6f410eef12:
+      created: '1775816589'
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: Key for “bimbelazwana.com”
+      id: bf57f_8e097_af179db73c84ffa40df11b6f410eef12
+      key_algorithm: rsaEncryption
+      modulus: bf57fe16d4cd3d85aebe18a6fa963db2da6da29afd55c54ee1271c86e5e72d4f4480790be37058e6f3e75dcd7382fc9d354b4c39b5f7942ec57b19bec3698ac57ad44f0e9e59cbd6a96e8ce01464ebe438e71e704df4b79d161f1295d5ab6ab1c0b5a49fbc96ea2fb936eab81e9b34c47ddfcad77051d4bb7dfd21a3a9337c573d77a94337b39df0aa5e28a3e319debaf4193c98012edb2e54cbbbb1da8c79f69e8f5caa7394c340e2f7838241f7483f8b4b16f12ea3156bff95e0beb3b305a5ecd83935fb584da3a37025a72324b2bd2efa2e50c434997607a967d3a98a6741ea2d8311e62c381fb96db84fcfcaab839502baa5b474951061e1699ec168e097
+      modulus_length: 2048
+    caa3b_c4873_f1b545370b48904d816311e9f1080a4d:
+      created: '1765276208'
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: Key for “bimbelazwana.com” 1765276208.0
+      id: caa3b_c4873_f1b545370b48904d816311e9f1080a4d
+      key_algorithm: rsaEncryption
+      modulus: caa3ba9e7c68ac8ba3c304d704cc48930104f24aeedc5370eeb8e4d6da2c904a0a8a1741365a42da03bc003162616462a6bac001f9d2519f4d280dff792fe0c5ba824389e14a36b495a2e02e380808aa4840090cd3ca01a8cfe3a744a1d47497977029be003545880a9058ef9b878778950bc2cf7bf81b5650060f8f23c77e4b77f7f2e4ff38c954c8f32f62b7d66299ce917e8a12f5ab3a65adb792a2b467bba4963820f5252687011ced602184a2dd824ae6d4a5de0870ea544a64e0168effc1733268a6bfc612f355456e54a391016442ca858676a4b918d44b1513bf6dfb1893101bf44e3118ba2cb05bda6466085d7d9f9e0eb7237cf93df4f5da2c4873
+      modulus_length: 2048
+    db407_b747b_8885489864ef8065b70a267475c633a8:
+      created: '1770546171'
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: Key for “bimbelazwana.com” 1770546171.0
+      id: db407_b747b_8885489864ef8065b70a267475c633a8
+      key_algorithm: rsaEncryption
+      modulus: db407f845c6857fbed28bfffeccdde371f7cc2351d2fff3b0667c1edd3453fc4be51586980fada8f8ef821b9317eafcb106cfdca09d202de6b987a1c6717440c795058e351655cc77661b8fff7c4487e9ebfbf302729e80953a9e11f8c849d4e46fecc2e860d9d0516ca5aac4a0be8481edd28b85c4444b75e792aa6e63f1b681cc11e945e9fa2cd64141f6ca110b60cc9b0f280d24682508afdcb10b279be21d783cbd389c441f9a0c34395e04f889d70cc45982e3d7c61d2cf922ef25a604e85c9b513102c3dce5b823821d9c9bf67d15a9d48165b25e18749cd111da16cc8937d9065ed8a186759edabe10bd6bcc95837a8e82023dc4f67351f85c05b747b
+      modulus_length: 2048
+indexes:
+  certificate:
+    modulus:
+      b955b0fdaf0b091ea34efc11d2894035dd2ebf2d193c127d3b4f352d9157833dec8b8dbd8f4c5e09119f7004c3862ed1aedb58c0efa187498231851b6e94ea2cccff5dfe44161bd54106985e52e92a44d032563ef27dd36abcbd392cd35efe032ba1859bda660ed5c4ed8d4fac5e658c18f13cd80fc06c7daad611da77d171e533e0f616482363885205cf5eaebc446cd2a7656a25666d14579188e1163ffdfc6fc4b70e0e920750a89286c9d28c056424dbeed12b4fc4ddddcc232117eff31bade62d2757c7d3cecd8972508695b0448ba9ba90d7ed9d2105b19e495219e874e10dba98621af8f90a8dd3a5d0279347fb2c82b411ffa901ed8f470fd627e1f5:
+        _wildcard__bimbelazwana_com_b955b_7e1f5_1788859901_9cbdb5cbf5c9e17c56e95998acbfa92d: ~
+      bf57fe16d4cd3d85aebe18a6fa963db2da6da29afd55c54ee1271c86e5e72d4f4480790be37058e6f3e75dcd7382fc9d354b4c39b5f7942ec57b19bec3698ac57ad44f0e9e59cbd6a96e8ce01464ebe438e71e704df4b79d161f1295d5ab6ab1c0b5a49fbc96ea2fb936eab81e9b34c47ddfcad77051d4bb7dfd21a3a9337c573d77a94337b39df0aa5e28a3e319debaf4193c98012edb2e54cbbbb1da8c79f69e8f5caa7394c340e2f7838241f7483f8b4b16f12ea3156bff95e0beb3b305a5ecd83935fb584da3a37025a72324b2bd2efa2e50c434997607a967d3a98a6741ea2d8311e62c381fb96db84fcfcaab839502baa5b474951061e1699ec168e097:
+        _wildcard__bimbelazwana_com_bf57f_8e097_1783589076_24d5f51e425cc98c09cad66b81918b14: ~
+      caa3ba9e7c68ac8ba3c304d704cc48930104f24aeedc5370eeb8e4d6da2c904a0a8a1741365a42da03bc003162616462a6bac001f9d2519f4d280dff792fe0c5ba824389e14a36b495a2e02e380808aa4840090cd3ca01a8cfe3a744a1d47497977029be003545880a9058ef9b878778950bc2cf7bf81b5650060f8f23c77e4b77f7f2e4ff38c954c8f32f62b7d66299ce917e8a12f5ab3a65adb792a2b467bba4963820f5252687011ced602184a2dd824ae6d4a5de0870ea544a64e0168effc1733268a6bfc612f355456e54a391016442ca858676a4b918d44b1513bf6dfb1893101bf44e3118ba2cb05bda6466085d7d9f9e0eb7237cf93df4f5da2c4873:
+        bimbelazwana_com_caa3b_c4873_1773048696_475a7f1dbac1a59a7538831cce03c4a3: ~
+      db407f845c6857fbed28bfffeccdde371f7cc2351d2fff3b0667c1edd3453fc4be51586980fada8f8ef821b9317eafcb106cfdca09d202de6b987a1c6717440c795058e351655cc77661b8fff7c4487e9ebfbf302729e80953a9e11f8c849d4e46fecc2e860d9d0516ca5aac4a0be8481edd28b85c4444b75e792aa6e63f1b681cc11e945e9fa2cd64141f6ca110b60cc9b0f280d24682508afdcb10b279be21d783cbd389c441f9a0c34395e04f889d70cc45982e3d7c61d2cf922ef25a604e85c9b513102c3dce5b823821d9c9bf67d15a9d48165b25e18749cd111da16cc8937d9065ed8a186759edabe10bd6bcc95837a8e82023dc4f67351f85c05b747b:
+        bimbelazwana_com_db407_b747b_1778318659_4ad606613676a1626c01abd436519f80: ~
+    subject.commonName:
+      "*.bimbelazwana.com":
+        _wildcard__bimbelazwana_com_b955b_7e1f5_1788859901_9cbdb5cbf5c9e17c56e95998acbfa92d: ~
+        _wildcard__bimbelazwana_com_bf57f_8e097_1783589076_24d5f51e425cc98c09cad66b81918b14: ~
+      bimbelazwana.com:
+        bimbelazwana_com_caa3b_c4873_1773048696_475a7f1dbac1a59a7538831cce03c4a3: ~
+        bimbelazwana_com_db407_b747b_1778318659_4ad606613676a1626c01abd436519f80: ~
+uniques:
+  certificate:
+    friendly_name:
+      Cert for “bimbelazwana.com”: _wildcard__bimbelazwana_com_bf57f_8e097_1783589076_24d5f51e425cc98c09cad66b81918b14
+      Cert for “bimbelazwana.com” 1765276208.0: bimbelazwana_com_caa3b_c4873_1773048696_475a7f1dbac1a59a7538831cce03c4a3
+      Cert for “bimbelazwana.com” 1770546171.0: bimbelazwana_com_db407_b747b_1778318659_4ad606613676a1626c01abd436519f80
+      Cert for “bimbelazwana.com” 1781087413.0: _wildcard__bimbelazwana_com_b955b_7e1f5_1788859901_9cbdb5cbf5c9e17c56e95998acbfa92d
+  key:
+    friendly_name:
+      Key for “bimbelazwana.com”: bf57f_8e097_af179db73c84ffa40df11b6f410eef12
+      Key for “bimbelazwana.com” 1765276208.0: caa3b_c4873_f1b545370b48904d816311e9f1080a4d
+      Key for “bimbelazwana.com” 1770546171.0: db407_b747b_8885489864ef8065b70a267475c633a8
+      Key for “bimbelazwana.com” 1781087413.0: b955b_7e1f5_b9fab60a822758a3a5d3336d3d9bb76d
+    modulus:ecdsa_curve_name:ecdsa_public:
+      b955b0fdaf0b091ea34efc11d2894035dd2ebf2d193c127d3b4f352d9157833dec8b8dbd8f4c5e09119f7004c3862ed1aedb58c0efa187498231851b6e94ea2cccff5dfe44161bd54106985e52e92a44d032563ef27dd36abcbd392cd35efe032ba1859bda660ed5c4ed8d4fac5e658c18f13cd80fc06c7daad611da77d171e533e0f616482363885205cf5eaebc446cd2a7656a25666d14579188e1163ffdfc6fc4b70e0e920750a89286c9d28c056424dbeed12b4fc4ddddcc232117eff31bade62d2757c7d3cecd8972508695b0448ba9ba90d7ed9d2105b19e495219e874e10dba98621af8f90a8dd3a5d0279347fb2c82b411ffa901ed8f470fd627e1f5: b955b_7e1f5_b9fab60a822758a3a5d3336d3d9bb76d
+      bf57fe16d4cd3d85aebe18a6fa963db2da6da29afd55c54ee1271c86e5e72d4f4480790be37058e6f3e75dcd7382fc9d354b4c39b5f7942ec57b19bec3698ac57ad44f0e9e59cbd6a96e8ce01464ebe438e71e704df4b79d161f1295d5ab6ab1c0b5a49fbc96ea2fb936eab81e9b34c47ddfcad77051d4bb7dfd21a3a9337c573d77a94337b39df0aa5e28a3e319debaf4193c98012edb2e54cbbbb1da8c79f69e8f5caa7394c340e2f7838241f7483f8b4b16f12ea3156bff95e0beb3b305a5ecd83935fb584da3a37025a72324b2bd2efa2e50c434997607a967d3a98a6741ea2d8311e62c381fb96db84fcfcaab839502baa5b474951061e1699ec168e097: bf57f_8e097_af179db73c84ffa40df11b6f410eef12
+      caa3ba9e7c68ac8ba3c304d704cc48930104f24aeedc5370eeb8e4d6da2c904a0a8a1741365a42da03bc003162616462a6bac001f9d2519f4d280dff792fe0c5ba824389e14a36b495a2e02e380808aa4840090cd3ca01a8cfe3a744a1d47497977029be003545880a9058ef9b878778950bc2cf7bf81b5650060f8f23c77e4b77f7f2e4ff38c954c8f32f62b7d66299ce917e8a12f5ab3a65adb792a2b467bba4963820f5252687011ced602184a2dd824ae6d4a5de0870ea544a64e0168effc1733268a6bfc612f355456e54a391016442ca858676a4b918d44b1513bf6dfb1893101bf44e3118ba2cb05bda6466085d7d9f9e0eb7237cf93df4f5da2c4873: caa3b_c4873_f1b545370b48904d816311e9f1080a4d
+      db407f845c6857fbed28bfffeccdde371f7cc2351d2fff3b0667c1edd3453fc4be51586980fada8f8ef821b9317eafcb106cfdca09d202de6b987a1c6717440c795058e351655cc77661b8fff7c4487e9ebfbf302729e80953a9e11f8c849d4e46fecc2e860d9d0516ca5aac4a0be8481edd28b85c4444b75e792aa6e63f1b681cc11e945e9fa2cd64141f6ca110b60cc9b0f280d24682508afdcb10b279be21d783cbd389c441f9a0c34395e04f889d70cc45982e3d7c61d2cf922ef25a604e85c9b513102c3dce5b823821d9c9bf67d15a9d48165b25e18749cd111da16cc8937d9065ed8a186759edabe10bd6bcc95837a8e82023dc4f67351f85c05b747b: db407_b747b_8885489864ef8065b70a267475c633a8

@@ -1,0 +1,1809 @@
+AWSTATS DATA FILE 8.0 (build 20240604)
+# If you remove this file, all statistics for date 202606 will be lost/reset.
+# Last config file used to build this data file was /home/bimbelaz/tmp/awstats/awstats.bimbelazwana.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2084                
+POS_TIME 2766                
+POS_VISITOR 26178               
+POS_DAY 46527               
+POS_DOMAIN 3698                
+POS_LOGIN 4253                
+POS_ROBOT 4408                
+POS_WORMS 5210                
+POS_EMAILSENDER 5341                
+POS_EMAILRECEIVER 5484                
+POS_SESSION 47307               
+POS_FILESIZE 56834               
+POS_REQUESTTIME 56982               
+POS_SIDER 47508               
+POS_FILETYPES 5619                
+POS_DOWNLOADS 5933                
+POS_OS 7599                
+POS_BROWSER 7883                
+POS_SCREENSIZE 9147                
+POS_UNKNOWNREFERER 9221                
+POS_UNKNOWNREFERERBROWSER 10155               
+POS_ORIGIN 10613               
+POS_SEREFERRALS 10752               
+POS_PAGEREFS 10896               
+POS_SEARCHWORDS 11105               
+POS_KEYWORDS 11257               
+POS_MISC 2430                
+POS_ERRORS 11316               
+POS_CLUSTER 4109                
+POS_SIDER_404 11465               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20260629185618 210 58086 17181000558302
+FirstTime 20260601000052
+LastTime 20260629170542
+LastUpdate 20260629233332 210 0 210 0 0
+TotalVisits 671                 
+TotalUnique 483                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 542                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+TotalMisc 0 0 0
+JavaEnabled 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+JavascriptDisabled 0 0 0
+RealPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 26 64 4391153 267 328 4107307
+1 26 129 78362447 312 350 3623618
+2 26 34 1202822 349 392 3431525
+3 22 25 687999 403 449 4762303
+4 17 20 1166575 3097 3225 25261446
+5 26 30 900948 2760 2785 18111129
+6 11 13 153989 2394 2562 16728991
+7 41 69 112815306 1817 1888 13201121
+8 49 55 603356 1440 1682 25007049
+9 48 50 508852 529 612 8674212
+10 42 45 851531 408 479 4006767
+11 52 138 48373297 481 831 11363221
+12 44 88 5854343 436 474 4145259
+13 56 160 60272128 494 519 4349994
+14 51 88 8087041 307 337 2220284
+15 55 85 2272755 449 480 5722490
+16 39 47 2000904 316 339 3397735
+17 57 69 1375946 375 412 7044546
+18 44 57 1574869 259 285 3054850
+19 20 21 320537 336 364 4552232
+20 31 33 439189 3101 3180 36018075
+21 10 11 1179061 1936 1996 14301766
+22 18 21 395354 1721 1744 10833124
+23 6 7 735335 1025 1087 8227531
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 24
+jp 372 373 4558471
+us 184 530 157356344
+cn 91 91 863749
+id 78 235 110317867
+ca 35 65 4884781
+se 16 16 115477
+nl 12 13 180117
+de 6 6 55011
+zz 4 4 51007
+fr 3 3 30294
+it 2 6 1867212
+ru 2 2 13312
+kr 2 4 70996
+in 1 1 6096
+rs 1 1 37562
+es 1 1 7238
+hu 1 1 7262
+gb 1 1 37405
+bg 1 1 7262
+fi 1 1 7135
+ro 1 1 11363
+eu 1 1 101652
+dk 1 1 7172
+be 0 1 28236
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 18
+Googlebot/ 25096 159022720 20260629185618 0
+link 106 1902815 20260621145640 0
+bingbot/ 80 13253183 20260629063705 0
+bot[\s_+:,\.\;\/\\-] 73 39754788 20260627093530 0
+scrapy 70 1224308 20260629165524 0
+CCBot/ 31 489327 20260615220308 0
+crawl 28 14980479 20260620071216 0
+Applebot/ 26 565472 20260623042151 0
+360Spider 14 100816 20260629175728 0
+checker 5 36172 20260621211311 0
+DuckDuckBot 4 70996 20260623055345 0
+Googlebot\-Image/ 4 84708 20260622095614 0
+Go\-http\-client/ 2 7262 20260613045518 0
+bingpreview 2 419272 20260612162529 0
+no_user_agent 1 988511 20260624072823 0
+survey 1 37562 20260608215923 0
+ruby/ 1 28236 20260606220447 0
+curl 1 7262 20260610221359 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 13
+Unknown 283 5548239 0 0
+woff 6 297756 0 0
+svg 2 2510 0 0
+html 477 4182711 0 0
+map 2 7294 0 0
+js 74 741323 0 0
+php 17 26922 0 0
+jpeg 138 35745593 0 0
+css 52 674224 0 0
+woff2 32 1019816 0 0
+jpg 209 140046432 0 0
+webp 5 1647536 0 0
+png 62 36779949 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 46
+/uploads/1749708256.mp4 0 1 295644
+/uploads/1753148397.mp4 0 1 262144
+/uploads/1747797622.mp4 0 1 331732
+/uploads/1772308508.mov 0 2 168432
+/uploads/1750479613.mp4 0 1 272648
+/uploads/1747997823.mp4 0 1 262144
+/uploads/1747278289.mp4 0 1 298420
+/uploads/1748679181.mp4 0 1 391416
+/uploads/1748670754.mp4 0 1 262144
+/uploads/1772433300.mov 0 18 5222031
+/uploads/1749789496.mp4 0 1 262144
+/uploads/1748413877.mp4 0 1 237206
+/uploads/1772179280.mp4 0 1 393216
+/uploads/1747378679.mp4 0 1 287316
+/uploads/1748396929.mp4 0 1 262144
+/uploads/1748335959.mp4 0 1 262144
+/uploads/1750153518.mp4 0 1 434806
+/uploads/1747623465.mp4 0 1 214539
+/uploads/1748070304.mp4 0 1 319240
+/uploads/1749027876.mp4 0 1 400944
+/uploads/1747449333.mp4 0 1 269872
+/uploads/1774020340.mp4 0 2 10548289
+/uploads/1772441734.mov 0 3 23880673
+/uploads/1750055864.mp4 0 1 500880
+/uploads/1736152724.mov 0 2 177030
+/uploads/1747818616.mp4 0 1 355328
+/uploads/1748326670.mp4 0 1 197096
+/uploads/1747469961.mp4 0 1 269872
+/uploads/1749623799.mp4 0 1 261544
+/uploads/1751266495.mp4 0 1 400944
+/uploads/1749540301.mp4 0 1 393216
+/uploads/1747882036.mp4 0 1 269872
+/uploads/1736151903.mov 0 2 217342
+/uploads/1748827900.mp4 0 1 227632
+/uploads/1772007857.mp4 0 1 435832
+/uploads/1773325064.mp4 0 5 1603392
+/uploads/1747645261.mp4 0 1 262144
+/uploads/1748240018.mp4 0 1 269872
+/uploads/1748084140.mp4 0 1 294256
+/uploads/1751355922.mp4 0 1 414224
+/uploads/1748234992.mp4 0 1 272648
+/uploads/1750325395.mp4 0 1 299808
+/uploads/1751446979.mp4 0 1 340660
+/uploads/1748659107.mp4 0 1 223468
+/uploads/1748949979.mp4 0 1 275424
+/uploads/1752651187.mp4 0 1 400944
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 15
+linuxubuntu 97 2
+ios_iphone 624 527
+Unknown 107 74
+winxp 1 1
+macosx13 7 6
+androidmarshmallow 41 6
+win8.1 1 1
+win10 130 95
+win7 18 18
+android 131 26
+macosx15 13 11
+android12 1 1
+macosx 3 3
+linux 143 32
+android10 115 14
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 61
+chrome120.0.0.0 3 3
+chrome138.0.0.0 1 1
+chrome19.0.1084.9 1 1
+safari13.0.3 515 514
+chrome31.0.1650.16 1 1
+chrome29.0.1547.66 1 1
+chrome129.0.0.0 3 2
+firefox72.0 94 0
+safari17.3.1 4 4
+chrome125.0.0.0 5 5
+chrome148.0.0.0 33 6
+firefox115 1 1
+mozilla 58 28
+safari17.0 1 1
+chrome19.0.1063.0 1 1
+chrome79.0.3945.130 2 2
+firefox142.0 14 7
+safari18.0 1 1
+chrome115.0.0.0 1 1
+chrome131.0.0.0 9 9
+safari17.5 1 1
+chrome124.0.0.0 18 10
+chrome91.0.4472.114 69 3
+firefox144.0 4 4
+chrome81.0.4044.122 1 1
+chrome141.0.0.0 5 1
+chrome142.0.0.0 24 13
+chrome119.0.0.0 1 1
+chrome88.0.4240.193 3 3
+chrome95.0.4638.69 1 1
+firefox123 2 2
+Unknown 46 45
+chrome37.0.2049.0 1 1
+chrome148.0.7778.215 33 6
+safari18.2 1 1
+netscape5.0 5 3
+firefox140.0 1 1
+chrome148.0.7778.211 89 11
+chrome145.0.0.0 1 1
+chrome128.0.0.0 1 1
+safari 1 1
+chrome130.0.0.0 2 2
+chrome79.0.3945.88 1 1
+firefox133.0 2 2
+firefox132.0 2 2
+chrome149.0.0.0 64 40
+opera116.0.0.0 3 3
+chrome149.0.7827.91 114 13
+safari18.1 1 1
+chrome140.0.0.0 2 2
+chrome123.0.0.0 7 7
+chrome80.0.3987.162 1 1
+firefox134.0 1 1
+chrome84.0.4147.89 1 1
+chrome122.0.0.0 4 4
+chrome50.0.2661.102 14 14
+chrome121.0.0.0 4 4
+safari15.4 103 7
+safari17.6 1 0
+chrome148.0.7778.96 41 6
+chrome68.0.3440.106 7 6
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 14
+Mozilla/5.0_(NextF-Detector) 20260606023841
+axios/1.15.0 20260628113522
+Mozilla/5.0_(compatible;_ips-agent) 20260609001652
+Hello_from_Palo_Alto_Networks,_find_out_more_about_our_scans_in_https://docs-cortex.paloaltonetworks.com/r/1/Cortex-Xpanse/Scanning-activity 20260628211913
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20260614100436
+Mozilla/5.0_(compatible;_Dataprovider.com) 20260626142946
+Mozilla/5.0_(compatible;_Let's_Encrypt_validation_server;__https://www.letsencrypt.org) 20260610173003
+Python/3.11_aiohttp/3.11.11 20260629111008
+Mozilla/5.0 20260607025123
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20260613183708
+Embarcadero_URI_Client/1.0 20260608073144
+python-requests/2.32.5 20260601012712
+Cpanel-HTTP-Client/1.0 20260610171718
+Faraday_v0.17.3 20260606220446
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 7
+python-requests/2.32.5 20260601012712
+Python/3.11_aiohttp/3.11.11 20260629111008
+Cpanel-HTTP-Client/1.0 20260610171718
+Faraday_v0.17.3 20260606220446
+Hello_from_Palo_Alto_Networks,_find_out_more_about_our_scans_in_https://docs-cortex.paloaltonetworks.com/r/1/Cortex-Xpanse/Scanning-activity 20260628211913
+axios/1.15.0 20260628113522
+Embarcadero_URI_Client/1.0 20260608073144
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 719 902
+From1 0 0
+From2 0 0
+From3 11 13
+From4 87 517
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 2
+http://m.facebook.com 11 11
+http://mail.bimbelazwana.com 0 2
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 6
+403 99 122958
+404 1096 86584
+302 5 0
+206 10 8936909
+500 4 0
+301 33 26235
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 661
+/old.tar 1 -
+/2024.tgz 1 -
+/phpMyAdmin-5.2.0 1 -
+/storage/logs/laravel.log 1 -
+/v1/graphql 1 -
+/adminer-4.8.1.php 1 -
+/vendor/phpunit/phpunit/phpunit.xsd 1 -
+/ms-themes.php 1 -
+/adminer-5.2.0-mysql.php 1 -
+/.vscode/sftp.json 1 -
+/vendor.tar.gz 1 -
+/2019/wp-includes/wlwmanifest.xml 2 -
+/admin/elfinder/php/connector.php 1 -
+/phpMyAdmin5.0.1 1 -
+/flower.php 1 -
+/bimbelazw.rar 1 -
+/public_html.bz 1 -
+/phpmyadmin2017/ 1 -
+/bimbelazwana.com_backup.tar.gz 1 -
+/bk.tar 1 -
+/bimbelaz.tgz 1 -
+/sitemap.txt 4 -
+/phpldapadmin/ 1 -
+/phpMyAdmin-4.7.7-all-languages 1 -
+/bim.tar.gz 1 -
+/bimbelazwana.com.backup.tar 1 -
+/static/fckeditor/editor/filemanager/browser/default/browser.html 1 -
+/daftar/Program_Private 13 -
+/phpMyAdmin-4.9.8-all-languages 1 -
+/2023.bak 1 -
+/config/application.properties 1 -
+/adminer.php 3 -
+/wordpress.tgz 1 -
+/public/.env 1 -
+/new.bak 1 -
+/blog/phpMyAdmin 1 -
+/backup.zip 1 -
+/.env.local 1 -
+/blog/phpmyadmin 1 -
+/news/wp-includes/wlwmanifest.xml 1 -
+/PMA/ 2 -
+/Pma/ 1 -
+/blog.bak 1 -
+/adminer-4.8.1-mysql.php 1 -
+/php.tgz 1 -
+/api/.env 1 -
+/firebase-config.json 1 -
+/bk.tgz 1 -
+/daftar/Program_Bimbel_SMP 13 -
+/phpMyAdmin-5.2 1 -
+/phpMyAdmin-4.6.1-all-languages 1 -
+/test/wp-includes/wlwmanifest.xml 2 -
+/Holiday_Class_with_Bimbel_Azwana_2025_%E2%80%93_Liburan_Seru_dan_Bermakna 7 -
+/adminer-4.7.7.php 1 -
+/Latest.tar.gz 1 -
+/app-config.json 1 -
+/aa.bak 1 -
+/httpdocs.tar 1 -
+/phpMyAdmin4.6 1 -
+/settings.json 1 -
+/bi.zip 1 -
+/2024.tar.gz 1 -
+/1.zip 1 -
+/phpmyadmin2018/ 1 -
+/latest.tgz 1 -
+/company.gz 1 -
+/2022.zip 1 -
+/master.tar 1 -
+/123.bz 1 -
+/website.bak 1 -
+/.aws/credentials 1 -
+/kegiatan/img/logowm.png 1 -
+/plugins/editors/jce/jce.xml 1 -
+/bolt.php 1 -
+/bkp.tar.gz 1 -
+/website.tar.gz 1 -
+/phpMyAdmin-5.1.1-all-languages 1 -
+/adminer-4.8.1-mysql-en.php 1 -
+/bimbe.tar.gz 1 -
+/FCKeditor/editor/filemanager/browser/default/browser.html 1 -
+/httpdocs.tgz 1 -
+/wp-admin/install.php 1 -
+/adminer-5.4.1-en.php 1 -
+/bimbel.tar.gz 1 -
+/bimbelazwana_com-old.tgz 1 -
+/phpMyAdmin5.1.4 1 -
+/phpMyAdmin5.2.0 1 -
+/bimbelazwana.com%20%282%29.tar.gz 1 -
+/full_backup.gz 1 -
+/.env.test 1 -
+/adminer-5.1.1-en.php 1 -
+/WEBSITE.tar.gz 1 -
+/shelp.php 1 -
+/api/v2/settings 1 -
+/adminer-5.4.0-mysql-en.php 1 -
+/wp-includes.zip 1 -
+/hdocs.tgz 1 -
+/.well-known/jwks.json 1 -
+/hdocs.bak 1 -
+/bimbelazwana.com-back.tar.gz 1 -
+/site.gz 1 -
+/public/fckeditor/editor/filemanager/browser/default/browser.html 1 -
+/cgi-bin.tgz 1 -
+/bak.tgz 1 -
+/bimbelazwana.tgz 2 -
+/WWWROOT.tar 1 -
+/httpd.tar 1 -
+/bimbelazwa.rar 1 -
+/phpMyAdmin-4.5.0-all-languages 1 -
+/bimbelazwana_com.gz 1 -
+/backup-bimbelazwana.com.tar 1 -
+/a.tar.gz 1 -
+/bimbelazwana.co.tgz 1 -
+/123456.tar.gz 1 -
+/Last.tgz 1 -
+/2023.bz 1 -
+/bkp.bz 1 -
+/app.tgz 1 -
+/phpMyAdmin-4.7.8-all-languages 1 -
+/.env.staging 1 -
+/bimbela.rar 1 -
+/sitemap_index.xml 2 -
+/file.php 1 -
+/adminer-4.7.5.php 1 -
+/bimbelazwana.backup.zip 1 -
+/wp-editor.php 1 -
+/api/v2/config 1 -
+/bimbelazw.tar 1 -
+/Web.tar.gz 1 -
+/includes.tar 1 -
+/xmlrpc.php 2 -
+/bimbelazwana.backup.rar 1 -
+/Last.tar.gz 1 -
+/adminer-5.0.0-en.php 1 -
+/adminer-4.6.2.php 1 -
+/Last.zip 1 -
+/2024.tar 1 -
+/runtime-config.js 1 -
+/cms.tar 1 -
+/my.gz 1 -
+/a.rar 1 -
+/wp.tgz 1 -
+/data.rar 1 -
+/web/wp-includes/wlwmanifest.xml 2 -
+/1234.gz 1 -
+/.env 3 -
+/phpMyAdmin-5.1.3-all-languages 1 -
+/lufix.php 1 -
+/adminpma/ 1 -
+/wp-includes/ID3/license.txt 1 -
+/bimbelazwana.c.rar 1 -
+/b.rar 1 -
+/phpmyadmin3/ 1 -
+/phpMyAdmin-4.9.1-all-languages 1 -
+/mydb.php 1 -
+/adminer-5.0.5.php 1 -
+/0.tar 1 -
+/wp-content/plugins/index.php 1 -
+/phpMyAdmin-4.6.5.1-all-languages 1 -
+/bimbelazwana.co.tar.gz 1 -
+/dbadmin/ 1 -
+/old.rar 1 -
+/adminer-5.4.0-en.php 1 -
+/bimbel.zip 1 -
+/aa.tgz 1 -
+/.well-known.gz 1 -
+/video/img/logo%20wm.png 2 -
+/bim.tgz 1 -
+/adminer-5.0.3-mysql.php 2 -
+/master.tar.gz 1 -
+/bk.bak 1 -
+/wp-includes.rar 1 -
+/old-bimbelazwana.com.tar.gz 1 -
+/adminer-5.0.2.php 1 -
+/adminer-5.0.4.php 1 -
+/wp-content/index.php 1 -
+/new_website.tgz 1 -
+/0.tgz 1 -
+/bimbelazwana.com3.tar.gz 1 -
+/adminer-4.7.2.php 1 -
+/config.js 1 -
+/shop/wp-includes/wlwmanifest.xml 2 -
+/vault.env 1 -
+/Archive.tar 1 -
+/blog/blog.gz 1 -
+/phpmyadmin2/ 1 -
+/bimbelaz.zip 1 -
+/wp-content/themes/txets.php 1 -
+/phpMyAdmin-4.7.6-all-languages 1 -
+/akcc.php 1 -
+/wwwroot.tgz 1 -
+/com.rar 1 -
+/a.bak 1 -
+/new.zip 1 -
+/wwwroot.gz 1 -
+/abc.rar 1 -
+/adminer-5.0.6-en.php 1 -
+/bimbelazwana.com_backup.tgz 1 -
+/wp.tar.gz 1 -
+/public_html.tar.gz 1 -
+/phpMyAdmin-4.8.3-all-languages 1 -
+/admin.tar 1 -
+/bimbelazwanabackup.tgz 1 -
+/bimbelazwana.com2.tgz 1 -
+/openapi.json 1 -
+/httpdocs.zip 1 -
+/assest.gz 1 -
+/aa.tar 1 -
+/back.rar 1 -
+/site.bak 1 -
+/bimbelazwana.com%20%281%29.tar 1 -
+/public_html.tar 1 -
+/adminer-5.0.3.php 2 -
+/db.php 1 -
+/php.tar.gz 1 -
+/adminer-5.0.1-en.php 1 -
+/.well-known/tdmrep.json 1 -
+/backup-bimbelazwana.com.tar.gz 1 -
+/bimbelazwana.co.zip 1 -
+/env.json 1 -
+/1.tar 1 -
+/adminer-5.0.4-mysql.php 1 -
+/cms.gz 1 -
+/admin/fckeditor/editor/filemanager/browser/default/browser.html 1 -
+/phpMyAdmin-4.7.4-all-languages 1 -
+/backup-bimbelazwana.com.tgz 1 -
+/phpmyadmin/ 1 -
+/daftar/Program_Calistung 13 -
+/wp-admin.tar.gz 1 -
+/fullbackup.tar 1 -
+/web1.zip 1 -
+/goods.php 1 -
+/old-website.tgz 1 -
+/sito/wp-includes/wlwmanifest.xml 1 -
+/website.tar 1 -
+/app.bz 1 -
+/test.bak 1 -
+/bimbelazwana.com1.tar.gz 1 -
+/last.tar 1 -
+/gifclass.php 1 -
+/robots.txt 264 -
+/bimbelazwana.com.tar.gz 1 -
+/phpMyAdmin-5.0.4 1 -
+/adminer-4.7.3.php 1 -
+/security.txt 1 -
+/bimbelazwana.com%20%282%29.tar 1 -
+/administrator/components/com_jce/jce.xml 1 -
+/wp-json/wp/v2/users 1 -
+/wp-includes.tgz 1 -
+/blog/blog.tgz 1 -
+/archive.tar.gz 1 -
+/com.zip 1 -
+/123456.tgz 1 -
+/bimbelazwana.com%20%283%29.tar 1 -
+/vendor.zip 1 -
+/public_html.rar 1 -
+/wp.rar 1 -
+/config.env 1 -
+/WEBSITE.tar 1 -
+/phpMyAdmin5.1.1 1 -
+/db/phpmyadmin 1 -
+/public.gz 1 -
+/bimbelazwana.com-back.tar 1 -
+/adminer-4.2.0.php 1 -
+/wp-content/plugins/hellopress/wp_mna.php 1 -
+/daftar/Program_IL 10 -
+/bimbelazwana.rar 1 -
+/server.env 1 -
+/dex.php 1 -
+/mysql-admin/ 2 -
+/1234.bz 1 -
+/back-bimbelazwana.com.tgz 1 -
+/mysql/ 1 -
+/wp-includes.tar.gz 1 -
+/secrets.yml 1 -
+/app.tar.gz 1 -
+/.env.bak 1 -
+/phpMyAdmin-5.1.4 1 -
+/bimbelazwana.tar.gz 1 -
+/hdocs.gz 1 -
+/phpMyAdmin-5.0.2-all-languages 1 -
+/bak.tar.gz 1 -
+/last.tgz 1 -
+/wp/wp-includes/wlwmanifest.xml 2 -
+/bimbel.tgz 1 -
+/new_website.tar 1 -
+/backup.tar.gz 1 -
+/123.tgz 2 -
+/www.bimbelazwana.com.tar 2 -
+/old_website.tar.gz 1 -
+/bimbe.rar 1 -
+/bimbelazwana_com.tgz 1 -
+/Web.tgz 1 -
+/plugins/system/jcemediabox/js/jcemediabox.js 1 -
+/new.gz 1 -
+/adminer-5.2.1.php 1 -
+/new_website.tar.gz 1 -
+/.env.old 1 -
+/a/pma/ 1 -
+/wp-admin/admin-ajax.php 1 -
+/adminer-4.3.1.php 1 -
+/daftar/Program_TKA 13 -
+/wp-includes/wlwmanifest.xml 1 -
+/old-website.tar 1 -
+/old_website.tar 1 -
+/backup-bimbelazwana.com.zip 1 -
+/bimbelazwana.backup.gz 1 -
+/bimbelazwana.com-back.zip 1 -
+/Latest.zip 1 -
+/llms.txt 1 -
+/.env.production 1 -
+/phpMyAdmin-4.5.4.1-all-languages 1 -
+/adminer-5.3.0-mysql.php 1 -
+/theme.tar 1 -
+/2.tar.gz 1 -
+/public_html.tgz 1 -
+/__adm.php 1 -
+/www.bimbelazwana.com.zip 2 -
+/wp2/wp-includes/wlwmanifest.xml 1 -
+/phpMyAdmin-5.1.0-all-languages 1 -
+/sqladmin/ 1 -
+/env.js 1 -
+/2021/wp-includes/wlwmanifest.xml 1 -
+/Phpmyadmin/ 1 -
+/adminer-5.3.0-mysql-en.php 1 -
+/admin/phpMyAdmin 1 -
+/config.json 1 -
+/api/settings 1 -
+/bimbelazwana.com%20%282%29.zip 1 -
+/bimbelazwana_com.tar 1 -
+/html.tar 1 -
+/bimbelazwana.co.tar 1 -
+/data.tar.gz 1 -
+/2023.gz 1 -
+/web.bz 1 -
+/bimbel.tar 1 -
+/code.gz 1 -
+/data.zip 1 -
+/Discover_the_Hidden_Stars_%E2%80%93_Student_Talent_Show_English_for_Kids_Bimbel_Azwana 4 -
+/bimbelazwana.com.backup.tar.gz 1 -
+/old-bimbelazwana.com.gz 1 -
+/bimbelazwana.com2.zip 1 -
+/site.zip 1 -
+/style.php 1 -
+/html.bak 1 -
+/bak.rar 1 -
+/app/.env 1 -
+/2025.gz 1 -
+/123.tar 1 -
+/__MACOSX.tar.gz 1 -
+/app.rar 1 -
+/.env.development 1 -
+/sitemaps.xml 2 -
+/2.tgz 1 -
+/bimbelazwana.com-backup.tar.gz 1 -
+/back-bimbelazwana.com.tar.gz 1 -
+/backend/.env 1 -
+/1234.tgz 1 -
+/admin/pma/ 1 -
+/adminer-5.0.1.php 1 -
+/bimbelazwana.com3.gz 1 -
+/test.tar.gz 1 -
+/my.bz 1 -
+/old-bimbelazwana_com.tgz 1 -
+/old-bimbelazwana.com.tgz 1 -
+/htdocs.tar 1 -
+/blurbs.php 1 -
+/.well-known.zip 1 -
+/123456.bak 1 -
+/website.gz 1 -
+/adminer-5.1.0-mysql.php 1 -
+/bimb.tgz 1 -
+/bimbelazwan.tar 1 -
+/adminer-5.4.1-mysql-en.php 1 -
+/bimbelazwana.com-old.zip 1 -
+/adminer-5.0.3-en.php 1 -
+/phpMyAdmin-4.8.0.1-all-languages 1 -
+/phpMyAdmin-5.0.1 1 -
+/assest.tar 1 -
+/home.rar 1 -
+/bimbelazwana.com.tgz 2 -
+/SQL.php 1 -
+/bimbelazwan.tar.gz 1 -
+/hdocs.tar 1 -
+/abc.bz 1 -
+/bimbelazwana.tar 1 -
+/wp-json/gravitysmtp/v1/tests/mock-data 2 -
+/insc.php 1 -
+/db/ 1 -
+/wp-content.zip 1 -
+/httpd.rar 1 -
+/bimbelazwa.zip 1 -
+/php.gz 1 -
+/bimbelazwana.com-backup.zip 1 -
+/bimb.tar.gz 1 -
+/bimbelazwana.com%20%281%29.tgz 1 -
+/adminer-5.0.5-mysql-en.php 1 -
+/wordpress.rar 1 -
+/bimbelazwana.com-old.tgz 1 -
+/cms/wp-includes/wlwmanifest.xml 2 -
+/archive.zip 1 -
+/wwwroot.tar 1 -
+/bimbelazw.tgz 1 -
+/adminer-4.6.0.php 1 -
+/site.tgz 1 -
+/admin.zip 1 -
+/httpdocs.gz 1 -
+/Web.tar 1 -
+/hg/ 11 -
+/2.gz 1 -
+/api/health 1 -
+/httpd.bak 1 -
+/httpd.tgz 1 -
+/server.zip 1 -
+/adminer-5.2.0-mysql-en.php 1 -
+/adminer-5.1.0.php 1 -
+/wp-admin/txets.php 1 -
+/bimbelazwana.com.tar 1 -
+/bimbela.tar 1 -
+/server.tar 1 -
+/web.rar 1 -
+/full_backup.tar.gz 1 -
+/.well-known/security.txt 4 -
+/bkp.bak 1 -
+/phpmyadmin-2/ 1 -
+/video/img/logowm.png 1 -
+/com.tar.gz 1 -
+/theme.zip 1 -
+/old-bimbelazwana.com.zip 1 -
+/_pma/ 1 -
+/bimbelazwa.tgz 1 -
+/bless.php 1 -
+/bimbelazwan.tgz 1 -
+/bimbelazwanabackup.gz 1 -
+/api/env 1 -
+/website.bz 1 -
+/test.tar 1 -
+/wordpress.tar 1 -
+/phpMyAdmin-5.1.1 1 -
+/txets.php 1 -
+/phpMyAdmin-4.7.2-all-languages 1 -
+/wordpress.zip 1 -
+/WWWROOT.zip 1 -
+/libraries/elfinder/elfinder.html 1 -
+/app.gz 1 -
+/application.properties 1 -
+/sitemap.xml 6 -
+/adminer-5.1.0-mysql-en.php 1 -
+/2020.bz 1 -
+/data.bak 1 -
+/a.tar 1 -
+/ioxi-o.php 1 -
+/wp-admin.gz 1 -
+/site.tar 1 -
+/webshell.php 8 -
+/phpMyAdmin5.2.1 1 -
+/pack.tgz 1 -
+/api/v1/config 1 -
+/bimbelazwana.com2.tar.gz 1 -
+/old-bimbelazwana_com.gz 1 -
+/wp-content.tar.gz 1 -
+/shell.php 8 -
+/bimbelazwana-backup.rar 1 -
+/chosen.php 1 -
+/public.tgz 1 -
+/bimbelazwana.combackup.zip 1 -
+/server.tgz 1 -
+/adminer-4.2.5.php 1 -
+/123456.gz 1 -
+/bkp.tar 1 -
+/web.zip 1 -
+/htdocs.zip 1 -
+/pack.tar.gz 1 -
+/bimbelazwana.com2.tar 1 -
+/WEBSITE.tgz 1 -
+/bimbelazwana.combackup.tgz 1 -
+/.env.dev 1 -
+/config.tgz 1 -
+/WEBSITE.gz 1 -
+/bimbelazwana.com1.zip 1 -
+/2019.zip 1 -
+/includes.gz 1 -
+/blog/wp-includes/wlwmanifest.xml 2 -
+/$%7Bitem.url%7D 2 -
+/0.tar.gz 1 -
+/bimbelazwana_com.tar.gz 1 -
+/cgi-bin.tar.gz 1 -
+/theme.tar.gz 1 -
+/wordpress.tar.gz 1 -
+/phpMyAdmin4.5 1 -
+/config/secrets.yml 1 -
+/adminer-5.3.0-en.php 1 -
+/wp-content/plugins/fix/up.php 1 -
+/api/v1/settings 1 -
+/phpMyAdmin-4.6.6-all-languages 1 -
+/php.rar 1 -
+/bimbelazwana.zip 1 -
+/my.rar 1 -
+/2024.gz 1 -
+/cgi-bin.bak 1 -
+/full_backup.tar 1 -
+/.env.example 1 -
+/2.zip 1 -
+/2022.gz 1 -
+/a.gz 1 -
+/api/config 1 -
+/2023.tgz 1 -
+/code.tgz 1 -
+/bak.tar 1 -
+/site.rar 1 -
+/phpMyAdmin-4.7.1-all-languages 1 -
+/phpMyAdmin-4.7.0-all-languages 1 -
+/bimbelazwana.com.bz 1 -
+/123.rar 1 -
+/app.tar 1 -
+/htdocs.rar 1 -
+/humans.txt 1 -
+/phpmanager/ 1 -
+/bimbelazwana.com-backup.tar 1 -
+/bi.tgz 1 -
+/daftar/Program_EFK 11 -
+/secrets.json 1 -
+/Web.zip 1 -
+/sftp-config.json 1 -
+/2022.bak 1 -
+/Archive.zip 1 -
+/site/wp-includes/wlwmanifest.xml 2 -
+/fullbackup.zip 1 -
+/latest.gz 1 -
+/bimbelazwana_com-old.tar 1 -
+/phpMyAdmin-5.0.0 1 -
+/backups.tar.gz 1 -
+/phpMyAdmin5.1.3 1 -
+/wp-includes/js/jquery/jquery.js 2 -
+/manifest.webmanifest 1 -
+/2024.bak 1 -
+/myadmin/ 1 -
+/archive.gz 1 -
+/wp-includes/txets.php 1 -
+/bk.gz 1 -
+/ads.txt 2 -
+/test.rar 1 -
+/sites.zip 1 -
+/old-bimbelazwana_com.tar 1 -
+/bak.bak 1 -
+/cord.php 1 -
+/bimbelazwana.com.zip 2 -
+/adminer-4.5.0.php 1 -
+/bimbe.tar 1 -
+/cms.tgz 1 -
+/var/phpmyadmin/ 1 -
+/www.bimbelazwana.com.gz 2 -
+/api/openapi.json 1 -
+/2025phpmyadmin/ 1 -
+/htdocs.tar.gz 1 -
+/sites.tar.gz 1 -
+/.env.backup 1 -
+/2025.bz 1 -
+/bimbela.tar.gz 1 -
+/bimbelazwana-backup.tar 1 -
+/website/wp-includes/wlwmanifest.xml 1 -
+/1234.rar 1 -
+/media/system/js/core.js 2 -
+/wwwroot.bak 1 -
+/2020/wp-includes/wlwmanifest.xml 2 -
+/phpMyAdmin-5.0 1 -
+/code.zip 1 -
+/abcd.php 1 -
+/bimbelazwana.com%20%281%29.zip 1 -
+/2023.zip 1 -
+/code.tar.gz 1 -
+/a.tgz 1 -
+/Web.rar 1 -
+/public/phpMyAdmin 1 -
+/bkp.gz 1 -
+/feed/ 1 -
+/old-bimbelazwana_com.zip 1 -
+/wwwroot.tar.gz 1 -
+/bimbelazwana.com3.tar 1 -
+/phpMyAdmin-5.0.0-alpha1-all-languages 1 -
+/bimbelazwana.bz 1 -
+/.well-known.tar 1 -
+/wp-admin/css/index.php 1 -
+/bimbelazwana.com2.gz 1 -
+/www.bimbelazwana.com.tgz 1 -
+/adminer-5.0.5-en.php 1 -
+/wordpress/ 1 -
+/wordpress/wp-includes/wlwmanifest.xml 2 -
+/WWW.zip 1 -
+/class-t.api.php 1 -
+/daftar/Program_Bimbel_SD 11 -
+/httpd.tar.gz 1 -
+/asd.zip 1 -
+/bimbelazwana.com%20%281%29.tar.gz 1 -
+/master.bak 1 -
+/phpMyAdmin-5.0.3-all-languages 1 -
+/cjfuns.php 1 -
+/com.tgz 1 -
+/file.zip 1 -
+/adminer-4.4.0.php 1 -
+/httpdocs.rar 1 -
+/bimbelazwana.c.tar 1 -
+/blog/blog.tar.gz 1 -
+/sitemap.xml.gz 2 -
+/application.yml 1 -
+/123.gz 1 -
+/old.tgz 1 -
+/phpMyAdmin5.1.0 1 -
+/old_website.gz 1 -
+/adminer-5.4.1-mysql.php 1 -
+/daftar/Program_Full_Day_Class 11 -
+/bimbelazwana_com-old.tar.gz 1 -
+/phpMyAdmin-5.1 1 -
+/adminer-5.1.1-mysql.php 1 -
+/bimbelazwana-backup.gz 1 -
+/2.tar 1 -
+/wp-login.php 2 -
+/wp-content.bak 1 -
+/fullbackup.tar.gz 1 -
+/admin.rar 1 -
+/adminer-db.php 1 -
+/bkp.rar 1 -
+/new_website.gz 1 -
+/phpMyAdmin-4.9.11-all-languages 1 -
+/pack.rar 1 -
+/Holiday_Class_with_Bimbel_Azwana_2025_%C3%A2%E2%82%AC%E2%80%9C_Liburan_Seru_dan_Bermakna 2 -
+/bimbelazwana.com-back.tgz 1 -
+/classwithtostring.php 1 -
+/bimbelazwana.com-old.tar 1 -
+/blog/blog.zip 2 -
+/Web.gz 1 -
+/.well-known.tgz 1 -
+/2023.tar 1 -
+/wp1/wp-includes/wlwmanifest.xml 2 -
+/asd.rar 1 -
+/Discover_the_Hidden_Stars_%C3%A2%E2%82%AC%E2%80%9C_Student_Talent_Show_English_for_Kids_Bimbel_Azwana 2 -
+/__/firebase/init.json 1 -
+/home.tar 1 -
+/admin/.env 1 -
+/adminer-5.0.0-mysql.php 1 -
+/adminer-5.0.2-mysql-en.php 1 -
+/__MACOSX.tgz 1 -
+/adminer-4.6.1.php 1 -
+/admin.tgz 1 -
+/.envrc 1 -
+/adminer-4.16.0.php 1 -
+/php.tar 1 -
+/phpMyAdmin-4.7 1 -
+/fullbackup.tgz 1 -
+/bimbelazwana.com-backup.gz 1 -
+/WWWROOT.gz 1 -
+//zwso.php 1 -
+/adminer-5.4.1.php 2 -
+/cgi-bin.tar 1 -
+/public.tar.gz 1 -
+/server.tar.gz 1 -
+/phpMyAdmin-4.6.0-rc1-all-languages 1 -
+/phpmyadmin5/ 1 -
+/bimbelazwanabackup.tar.gz 1 -
+/adminer-5.1.1.php 1 -
+/RDWeb/Pages/en-US/ 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 542
+203.83.36.76 21 39 594844 20260626154029
+143.20.97.115 21 23 355559 20260605204616
+114.10.103.146 18 24 268835 20260623085229
+110.137.36.8 13 114 58282738 20260624080702
+114.10.102.250 11 89 47095594 20260606110956
+149.56.160.252 11 11 663750 20260626142926
+101.50.1.94 9 9 576 20260610171718
+46.101.80.192 7 7 115894 20260627191844
+170.106.106.34 7 103 58711766 20260626130102
+114.10.100.103 6 33 4075280 20260611003513
+47.82.53.38 6 33 4075280 20260611124551
+134.122.8.19 6 8 281844 20260606220444
+144.217.135.164 6 32 4047262 20260626142946
+43.130.57.76 5 5 69536 20260627171222
+43.140.37.167 5 5 36015 20260627184702
+43.130.101.151 4 4 40825 20260626135137
+43.157.142.101 4 4 44872 20260613095526
+43.157.22.109 4 4 40495 20260629072820
+8.228.0.7 4 4 1773 20260619104303
+195.63.13.8 4 4 40511 20260627054247
+43.153.7.191 4 4 39831 20260628125707
+43.157.62.101 4 4 75737 20260627040104
+43.165.174.53 4 4 28762 20260629025738
+43.165.127.225 4 4 37600 20260624135006
+43.153.15.51 4 4 40702 20260621084942
+43.130.174.37 1 1 18978 20260610093445
+20.189.204.80 1 1 7262 20260601190613
+1.193.73.27 1 1 7262 20260613044114
+34.187.158.233 0 1 264709 
+198.235.24.75 1 1 37562 20260602235849
+216.131.86.80 1 1 6191 20260612232927
+108.162.227.42 1 1 18056 20260602050402
+34.182.123.159 0 1 5009 
+158.173.77.114 1 1 7172 20260603161048
+23.178.112.108 1 1 87 20260610173001
+43.157.98.187 1 1 7175 20260624110012
+146.56.197.150 2 2 14480 20260616000401
+43.164.3.182 3 3 32913 20260624082613
+49.51.183.75 1 1 18312 20260610090658
+119.28.100.147 1 1 7262 20260618050152
+43.162.103.165 3 3 44447 20260617212355
+43.153.135.208 2 2 26095 20260625141803
+34.83.240.63 0 1 669225 
+198.235.24.206 1 1 6931 20260615071056
+119.45.7.86 1 1 7156 20260627124906
+43.166.136.24 3 3 45327 20260626150708
+43.165.167.72 1 1 18101 20260603103542
+43.134.23.177 1 1 7156 20260628023114
+35.197.89.5 0 1 7933 
+124.156.206.78 1 1 7262 20260621123116
+124.222.230.178 1 1 7262 20260613092600
+66.249.68.66 1 16 190155 20260611122058
+43.134.5.186 1 1 7172 20260611212132
+123.207.65.62 1 1 7172 20260615122152
+43.159.148.221 1 1 7262 20260610231948
+3.217.128.115 1 1 7135 20260628042045
+49.51.243.95 1 1 713 20260610121654
+124.156.157.91 1 1 7175 20260619205051
+43.157.175.122 1 1 18567 20260606174014
+198.144.189.80 1 1 6191 20260622083223
+43.131.23.154 2 2 38498 20260626120936
+43.134.165.242 1 1 18254 20260612002311
+49.51.195.195 1 1 19152 20260605105601
+43.134.98.88 1 1 7262 20260610113238
+43.157.38.228 2 2 24823 20260614105300
+205.210.31.107 1 1 37405 20260627180443
+35.203.141.247 0 1 1078475 
+43.159.138.217 1 1 18980 20260606142529
+13.220.20.161 1 1 7092 20260629170542
+43.159.141.150 2 2 37323 20260628135149
+34.83.188.108 0 1 5009 
+66.249.71.194 1 2 11409 20260612001902
+205.210.31.45 1 1 37562 20260623013541
+43.152.72.247 2 2 26035 20260616041503
+129.204.188.64 2 2 14480 20260618182210
+175.27.136.83 1 1 7262 20260606181208
+192.36.109.105 1 1 7172 20260618001536
+217.217.253.123 1 1 7238 20260609165215
+43.157.43.147 1 1 18945 20260626181801
+43.159.136.201 1 1 7262 20260606085656
+136.109.127.247 0 1 250939 
+170.106.165.186 1 1 7262 20260614050144
+43.157.50.58 2 2 26175 20260628034915
+34.82.178.191 0 1 124596 
+8.229.77.42 0 2 511942 
+43.166.240.231 1 1 18882 20260614150240
+43.157.168.43 1 1 19000 20260614151200
+43.164.196.47 2 2 14410 20260613101311
+43.153.67.21 1 1 7156 20260625173033
+43.156.116.44 1 1 18863 20260614152137
+192.144.148.122 2 2 14397 20260627073550
+101.32.49.171 1 1 19303 20260606182224
+198.235.24.3 1 1 37562 20260616155501
+49.51.72.236 1 1 18280 20260619112659
+34.87.93.229 1 1 7172 20260611071026
+106.52.49.148 1 1 7172 20260610234604
+34.169.144.48 0 1 223498 
+146.190.49.213 1 2 35498 20260621135531
+43.166.134.114 1 1 18380 20260620025232
+49.51.33.159 1 1 7172 20260613163347
+170.106.181.163 1 1 18638 20260627040941
+1.12.70.96 2 2 14328 20260626204824
+34.145.104.48 0 1 7933 
+43.166.244.66 1 1 18743 20260606120102
+162.14.114.97 1 1 7172 20260616052442
+43.135.36.201 1 1 18711 20260613103641
+43.166.224.244 3 3 45027 20260612022355
+49.51.141.76 1 1 7172 20260621102904
+162.62.213.165 3 3 36243 20260619114538
+43.134.94.96 2 2 25932 20260628014136
+43.134.163.229 1 1 18910 20260627163816
+43.133.66.51 2 2 26312 20260628063052
+43.130.139.136 1 1 7156 20260625014840
+43.131.36.84 2 2 20191 20260616010104
+170.106.72.93 1 1 18247 20260606104227
+65.21.133.106 1 1 37562 20260622182128
+198.235.24.127 1 1 6931 20260624072014
+43.166.242.189 1 1 19292 20260612014600
+136.117.18.61 0 1 143891 
+43.157.53.115 2 2 25692 20260626132357
+129.226.193.111 1 1 7092 20260628144229
+101.42.46.71 2 2 14291 20260628110213
+162.14.109.170 2 2 14434 20260620035708
+104.238.159.195 1 1 7262 20260606023841
+43.134.162.36 2 2 11672 20260610200135
+142.93.148.155 1 2 35328 20260626163037
+43.133.139.6 1 1 18789 20260627035138
+170.106.165.76 1 1 7175 20260606091033
+43.156.79.172 1 1 7092 20260625050548
+43.154.140.188 1 1 18284 20260603083353
+66.132.195.110 1 2 35498 20260607013504
+205.210.31.161 1 1 101539 20260628072251
+43.153.122.30 1 1 19210 20260614045128
+198.235.24.166 1 1 37562 20260613000038
+82.156.88.97 1 1 7262 20260605182632
+136.109.198.118 0 1 60944 
+43.130.72.40 3 3 44480 20260628214129
+34.168.78.106 0 2 541768 
+43.173.1.57 1 1 19138 20260606125055
+206.189.141.46 1 2 35498 20260613110935
+35.230.95.172 0 2 294746 
+60.20.50.37 1 1 7262 20260617041757
+192.36.109.125 1 1 7221 20260611221842
+43.128.67.187 2 2 37918 20260606115104
+150.109.46.88 1 1 19369 20260606134507
+43.131.50.47 1 1 7262 20260612130720
+52.0.245.198 1 1 7262 20260601171625
+146.56.199.139 2 2 14393 20260624185424
+43.128.156.124 1 1 7262 20260606103145
+43.130.111.40 1 1 18739 20260624190517
+91.231.89.122 1 1 37562 20260610180541
+82.156.116.86 1 1 7135 20260628223656
+170.106.35.153 1 1 7262 20260624133529
+43.135.144.81 1 1 18905 20260621181551
+170.106.110.146 1 1 12929 20260606165619
+5.133.192.189 1 1 7262 20260602135540
+170.106.143.6 3 3 45261 20260627041956
+205.210.31.211 1 1 37562 20260607055914
+198.235.24.80 1 1 6931 20260610071200
+150.109.10.41 2 2 26402 20260628223213
+164.132.172.225 1 2 35498 20260615221902
+8.229.194.101 0 1 60944 
+43.140.247.223 1 1 7262 20260618011530
+124.220.42.101 2 2 14524 20260621125322
+101.32.208.70 1 1 18535 20260614155042
+43.161.233.190 1 1 6512 20260610084351
+192.36.109.96 1 1 7238 20260621182831
+43.130.26.3 1 1 18830 20260606143648
+162.14.66.219 2 2 14500 20260618122819
+136.118.56.227 0 2 184495 
+13.61.100.187 1 1 7101 20260627201526
+43.153.107.22 1 1 18966 20260610105559
+43.156.41.180 1 1 18697 20260627194705
+43.157.170.126 2 2 14418 20260626034336
+162.62.213.187 1 1 18911 20260624193433
+43.160.241.129 1 1 7135 20260626172126
+43.153.104.196 1 1 1700 20260628142112
+43.159.62.163 1 1 18559 20260610104346
+43.130.154.56 2 2 7869 20260627184856
+188.166.39.93 1 2 35408 20260622144239
+198.235.24.99 1 1 6931 20260624072015
+195.96.139.159 1 1 7262 20260613183707
+49.51.204.74 1 1 7216 20260618140256
+136.109.139.114 0 1 277093 
+43.167.232.38 2 2 25883 20260627032023
+43.159.58.77 1 1 18739 20260605092234
+43.130.47.33 1 1 7221 20260614090050
+43.153.79.218 2 2 37370 20260628062255
+43.156.125.227 2 2 26874 20260606120852
+147.185.132.210 1 1 37405 20260628053124
+43.166.247.82 1 1 19531 20260626163408
+43.157.147.3 1 1 18947 20260610095326
+43.134.188.114 1 1 18840 20260614111517
+43.157.150.69 2 2 14524 20260613205526
+120.219.27.226 1 1 7262 20260601091501
+43.135.183.82 2 2 37797 20260610101503
+162.62.132.25 3 3 44629 20260626090844
+43.134.100.210 2 2 14524 20260611070045
+43.164.133.138 2 2 11401 20260625092202
+56.228.14.146 1 1 87 20260610173002
+164.92.83.175 1 2 35392 20260627162147
+43.133.220.37 1 1 7262 20260612004207
+43.157.46.118 2 2 14344 20260611203502
+8.229.161.217 0 1 6759 
+170.106.35.137 1 1 18924 20260612012330
+34.143.67.172 0 1 143891 
+43.164.197.117 1 1 18549 20260603182348
+39.101.94.145 1 1 7172 20260610161852
+67.205.190.41 1 2 35498 20260608150618
+43.134.36.238 1 1 713 20260614014628
+93.158.91.245 1 1 7262 20260614025326
+54.68.117.4 1 1 87 20260610173003
+49.51.73.183 1 1 19056 20260612013353
+43.135.148.92 1 1 7262 20260605134659
+1.14.110.85 1 1 7262 20260619105109
+43.157.148.38 2 2 5856 20260628004906
+205.210.31.103 1 1 6931 20260622071829
+43.135.211.148 1 1 7262 20260601021133
+129.226.93.214 2 2 14344 20260603144505
+49.51.36.179 1 1 7262 20260615210923
+198.235.24.93 1 1 37562 20260623134951
+43.157.174.69 3 3 56286 20260628051838
+43.130.53.252 1 1 7262 20260604125707
+8.231.130.31 0 1 5009 
+43.161.234.148 3 3 30806 20260626094838
+150.109.230.210 2 2 14310 20260625101552
+66.249.71.192 0 11 134643 
+68.183.12.66 1 2 35498 20260617090450
+192.36.109.104 1 1 7092 20260627153533
+170.106.37.134 1 1 7262 20260603101412
+43.136.86.241 1 1 7156 20260625171548
+205.210.31.158 1 1 37562 20260613152340
+172.70.208.88 1 1 18212 20260601143059
+49.233.45.47 1 1 7156 20260626095201
+34.127.51.66 0 1 164920 
+49.51.243.156 1 1 19393 20260626183838
+84.37.236.164 1 1 15897 20260624080047
+223.85.183.8 1 1 7262 20260606032810
+118.24.135.34 2 2 14524 20260613151817
+193.142.146.55 1 1 7262 20260616034825
+43.154.250.181 1 1 7262 20260610112600
+43.162.114.69 1 1 18983 20260613105133
+43.157.181.189 1 1 7135 20260628031458
+103.106.119.169 1 1 6096 20260625085938
+124.156.179.141 2 2 7934 20260627161737
+101.32.15.141 2 2 25172 20260619165742
+198.235.24.122 2 2 13862 20260622072146
+49.232.104.223 2 2 14418 20260626042859
+147.185.132.66 1 1 101530 20260628071057
+34.53.26.164 0 2 192122 
+142.93.247.132 1 2 35498 20260624150438
+205.210.31.84 1 1 37562 20260609145246
+43.159.46.41 1 1 18971 20260606172939
+66.249.68.67 1 9 81472 20260627012748
+1.15.52.154 1 1 7135 20260625060222
+170.106.167.214 2 2 38785 20260628025138
+43.133.187.11 1 1 12929 20260605090239
+185.6.11.146 1 1 7172 20260621143650
+35.252.95.42 0 1 264709 
+134.122.97.197 1 2 35498 20260610142837
+162.158.106.212 1 1 18180 20260601171341
+43.134.71.232 2 2 37389 20260606114007
+43.156.228.27 1 1 7262 20260606124644
+35.252.71.211 0 2 565118 
+170.106.72.178 2 2 14344 20260618131524
+34.71.15.216 1 1 7262 20260606070242
+43.164.192.151 2 2 14418 20260628134837
+43.156.117.41 1 1 7172 20260615202205
+95.181.238.26 1 1 7262 20260611114026
+43.157.95.239 1 1 7262 20260611032615
+43.165.170.119 3 3 45392 20260610161116
+49.51.233.46 1 1 7262 20260601110437
+49.51.252.146 2 2 37516 20260626152030
+101.32.244.128 1 1 18905 20260610170320
+43.166.246.180 1 1 18975 20260626131022
+43.159.63.116 2 2 26209 20260605102518
+43.164.0.21 1 1 7135 20260627093015
+170.106.160.90 1 1 7172 20260615124845
+43.165.195.234 2 2 25535 20260624141847
+43.134.224.16 2 2 26140 20260618020007
+43.153.208.49 1 1 7262 20260618011026
+49.51.52.250 1 1 18929 20260610110154
+34.57.255.74 1 1 7156 20260628124123
+223.88.239.236 1 1 7262 20260605034459
+43.155.140.157 2 2 23079 20260621130400
+198.235.24.37 1 1 37562 20260621013257
+49.51.47.100 1 1 18973 20260613165532
+43.135.182.43 1 1 7156 20260629120942
+101.33.80.42 1 1 7156 20260629155055
+49.51.132.100 1 1 7172 20260618091711
+43.133.69.37 3 3 33409 20260629163706
+43.152.72.244 1 1 7092 20260628181606
+54.179.172.56 1 1 87 20260610173002
+205.210.31.243 2 2 44493 20260615071208
+43.173.1.69 3 3 33449 20260625005935
+93.158.90.29 1 1 7262 20260603011349
+165.232.151.116 1 2 35371 20260628153654
+43.135.134.127 2 2 23340 20260628150126
+74.77.113.167 1 1 6191 20260611002735
+167.99.86.115 1 2 35498 20260606132839
+34.82.187.19 0 1 5009 
+198.235.24.242 1 1 6931 20260617071726
+43.130.72.177 1 1 19088 20260626115013
+109.172.93.44 1 1 6050 20260603220636
+34.53.45.158 0 1 168306 
+139.155.134.17 2 2 14524 20260615181313
+43.153.96.79 3 3 33321 20260626075108
+43.166.253.94 2 2 14434 20260606101227
+43.130.67.33 2 2 26217 20260626114211
+170.106.163.48 3 3 18696 20260628181011
+43.135.130.202 1 1 7262 20260601060928
+110.42.208.131 2 2 14500 20260607062739
+43.156.44.207 1 1 7262 20260621182525
+43.166.237.57 1 1 19082 20260603181403
+217.160.202.182 1 1 7238 20260601055245
+8.231.141.210 0 2 783279 
+119.91.20.139 1 1 7156 20260628163808
+43.134.104.17 1 1 7262 20260614095043
+43.130.78.203 1 1 7221 20260601082740
+93.158.92.11 1 1 7262 20260608093413
+34.169.1.45 0 1 124596 
+43.159.135.203 2 2 19663 20260628015013
+43.130.16.212 1 1 4245 20260606093218
+170.106.11.141 1 1 7262 20260621132226
+124.228.219.224 1 1 7262 20260615164132
+175.42.205.61 1 1 7262 20260613003834
+43.165.125.66 3 3 33635 20260625055640
+1.13.158.23 1 1 7262 20260624125314
+213.173.108.226 0 3 1824452 
+43.134.57.179 2 2 14524 20260616001315
+43.153.71.12 2 2 14437 20260614171007
+192.71.142.40 1 1 7262 20260611222016
+43.157.191.20 1 1 18108 20260621083811
+8.229.224.64 0 2 329840 
+8.229.188.178 0 2 460575 
+120.85.42.171 1 1 7172 20260606150228
+43.167.236.228 2 2 23165 20260626134123
+49.51.38.193 1 1 19421 20260628033853
+43.157.180.116 3 3 33932 20260614043733
+150.109.21.93 1 1 18833 20260603135240
+147.185.132.240 1 1 37562 20260621154349
+136.109.250.234 0 2 182493 
+43.153.35.128 2 2 14344 20260618175122
+66.132.195.93 1 2 35498 20260610090307
+106.54.62.156 2 2 14397 20260629085533
+43.156.36.169 1 1 4758 20260626121119
+43.159.62.129 1 1 7156 20260626225153
+43.166.7.113 1 1 19162 20260626124939
+58.253.230.181 1 1 7221 20260605183243
+152.42.200.25 3 3 112686 20260603011837
+43.130.37.243 2 2 14354 20260628131131
+43.153.54.14 2 2 37311 20260628151154
+136.117.183.49 0 1 85225 
+91.123.14.155 1 1 11363 20260624080035
+43.164.0.96 1 1 7262 20260614135905
+3.82.41.49 0 94 77069192 
+175.178.110.121 2 2 14291 20260629142315
+162.14.81.106 1 1 7172 20260605084931
+43.165.7.135 1 1 7135 20260627160326
+150.109.119.38 1 1 18733 20260603123704
+34.127.52.183 0 1 264709 
+34.168.7.168 0 1 669225 
+43.134.54.246 1 1 19887 20260628054059
+43.153.49.151 0 1 48528 
+43.167.241.46 2 2 14434 20260606094120
+49.51.72.76 1 1 17950 20260606110226
+137.184.163.174 1 2 35474 20260612141727
+34.168.223.34 1 1 803 20260618025049
+198.235.24.52 1 1 37405 20260628211913
+43.157.67.70 3 3 33791 20260628011917
+34.105.92.59 0 1 246161 
+8.229.1.191 0 1 245953 
+136.118.123.162 0 1 88707 
+35.252.133.34 0 1 106956 
+43.166.129.247 1 1 7262 20260615083853
+212.90.99.214 1 1 7135 20260629111008
+43.153.86.78 1 1 19169 20260621091017
+8.229.51.16 0 1 5009 
+192.71.2.56 1 1 7262 20260620002106
+43.157.153.236 1 1 19148 20260624145757
+43.130.150.80 1 1 18460 20260610124953
+43.157.188.74 1 1 7156 20260625182447
+87.236.176.75 0 1 28236 
+43.134.93.181 1 1 7172 20260613090012
+205.210.31.251 1 1 6931 20260617074436
+146.56.229.214 1 1 7262 20260614080355
+43.157.156.190 1 1 18582 20260628065848
+43.134.111.60 1 1 19254 20260605101432
+43.157.22.57 1 1 6569 20260614021802
+136.109.189.146 0 1 85225 
+170.106.163.84 1 1 19312 20260627180833
+43.157.95.131 1 1 7092 20260626085728
+141.98.11.224 1 1 37405 20260629062714
+52.71.149.115 1 1 7172 20260610064339
+209.205.239.55 1 1 37562 20260608073144
+43.166.136.202 3 3 45253 20260621080759
+124.221.163.189 1 1 7262 20260614024852
+93.158.90.70 1 1 7156 20260628162537
+143.198.137.108 1 2 35498 20260616140520
+43.164.131.148 2 2 25890 20260610103348
+43.130.116.87 1 1 7135 20260629111143
+159.223.12.226 1 2 35498 20260607124913
+49.51.245.241 1 1 7218 20260621085814
+34.83.19.43 0 1 106956 
+43.133.42.227 1 1 7262 20260612051954
+43.160.219.138 1 1 19702 20260614153159
+43.165.198.144 1 1 17910 20260621082846
+43.133.14.237 2 2 26346 20260628071120
+35.252.101.240 0 1 223498 
+43.135.142.7 1 1 7135 20260629063017
+34.82.86.2 0 1 168306 
+35.189.224.148 1 1 37562 20260617170949
+136.117.127.80 0 1 175060 
+72.13.46.10 3 3 32038 20260609001652
+43.166.226.57 2 2 22529 20260624142944
+49.51.253.26 1 1 19176 20260628042039
+129.226.209.117 1 1 7262 20260613110558
+8.231.136.205 0 1 130486 
+49.51.166.228 2 2 2261 20260626113505
+43.155.27.244 2 2 25990 20260628024015
+43.130.31.17 2 2 37609 20260627034201
+205.210.31.146 1 1 37562 20260615151240
+106.52.216.13 1 1 7156 20260627023950
+43.159.34.167 2 2 26491 20260627162649
+62.141.44.236 1 1 7262 20260623184023
+43.130.16.140 3 3 44374 20260628133921
+109.199.118.129 1 1 7262 20260612044326
+119.28.177.175 1 1 7172 20260619213801
+43.153.47.201 2 2 25969 20260606141307
+182.86.131.67 1 1 7262 20260603030915
+147.185.132.156 1 1 101530 20260628071710
+43.166.131.228 1 1 18555 20260603145637
+1.80.118.47 1 1 7262 20260614102030
+35.252.189.33 0 1 209636 
+122.51.236.174 1 1 7262 20260612012056
+43.166.238.12 3 3 28289 20260626113359
+49.51.50.147 2 2 20191 20260618100804
+43.153.10.83 1 1 7172 20260621085958
+43.135.182.95 3 3 45894 20260628043058
+43.161.224.78 2 2 14524 20260610164517
+159.203.31.137 1 2 35408 20260603192605
+147.185.132.103 1 1 6931 20260613073615
+192.36.109.128 1 1 7092 20260625163330
+43.159.128.237 3 3 44735 20260613100700
+43.130.141.193 2 2 25145 20260628141036
+120.239.16.53 1 1 7172 20260604111200
+43.133.91.48 2 2 26566 20260628153017
+168.144.112.84 1 2 35498 20260622153714
+43.165.126.130 2 2 25438 20260617221455
+43.159.61.24 1 1 18959 20260603172247
+170.106.187.106 4 4 41067 20260627195555
+43.153.113.127 1 1 6512 20260606112138
+43.131.39.179 3 3 33725 20260620025919
+43.165.167.69 4 4 40849 20260624170303
+43.156.43.123 1 1 19375 20260603180254
+129.226.94.52 1 1 19131 20260605100550
+43.156.204.134 1 1 18760 20260606123938
+8.229.87.113 0 1 7433 
+43.153.26.165 1 1 713 20260603155644
+43.156.66.8 1 1 7262 20260610082811
+43.133.41.88 1 1 18956 20260603164302
+34.105.42.207 0 1 184689 
+43.157.38.131 1 1 7262 20260612010800
+43.130.102.223 3 3 45126 20260627044942
+129.226.210.142 1 1 7172 20260603091647
+119.28.89.249 3 3 45672 20260621175526
+43.166.247.155 1 1 7262 20260616050237
+43.159.149.216 3 3 22651 20260628132139
+170.106.180.139 1 1 18655 20260606131448
+43.159.140.236 1 1 18284 20260620022809
+170.106.193.108 2 2 25648 20260624095720
+205.210.31.60 1 1 37405 20260628152834
+162.158.162.157 1 1 18272 20260601170004
+167.71.131.166 1 2 35457 20260620133940
+43.133.253.253 2 2 26364 20260628171733
+147.185.132.84 1 1 101539 20260628072955
+165.227.70.220 1 2 35498 20260614153028
+43.164.129.191 1 1 18748 20260610102350
+43.156.67.44 2 2 26154 20260606172149
+43.157.179.227 1 1 7172 20260603114240
+35.217.37.212 3 11 91444 20260619183406
+43.155.157.239 1 1 18655 20260612015206
+43.165.197.116 2 2 26109 20260619113836
+43.159.152.187 1 1 7172 20260613102536
+43.131.32.36 2 2 25931 20260627174950
+43.160.240.216 1 1 7238 20260619133505
+141.101.97.2 1 1 101652 20260603214249
+43.130.102.7 1 1 18215 20260621174537
+43.161.251.162 1 1 12929 20260624135913
+43.128.149.102 1 1 18581 20260606105146
+34.11.224.216 0 1 1078475 
+10.57.0.63 1 1 7262 20260601012712
+170.106.180.153 1 1 7262 20260605080134
+43.157.52.37 1 1 18245 20260606122120
+43.138.68.113 2 2 14354 20260628004543
+32.196.198.163 1 1 7262 20260612073909
+170.106.65.93 2 2 37695 20260626131401
+43.160.219.206 1 1 7262 20260612000812
+205.210.31.87 1 1 6931 20260610073125
+1.193.125.16 1 1 7221 20260617041802
+34.53.83.224 0 2 215533 
+124.156.226.179 1 1 713 20260603134634
+43.153.87.54 2 2 26419 20260628031159
+43.157.20.63 1 1 18247 20260610083443
+110.172.98.2 2 4 70996 20260607025122
+34.19.114.118 0 2 877999 
+124.156.200.223 2 2 38035 20260619121539
+52.7.101.140 1 1 7262 20260612170800
+49.51.253.83 1 1 7262 20260621135602
+82.156.34.74 2 2 14418 20260629034140
+192.36.109.120 1 1 7238 20260615192922
+43.153.119.119 2 2 22718 20260628143217
+34.82.164.84 0 1 105307 
+43.156.225.86 1 1 18247 20260603100311
+49.51.233.95 2 2 14434 20260614011358
+43.166.142.76 1 1 19222 20260626165751
+43.157.172.39 1 1 18310 20260627160653
+66.249.68.68 3 3 18478 20260626035934
+43.165.4.2 2 2 20613 20260626091758
+100.26.35.196 1 1 6050 20260603125544
+66.132.224.226 1 2 35433 20260614100428
+192.36.109.108 1 1 7262 20260605231247
+43.164.190.124 2 2 14524 20260610122255
+42.235.55.248 1 1 7172 20260602023515
+43.167.239.66 2 2 7975 20260615164006
+43.166.226.186 2 2 25907 20260624103051
+43.166.244.251 1 1 19317 20260627191831
+10.57.0.244 1 1 6096 20260628113522
+43.166.255.102 1 1 18920 20260603104438
+43.156.51.128 2 2 26147 20260607071905
+43.153.62.161 1 1 7262 20260603125126
+43.131.45.213 1 1 18847 20260627200727
+43.153.74.75 2 2 38259 20260626180520
+35.252.141.163 0 1 60944 
+152.136.23.159 1 1 7238 20260601172909
+43.166.245.120 1 1 7092 20260625214739
+18.210.153.250 2 2 14459 20260611132533
+108.162.227.141 1 1 123384 20260602010840
+43.164.3.23 1 1 18882 20260610075350
+185.6.9.148 1 1 7262 20260623175932
+3.16.51.106 1 1 87 20260610173003
+129.226.83.4 1 1 17950 20260614102413
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 29
+20260601 27 28 256805 27
+20260602 5 5 193436 5
+20260603 62 63 999419 60
+20260604 10 10 72134 10
+20260605 41 70 6749484 21
+20260606 80 171 49870915 65
+20260607 9 12 180277 9
+20260608 3 5 1158797 3
+20260609 5 5 76838 3
+20260610 62 78 3302333 54
+20260611 28 107 10373421 18
+20260612 23 35 425977 23
+20260613 28 30 376399 27
+20260614 33 35 439835 33
+20260615 16 28 294436 16
+20260616 9 104 77192906 9
+20260617 8 9 115905 8
+20260618 15 15 101997 15
+20260619 21 29 235134 16
+20260620 11 12 135716 11
+20260621 31 32 377310 30
+20260622 6 8 128521 6
+20260623 22 28 358483 5
+20260624 42 71 112552528 30
+20260625 18 18 127301 18
+20260626 87 230 65298202 44
+20260627 44 48 1671162 35
+20260628 58 59 1157905 57
+20260629 13 14 302161 13
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 6
+30mn-1h 4
+5mn-15mn 2
+15mn-30mn 1
+30s-2mn 2
+2mn-5mn 1
+0s-30s 661
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 131
+/ 405 3876261 388 379
+/admin/ 25 23749 4 3
+/login/ 12 9056 8 9
+/admin/login.php 12 1186 0 0
+/video/ 11 80872 6 8
+/Spesial_Bulan_Juli_Bimbel_di_Azwana_biaya_pendaftarannya_GRATIS 10 187485 7 7
+/Struktur_Organisasi 9 161366 7 7
+/Visi_dan_Misi 9 164653 7 7
+/kegiatan/ 9 98442 8 9
+/Bimbel_Azwana_Mengucapkan_Selamat_Hari_Raya_Idul_Fitri_1447_H 9 163781 8 8
+/ProfileBimbelAzwana 8 143497 5 5
+/webshell 8 244664 8 8
+/shell 8 244646 8 8
+/Spesial_Hardiknas_GRATIS_Biaya_Pendaftaran_di_Bimbel_Azwana 8 150942 7 7
+/PENGUMUMAN_JUARA_TRY_OUT_1_SEMESTER_GENAP_2026 8 144701 7 5
+/program/ 7 29194 6 7
+/Libur_dalam_Rangka_Menyambut_Hari_Raya_Idul_Fitri_1447_H 7 128759 6 7
+/Evaluasi_Tasmi_Langkah_Menuju_Hafalan_yang_Lebih_Baik 6 113814 5 5
+/Mewarnai_Bersama_Sijaza_di_Bimbel_Azwana_Kegiatan_Kreatif_Anak_TK_dan_SD_di_Lampung 6 113401 6 6
+/promo/ 6 26426 6 6
+/Join_Our_Team_Open_Recruitment_for_All_Team_Bimbel_Azwana 5 178824 3 3
+/fonts/bootstrap-icons.woff2 5 460320 0 1
+/admin/admin.php 5 25736 0 0
+/.well-known/acme-challenge/629CoFNdsWm54nock7dtzho0MIhc6XZkH2klIWZ-lUs 5 435 5 5
+/fonts/Metropolis/Metropolis-Bold.woff2 5 65180 0 0
+/Cabang_Terbaik_Bimbel_Azwana_Dari_Periode_Juli_Sampai_September_Raih_Apresiasi 1 19024 1 0
+/.well-known/acme-challenge/NC8Q1M3CS7NLTS4VVFKWO5-Q1YNO02MB 1 64 0 0
+/Fondasi_Hebat_Dimulai_dari_Calistung_Kenapa_Bimbel_Azwana_Jadi_Pilihan_Tepat 1 18942 1 1
+/fonts/Metropolis/Metropolis-Light.woff 1 18056 1 1
+http://bimbelazwana.com/fonts/Metropolis/Metropolis-Light.woff2 1 12824 0 0
+/Pembagian_Rapor_di_Bimbel_Azwana_Lampung_Bentuk_Evaluasi_Akademik_Siswa_Selama_Satu_Semester 1 18898 1 1
+http://bimbelazwana.com/fonts/Metropolis/Metropolis-SemiBold.woff2 1 12984 0 0
+/ALC_BimbelAzwana 3 58064 2 2
+/Kajian_Rutin_Wali_Murid_dan_Syukuran_Menyatukan_Ilmu_Doa_dan_Kebersamaan 2 37867 2 2
+/Pembagian_Map_Raport_Bimbel_Azwana_Bukan_Sekadar_Nilai_Tapi_Bukti_Cinta_dalam_Proses_Belajar 3 57954 3 3
+/UNDANGAN_KAJIAN_WALI_MURID 1 18430 1 1
+/./ProfileBimbelAzwana 1 103072 0 0
+/Siswa_Bimbel_Azwana_Jatimulyo_Raih_Juara_1_English_Olympiad_Tingkat_SMP_ 1 18929 1 1
+/Undangan_Kegiatan_Simulasi_dan_Motivasi_Menuju_TKA 1 18582 1 1
+/Layanan_Penuh_Kasih_Hasil_yang_Menginspirasi_Inilah_Cabang_Terbaik_Bimbel_Azwana_Periode_April-Juli 2 38088 2 2
+/Pra_Tryout_Sahabat_Azwana_Semester_2_di_Bandar_Lampung_2026_Persiapan_Sumatif_Akhir_Semester 1 19056 1 1
+/.well-known/acme-challenge/4V6EU86S4733L717N8XJJJ2Z6I9YOSP2 1 64 0 0
+/Belajar_Parenting_untuk_Masa_Depan_Anak_yang_Cemerlang_Bergabunglah_dengan_Kami 4 75952 3 3
+/Tempat_Baru_Semangat_Baru_GRATIS_PENDAFTARAN_di_Bimbel_Azwana_Pusat_ 2 38164 2 2
+/Kuasai_4_Skill_Bahasa_Inggris_Sejak_Dini_di_Bimbel_Azwana 2 38134 2 2
+/Temukan_Cabang_Azwana_di_sekitar_rumahmu_Saatnya_Belajar_Cinta 1 18549 1 1
+/.well-known/acme-challenge/UM228UXE5VYRKSKH1ZNQ3Q85Y8YOBF2Z 1 64 0 1
+/Warna-Warni_Ceria_Lomba_Mewarnai_Bersama_Si_Jaza_di_Bimbel_Azwana_Penuh_Cinta_danamp_Makna 1 19371 1 1
+/Selamat_Ini_Dia_Juara_Try_Out_2_Semester_2_Bimbel_Azwana_Part_2 4 77310 3 4
+/Kajian_Inspiratif_Bersama_Wali_Murid_Bimbel_Azwana_Way_Halim 2 38030 1 1
+/Program_Baru_Kementerian_Pendidikan_Sekolah_Dasar_dan_Menengah__Tes_Kemampuan_Akademik 1 18668 1 1
+/Penelitian_Mahasiswi_UIN_Lampung_Ungkap_Strategi_Manajemen_Bimbel_Azwana 1 19393 1 1
+/Kegiatan_Anak_Anak_Lulus_Final_Tes_Program_Belajar_English_For_Kids_di_Bimbel_Bandar_Lampung 1 19651 1 1
+/daftar/Program_Bimbel_SD 1 1611 1 1
+/TalentShow_EFK 5 95724 4 4
+/Kajian_Wali_Murid_Bimbel_Azwana_Orang_Tua_Belajar_Anak_Bahagia 2 38093 2 2
+/Meraih_Surga_dengan_Jalan_Menuntut_Ilmu_Kilas_Balik_Kegiatan_Tahsin_danamp_Pembagian_Raport_Tahsin_Team_Bimbel_Azwana 3 144754 1 2
+/fonts/bootstrap-icons.woff 1 123384 1 1
+/Belajar_Lebih_Dekat_Tumbuh_Lebih_Hebat_-_Manfaat_Program_Private_di_Bimbel_Azwana 2 37602 2 2
+/fonts/Metropolis/Metropolis-Regular.woff2 5 64980 0 0
+/daftar/Program_IL 1 1553 1 1
+/Selamat_Ini_Dia_Pemenang_Giveaway_Cabang_ke-11_Bagi-bagi_Marchandise_ 1 18559 1 1
+/Tryout_Sahabat_Azwana_Evaluasi_Belajar_Rutin_Untuk_Persiapan_Sumatif_Akhir_Semester 1 18911 1 1
+/Munaqosah_Team_Bimbel_Azwana_Evaluasi_Kompetensi_Pengajar_Islamic_Learning_untuk_Menjaga_Kualitas_Bacaan_Al_Quran 2 126131 1 1
+/Kajian_Rutin_Wali_Murid_Bimbel_Azwana_untuk_Meningkatkan_Pemahaman_Keislaman 2 38334 2 2
+http://bimbelazwana.com/fonts/bootstrap-icons.woff2 1 92064 0 1
+/Kajian_Rutin_Wali_Murid_Bersama_Ustadzah_Azizah_Astuti_S_HI_Senjata_Orang_Tua_dalam_Mendidik_Anak 4 75368 3 3
+/Goes_To_Nature_Bimbel_Azwana_Di_Lampung_Cara_Efektif_Mengembangkan_Karakter_Anak_Lewat_Belajar_di_Alam_ 1 19318 1 0
+/Kegiatan_Simulasi_dan_Motivasi_Menuju_TKA_Dipenuhi_Antsusias_Wali_Murid_dan_Sahabat_Azwana 1 18743 1 1
+/Tingkatkan_Pemahaman_Matematika_dengan_Metode_Belajar_Terbaik 3 56249 2 2
+/Islamic_Learning_Program_Bimbel_Azwana_Menanamkan_Cinta_Islam_Sejak_Dini_Lewat_Pembelajaran_yang_Penuh_Makna_ 3 56778 3 3
+/./ 1 37405 0 0
+/Bimbel_SMP_Solusi_Belajar_Efektif_dengan_Pendekatan_Learning_by_Loving 3 57920 3 3
+/Bimbel_Azwana_Gelar_Pra_Try_Out_untuk_Persiapan_Siswa_Hadapi_Try_Out_di_Bulan_September_2025 2 37430 2 2
+/Bimbel_Azwana_Kembali_Adakan_SImulasi_dan_Motivasi_Menuju_TKA 1 18575 1 1
+/Evaluasi_Level_Calistung_Bulan_September_2025 1 18711 1 1
+/Aku_Lulus_Calistung_Perjalanan_Cinta_Belajar_Bersama_Azwana 2 38462 2 2
+/Serunya_Sahabat_Azwana_Berswafoto_Bareng_danquotJazadanquot_Maskot_Kesayangan_Bimbel_Azwana 3 56307 3 3
+/fonts/Metropolis/Metropolis-Regular.woff 1 18180 1 1
+/fonts/Metropolis/Metropolis-SemiBold.woff 1 18212 1 1
+http://bimbelazwana.com/fonts/Metropolis/Metropolis-Bold.woff2 1 13036 0 0
+/.well-known/acme-challenge/5NK6FITGNN4-_1224C1UZ_IF73X8B1BS 1 64 0 0
+/daftar/Program_Bimbel_SMP 2 3096 2 2
+/Juara_Lomba_Mewarnai_Bersama_Si_Jaza_Merayakan_Kreativitas_dan_Semangat_Belajar_Sahabat_Azwana 1 19148 1 1
+/fonts/Metropolis/Metropolis-SemiBold.woff2 5 64920 0 1
+/Bangga_Inilah_Juara_Try_Out_2_Semester_2_Bimbel_Azwana_Part_1 2 38518 2 2
+/EVALUASI_LEVEL_CALISTUNG 1 18427 1 1
+/daftar/Program_Calistung 2 4510 2 2
+/.well-known/acme-challenge/9IK-0PBRS0-4WOP-AZDQJ34_J75BUSLY 1 64 0 0
+/Rehat_Sejenak_Kuatkan_Ikatan_Satukan_Visi_Serunya_Family_Gathering_Tim_Bimbel_Azwana_ke_Yogyakarta 2 38963 2 2
+/.well-known/acme-challenge/A9_UULJGWSZ9VPGBP2UT32KRFSMO8_CH 1 64 0 0
+/Belajar_Bahasa_Inggris_di_Kelas_Online_Why_Not 3 56807 3 3
+/Mengintip_Tren_Pendidikan_Terkini_Masa_Depan_Belajar_Ada_di_Sini 5 96716 4 4
+/Grand_Opening_Kantor_Pusat_Bimbel_Azwana_Wujud_Nyata_Pendidikan_dengan_Cinta_dan_Nilai_Spiritual 1 19424 1 1
+/Kegiatan_Malam_Bina_Iman_dan_Takwa_di_Bimbel_Azwana_Bandar_Lampung_Membangun_Karakter_dan_Kemandirian_Anak 2 37819 2 2
+/Kegiatan_Seru_di_Bimbel_Azwana_Cabang_Way_Halim_Belajar_Jadi_Menyenangkan 3 56960 3 3
+/vendor/fontawesome-free/webfonts/fa-solid-900.woff2 2 156392 0 1
+/Program_Bimbel_SD_dan_SMP_Terbaik_di_Lampung_Bimbingan_Belajar_Berkualitas_Bersama_Bimbel_Azwana 2 38407 2 2
+/Belajar_Bahasa_Inggris_di_Usia_Dewasa_Siapa_Takut 2 37591 2 2
+/Cabang_Terbaik_Bimbel_Azwana_Periode_Januari_April_2025_Konsisten_Memberikan_yang_Terbaik 2 37415 1 2
+/Pesantren_Kilat_Bimbel_Azwana_Spesial_Ramadhan_2026_Bertema_Aku_Cinta_Rasulullah_SAW 2 37188 2 2
+/.well-known/acme-challenge/8ZN60EBLYE2HQ8Q9RQG8BG-0FL-UZX6O 1 64 1 0
+/Merekatkan_Hati_Menguatkan_Iman_-_Spiritual_Education_Tim_Bimbel_Azwana 3 56213 3 3
+/HOLIDAY_CLASS 4 75938 3 3
+/Membangun_Budaya_Kerja_Positif_melalui_Training_Spiritual_Employee 2 38269 2 2
+/Islamic_Learning_Bimbel_Azwana 2 38449 2 2
+/Temukan_Solusi_Belajar_yang_Tepat_untuk_Anak_Ayah_Bunda 4 75675 4 4
+/Bimbel_Azwana_Kini_Bernaung_di_Bawah_Yayasan_Prestasi_Azwana_Indonesia 2 37578 2 2
+/./login/ 1 1306 0 0
+/.well-known/acme-challenge/FEXE9SLEENGA5_RM701K7678507GKSP3 1 64 0 0
+/14_Tahun_Tumbuh_Bersama_Bimbel_Azwana_Learning_by_Loving_ 2 37310 2 2
+/10_Tips_Belajar_Efektif_untuk_Sukses_di_Masa_Depan 4 78942 3 3
+/Yuk_Kenalan_Sama_JAZA_Maskot_Bimbel_Azwana_yang_Penuh_Cinta 5 93610 5 5
+/vendor/fontawesome-free/webfonts/fa-solid-900.woff 1 101652 1 1
+/.well-known/acme-challenge/530N9PP04KUU9D2XSG49I5B152_V0H6X 1 64 0 0
+/fonts/Metropolis/Metropolis-Bold.woff 1 18272 1 1
+/fonts/Metropolis/Metropolis-Light.woff2 5 64120 0 0
+/Tahsin_Bersama_Team_Bimbel_Azwana_Komitmen_Meningkatkan_Kualitas_Bacaan_Al_Quran_Secara_Rutin_dan_Terarah__ 3 146840 2 2
+/daftar/Program_Private 1 1700 1 1
+/Terima_Kasih_Open_House_Cabang_Karang_Anyar_Bimbel_Azwana_Berlangsung_Sukses 4 76186 3 3
+/daftar/Program_EFK 1 1552 1 1
+/Spesial_Opening_Bimbel_Azwana_Cabang_Teluk_Betung_Dapatkan_Gratis_Biaya_Pendaftaran 2 37191 1 1
+/Belajar_dan_Bertumbuh_Training_Internal_Tim_Hebat_Bimbel_Azwana 2 38704 2 2
+/Kegiatan_Holiday_Class_Bimbel_anak_anak_di_Lampung 1 19239 1 1
+/Azwana_Peduli_Palestina_Bukti_Nyata_Cinta_danamp_Kepedulian_dari_Bimbel_Azwana_untuk_Sesama 5 95972 5 5
+/login-assets/css/login.css.map 2 7294 0 1
+http://bimbelazwana.com/fonts/Metropolis/Metropolis-Regular.woff2 1 12996 0 0
+/Evaluasi_Tahdrib_Tashmih_Islamic_Learning_Bimbel_Azwana_Sebagai_Sistem_Kontrol_Mutu_dan_Evaluasi_Hafalan_Al_Quran 2 37865 2 2
+/Kelas_Privat_Online_Bahasa_Inggris_Hanya_50_Ribu_Solusi_Belajar_yang_Nyaman_danamp_Fokus_dari_Bimbel_Azwana_Lampung 4 75679 3 3
+/Alasan_Kenapa_Adik_Harus_Bimbel_di_Azwana 1 18581 1 1
+/Kelas_Online_Bahasa_Inggris_Anak_Terbaik_Upgrade_Skill_dari_Rumah_Bersama_Azwana 1 18952 1 1
+END_SIDER
+
+# Payload Range - Payload Frequency
+BEGIN_FILESIZE 7
+5K+ 26448
+0-44 16
+2K-5K 49
+44-100 1123
+500-1K 82
+100-500 162
+1K-2K 352
+END_FILESIZE
+
+# Request Time Range - Request Time Frequency
+BEGIN_REQUESTTIME 0
+END_REQUESTTIME

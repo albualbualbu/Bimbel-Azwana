@@ -1,0 +1,610 @@
+AWSTATS DATA FILE 7.9 (build 20230108)
+# If you remove this file, all statistics for date 202507 will be lost/reset.
+# Last config file used to build this data file was /home/bimbelaz/tmp/awstats/awstats.bimbelazwana.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2047                
+POS_TIME 2724                
+POS_VISITOR 12481               
+POS_DAY 16523               
+POS_DOMAIN 3510                
+POS_LOGIN 3979                
+POS_ROBOT 4134                
+POS_WORMS 4887                
+POS_EMAILSENDER 5018                
+POS_EMAILRECEIVER 5161                
+POS_SESSION 17212               
+POS_FILESIZE 20187               
+POS_SIDER 17369               
+POS_FILETYPES 5296                
+POS_DOWNLOADS 5517                
+POS_OS 5932                
+POS_BROWSER 6167                
+POS_SCREENSIZE 6748                
+POS_UNKNOWNREFERER 6822                
+POS_UNKNOWNREFERERBROWSER 7328                
+POS_ORIGIN 7720                
+POS_SEREFERRALS 7856                
+POS_PAGEREFS 8015                
+POS_SEARCHWORDS 8196                
+POS_KEYWORDS 8348                
+POS_MISC 2388                
+POS_ERRORS 8407                
+POS_CLUSTER 3835                
+POS_SIDER_404 8497                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20250801091648 19 4503 9830920875801
+FirstTime 20250701135011
+LastTime 20250731195743
+LastUpdate 20250801235215 19 0 18 0 0
+TotalVisits 91                  
+TotalUnique 87                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 110                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+WindowsMediaPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+JavascriptDisabled 0 0 0
+JavaEnabled 0 0 0
+RealPlayerSupport 0 0 0
+FlashSupport 0 0 0
+PDFSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+AddToFavourites 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 3 4 55984 73 90 2155420
+1 3 3 42231 3 12 40693
+2 4 5 63691 13 18 65943
+3 4 5 94572 4 8 3499926
+4 11 11 157902 32 39 72409
+5 8 10 1116780 23 42 4627747
+6 3 19 4516920 6 12 139667
+7 2 4 361954 3 11 6564312
+8 1 3 109140 2 7 14435780
+9 0 0 0 7 11 11159996
+10 8 10 4583108 3 11 3041670
+11 3 3 13559 19 28 214508
+12 8 34 10411339 82 204 61463284
+13 13 47 6596234 83 234 76989602
+14 9 37 3690776 39 180 56754813
+15 11 39 3388157 77 93 16513936
+16 4 8 145707 4 8 3523551
+17 2 3 59106 18 24 7013390
+18 3 3 35744 6 12 3587793
+19 38 91 8211363 11 34 10001457
+20 5 5 73040 6 14 55003943
+21 5 5 104370 33 42 8842947
+22 2 2 28464 13 31 15021006
+23 1 1 14377 13 35 475827
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 18
+us 73 206 20537263
+ca 30 32 523981
+zz 12 12 106305
+jp 7 33 10397410
+ie 6 33 6159760
+eg 5 5 185420
+fr 4 4 31793
+se 4 4 28990
+cn 4 4 90188
+in 1 3 411842
+gr 1 2 35515
+gb 1 2 35454
+au 1 2 35541
+de 1 2 411875
+sc 1 1 37817
+nl 0 1 208774
+ru 0 5 4635917
+it 0 1 673
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 15
+Mediapartners-Google 527 171762571 20250707155006 0
+Googlebot/ 83 771896 20250730045547 0
+Applebot/ 68 141945176 20250731191011 0
+scrapy 67 681617 20250727005229 0
+bingbot/ 55 25140625 20250731234003 0
+facebookexternalhit/ 41 18436007 20250720131946 0
+360Spider 18 130296 20250731150448 0
+crawl 12 2006252 20250730200156 0
+Googlebot\-Image/ 5 141180 20250726050356 0
+[\s_+:,\.\;\/\\-]bot 4 24730 20250729075105 0
+DuckDuckBot 2 35543 20250717131931 0
+checker 2 14550 20250730235655 0
+no_user_agent 2 75741 20250726235842 0
+CCBot/ 2 12354 20250706052331 0
+Screaming[\x20]Frog[\x20]SEO[\x20]Spider/ 1 7303 20250708134318 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 8
+png 35 7109515 0 0
+jpeg 30 5577100 0 0
+jpg 59 26577229 0 0
+Unknown 45 1276701 0 0
+css 28 714294 0 0
+js 49 677518 0 0
+woff2 30 863424 0 0
+html 76 1078737 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 10
+/uploads/1748084140.mp4 1 0 14396876
+/uploads/1748413877.mp4 1 0 16822432
+/uploads/1747449333.mp4 1 0 5229297
+/uploads/1748070304.mp4 1 0 14792017
+/uploads/1747997823.mp4 1 0 6527831
+/uploads/1750479613.mp4 1 0 8065138
+/uploads/1750325395.mp4 1 0 11126322
+/uploads/1736151903.mov 1 0 37967522
+/uploads/1747623465.mp4 1 0 6958163
+/uploads/1747797622.mp4 1 0 13374915
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 13
+Unknown 97 46
+android10 2 2
+macos12 4 4
+ios_ipad 2 2
+ios_iphone 98 21
+macosx14 4 4
+androidoreo 2 2
+win7 2 2
+macosx9 1 1
+win10 97 43
+macosx15 1 1
+linux 41 22
+android 1 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 27
+chrome105.0.0.0 1 1
+chrome122.0.0.0 1 1
+chrome83.0.4103.97 2 2
+chrome114.0.0.0 30 30
+chrome138.0.0.0 33 6
+mozilla 87 36
+chrome125.0.0.0 1 1
+Unknown 12 12
+firefox136.0 6 1
+safari15.4 95 18
+safari17.1.2 1 1
+safari13.0.3 1 1
+chrome137.0.0.0 24 12
+firefox137.0 15 8
+opera118.0.0.0 4 0
+chrome95.0.4638.69 8 8
+chrome134.0.0.0 19 1
+chrome27.0.1453.93 1 1
+chrome80.0.3987.162 2 2
+firefox77.0 1 1
+chrome128.0.0.0 1 1
+safari17.3.1 1 1
+chrome32.0.1664.3 1 1
+chrome62.0.3202.84 2 2
+chrome41.0.2227.0 1 1
+opera60.0.3255.170 1 1
+firefox123 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 7
+Mozilla/5.0_(compatible;_ips-agent) 20250711044603
+Python/3.8_aiohttp/3.9.5 20250722040255
+python-requests/2.22.0 20250726045934
+Hello_from_Palo_Alto_Networks,_find_out_more_about_our_scans_in_https://docs-cortex.paloaltonetworks.com/r/1/Cortex-Xpanse/Scanning-activity 20250719200234
+Mozilla/5.0_(compatible;_Dataprovider.com) 20250730195150
+python-requests/2.32.4 20250710113234
+python-requests/2.27.1 20250708215943
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 5
+Hello_from_Palo_Alto_Networks,_find_out_more_about_our_scans_in_https://docs-cortex.paloaltonetworks.com/r/1/Cortex-Xpanse/Scanning-activity 20250719200234
+Python/3.8_aiohttp/3.9.5 20250722040255
+python-requests/2.22.0 20250726045934
+python-requests/2.27.1 20250708215943
+python-requests/2.32.4 20250710113234
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 84 111
+From1 0 0
+From2 1 1
+From3 0 2
+From4 66 238
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+google_com 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+http://mail.bimbelazwana.com 0 2
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 1
+404 306 23779
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 95
+/robots.txt 88 -
+/wp-admin/css/colors/blue/atomlib.php 1 -
+/web.zip 1 -
+/cms/wp-admin/install.php 1 -
+/bless.php 1 -
+http://bimbelazwana.com:80/blog/wp-includes/wlwmanifest.xml 6 -
+/sites/default/files/ 1 binance.com
+/.well-known/acme-challenge/plugins.php/wp-includes/certificates/plugins.php 1 -
+/Discover_the_Hidden_Stars_%E2%80%93_Student_Talent_Show_English_for_Kids_Bimbel_Azwana 5 -
+/admin/controller/extension/extension/ 1 binance.com
+http://bimbelazwana.com:80/wordpress/wp-includes/wlwmanifest.xml 6 -
+/webshell.php 1 -
+/css/install.php 1 -
+/wp-content/themes/astra/inc/network.php 1 -
+/Holiday_Class_with_Bimbel_Azwana_2025_%E2%80%93_Liburan_Seru_dan_Bermakna 4 -
+/wp-includes/css/dist/preferences/index.php 1 -
+/backup/wp-admin/install.php 1 -
+http://bimbelazwana.com:80/wp/wp-includes/wlwmanifest.xml 6 -
+/humans.txt 2 -
+/about.php/wp-includes/Text/network.php 1 -
+http://bimbelazwana.com:80/wp-includes/ID3/license.txt 6 -
+/wp-admin/setup-config.php 2 -
+/wp-content/plugins/litespeed-cache/readme.txt 1 -
+http://bimbelazwana.com:80/cms/wp-includes/wlwmanifest.xml 6 -
+/wp-content/ 1 -
+/wp/wp-admin/install.php 1 -
+/wp-admin/js/alfa-rex.php 1 -
+/test/wp-admin/install.php 1 -
+/.well-known/security.txt 2 -
+/wp-admin/network/index.php 1 -
+/uploads/ 1 binance.com
+/images/ 1 binance.com
+/admin/function.php/.well-known/pki-validation/xmrlpc.php 1 -
+/wp-login.php 2 -
+http://bimbelazwana.com:80/test/wp-includes/wlwmanifest.xml 6 -
+/ads.txt 6 -
+http://bimbelazwana.com:80/2020/wp-includes/wlwmanifest.xml 6 -
+http://bimbelazwana.com:80/2021/wp-includes/wlwmanifest.xml 6 -
+/program/img/logo%20wm.png 4 http://www.bimbelazwana.com/program/
+/shop/wp-admin/install.php 1 -
+/promo/img/logo%20wm.png 5 http://www.bimbelazwana.com/promo/
+/css/chosen.php 1 -
+/old/wp-admin/install.php 1 -
+/Holiday_Class_with_Bimbel_Azwana_2025_%C3%A2%E2%82%AC%E2%80%9C_Liburan_Seru_dan_Bermakna 1 -
+/filemanager.php 1 -
+/xmlrpc.php 2 -
+/blog/wp-admin/install.php 1 -
+/.env 1 -
+/wp-admin/css/ 1 binance.com
+/files/ 1 binance.com
+/files/index.php 1 -
+/web/wp-admin/install.php 1 -
+/wp-signup.php 1 -
+/wp-mail.php/wp-includes/ID3/rk2.php 1 -
+/sitemap.xml 4 -
+/.well-known/pki-validation/wp-login.php 1 -
+/wp-admin/install.php 1 -
+/new/wp-admin/install.php 1 -
+http://bimbelazwana.com:80/xmlrpc.php 6 -
+/site/wp-admin/install.php 1 -
+/wp-content/plugins/init-help/init.php 1 www.google.com
+/wp-admin/js/widgets/about.php7 1 -
+/wp.zip 1 -
+/css.php 1 -
+/site.zip 1 -
+/old.zip 1 -
+/security.txt 2 -
+http://bimbelazwana.com:80/web/wp-includes/wlwmanifest.xml 6 -
+/shell20211028.php 1 -
+http://bimbelazwana.com:80/site/wp-includes/wlwmanifest.xml 6 -
+/wordpress/wp-admin/install.php 1 -
+/wp-content/themes/wp-pridmag/lock.php/wp-admin/user/admin.php/wp-content/uploads/json.php 1 -
+/oldsite/wp-admin/install.php 1 -
+/kegiatan/img/logo%20wm.png 3 http://www.bimbelazwana.com/kegiatan/
+http://bimbelazwana.com:80/wp1/wp-includes/wlwmanifest.xml 6 -
+http://bimbelazwana.com:80/2019/wp-includes/wlwmanifest.xml 6 -
+/wp-includes/theme-compat/about.php 1 -
+/wp-includes/js/about.php 1 -
+/video/img/logo%20wm.png 4 http://www.bimbelazwana.com/video/
+/updates.php 1 -
+/wordpress/wp-admin/setup-config.php 2 -
+/goat1.php 1 -
+/wp-content/plugins/hellopress/wp_filemanager.php 1 -
+/css/item.php 1 -
+/wp-admin/admin-post.php 1 -
+/llms.txt 2 -
+/.well-known/pki-validation/parx.php 1 -
+/wp-content/plugins/duplicator/assets/about.php 1 -
+http://bimbelazwana.com:80/feed/ 6 -
+/.well-known/ 1 binance.com
+/media/system/js/core.js 8 -
+/.well-known/acme-challenge/plugins.php 1 -
+http://bimbelazwana.com:80/shop/wp-includes/wlwmanifest.xml 6 -
+/wp-includes/js/jquery/jquery.js 8 -
+/wp-includes/fonts/admin.php 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 110
+149.56.160.143 11 11 599409 20250730195117
+149.56.160.197 10 10 493492 20250704194733
+23.145.40.138 7 7 69825 20250724104723
+170.106.116.103 6 31 3584264 20250704143555
+149.56.150.49 6 31 3584290 20250704194801
+144.217.135.133 6 32 3274940 20250730195149
+43.130.43.56 6 32 10390135 20250714122555
+170.106.184.100 6 32 3275001 20250724154257
+10.57.0.181 5 5 36480 20250726045934
+5.135.83.133 4 4 31793 20250725050353
+72.13.46.2 3 3 26412 20250711044603
+47.82.6.139 2 2 27957 20250720035238
+47.82.6.90 2 2 27455 20250720013118
+31.13.127.4 2 9 1451833 20250720130705
+31.13.127.116 2 12 3755034 20250720130703
+31.13.127.6 2 11 942543 20250720130705
+167.71.52.79 1 2 35543 20250721140045
+198.235.24.193 1 1 6758 20250719200234
+134.209.168.23 1 2 35272 20250703003950
+64.225.101.3 1 2 35454 20250705145811
+93.158.90.31 1 1 7065 20250705021906
+120.239.99.210 1 1 37817 20250717204325
+47.79.236.232 1 1 14313 20250719222336
+47.79.98.193 1 1 14160 20250719213012
+143.110.190.44 1 2 35515 20250730080917
+31.13.127.5 0 1 10350 
+217.67.234.232 0 1 208774 
+156.228.86.184 1 1 37817 20250720172519
+139.59.21.72 1 2 35541 20250712104222
+45.136.18.250 0 1 194899 
+54.36.232.187 0 1 85658 
+152.53.44.195 0 1 175060 
+47.79.99.18 1 1 14281 20250719182408
+167.172.181.9 1 2 35454 20250727153537
+82.165.193.212 1 1 7036 20250702202430
+205.210.31.82 1 1 37817 20250719164958
+146.190.114.58 1 1 7274 20250708215943
+159.223.132.106 1 2 35243 20250703134251
+47.79.243.19 1 1 14245 20250718182157
+47.79.226.192 1 1 14370 20250719011132
+152.53.49.117 1 2 44688 20250711055426
+193.70.81.186 0 1 673 
+138.197.92.29 1 2 35515 20250729135646
+129.45.36.199 1 1 0 20250710113234
+213.109.163.214 0 1 7296 
+121.24.28.216 1 1 37812 20250729031633
+47.82.11.120 1 1 7279 20250731195743
+213.109.160.195 0 1 3981 
+45.202.79.234 1 1 37817 20250715044901
+185.194.141.227 0 1 73625 
+156.253.178.166 1 1 37817 20250720210459
+159.89.177.72 1 2 35454 20250726194752
+47.82.6.41 1 1 14177 20250719202256
+147.185.132.87 1 1 37817 20250715064214
+47.79.237.253 1 1 13757 20250719192050
+27.115.124.49 1 1 7252 20250717204334
+47.79.99.238 1 1 14229 20250719015017
+167.71.107.210 1 2 35534 20250715162537
+47.82.6.170 1 1 14377 20250719232303
+146.190.156.214 1 2 35543 20250715165251
+89.58.55.156 0 1 404839 
+35.222.169.79 1 1 7036 20250702024604
+23.28.125.215 0 1 1270 
+137.184.156.11 1 2 35543 20250720164950
+65.21.136.254 0 1 3054159 
+3.238.142.5 1 1 7279 20250724111854
+64.227.23.113 1 2 35592 20250711135121
+152.53.249.186 0 2 112614 
+135.181.214.38 0 1 60944 
+93.158.90.30 1 1 7307 20250717123912
+43.157.67.70 1 1 7275 20250719063822
+192.36.119.194 1 1 7262 20250731075852
+152.53.47.86 0 3 251429 
+34.121.102.176 1 1 6280 20250711114735
+122.15.156.143 1 1 7307 20250718064252
+165.227.33.104 1 2 35560 20250709135345
+198.235.24.185 1 1 37817 20250715134700
+47.79.4.161 1 1 13786 20250719191300
+47.79.123.50 1 1 7307 20250717214330
+47.79.243.208 1 1 7307 20250718034342
+152.53.249.211 0 1 7933 
+47.79.227.1 1 1 14304 20250720044814
+199.244.88.219 1 1 7307 20250721030127
+47.79.122.4 1 1 13993 20250719173231
+167.71.134.83 1 2 35543 20250717021153
+47.79.226.107 1 1 14169 20250720045458
+178.128.203.108 1 2 35515 20250723140235
+152.53.245.21 0 1 152437 
+38.255.55.64 1 1 7271 20250728050622
+167.71.25.22 1 2 35592 20250713150705
+47.79.236.255 1 1 13896 20250719195130
+47.79.0.158 1 1 14151 20250719220250
+152.53.67.212 0 1 988511 
+161.35.62.194 1 2 35543 20250717131138
+52.41.71.1 1 1 7218 20250730183350
+152.53.249.71 0 1 33605 
+213.109.162.19 0 2 4551015 
+152.53.250.23 0 1 7433 
+47.79.241.246 1 1 13897 20250719124222
+93.158.91.35 1 1 7356 20250711071327
+156.228.83.150 1 1 35987 20250704052633
+152.53.65.102 0 1 164920 
+156.233.88.219 1 1 37812 20250725215028
+45.142.104.94 0 1 209636 
+47.79.242.137 1 1 13749 20250719151314
+167.99.218.40 1 2 35264 20250701135011
+47.82.6.87 1 1 14538 20250719155142
+156.242.37.10 1 1 35987 20250704044248
+171.220.244.196 1 1 7307 20250722040255
+47.82.6.203 1 1 13494 20250720000124
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 29
+20250701 1 2 35264 1
+20250702 2 2 14072 2
+20250703 2 4 70515 2
+20250704 24 74 7734020 5
+20250705 2 3 42519 2
+20250707 1 1 7218 1
+20250708 1 1 7274 1
+20250709 1 2 35560 1
+20250710 1 1 0 1
+20250711 7 33 10656863 5
+20250712 3 5 78489 2
+20250713 1 2 35592 1
+20250714 6 32 10390135 1
+20250715 5 8 370468 5
+20250717 6 8 130769 6
+20250718 3 3 28859 3
+20250719 19 19 277347 19
+20250720 15 43 6354493 12
+20250721 2 3 42850 2
+20250722 1 1 7307 1
+20250723 1 2 35515 1
+20250724 14 40 3352105 3
+20250725 5 5 69605 2
+20250726 3 4 50004 2
+20250727 1 2 35454 1
+20250728 1 1 7271 1
+20250729 2 3 73327 2
+20250730 19 46 3917082 4
+20250731 2 2 14541 2
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 2
+0s-30s 89
+30mn-1h 2
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 39
+/ 69 973074 65 56
+/fonts/Metropolis/Metropolis-Light.woff2 6 76944 0 1
+/fonts/Metropolis/Metropolis-Regular.woff2 6 77976 1 0
+/fonts/bootstrap-icons.woff2 6 552384 0 3
+/fonts/Metropolis/Metropolis-Bold.woff2 6 78216 1 0
+/fonts/Metropolis/Metropolis-SemiBold.woff2 6 77904 0 4
+/video/ 4 102431 0 1
+/ProfileBimbelAzwana 4 155092 0 0
+/Spesial_Bulan_Juli_Bimbel_di_Azwana_biaya_pendaftarannya_GRATIS 3 41047 1 1
+/Visi_dan_Misi 3 142262 0 0
+/login/ 3 3232 0 0
+/Lomba_Mewarnai_Bareng_Si_Jaza_Event_Edukatif_dan_Seru_untuk_Anak-Anak_Bandar_Lampung 2 83541 1 1
+/Tempat_Baru_Semangat_Baru_GRATIS_PENDAFTARAN_di_Bimbel_Azwana_Pusat_ 2 78365 1 1
+/Join_Our_Team_Open_Recruitment_for_All_Team_Bimbel_Azwana 2 130573 0 0
+/Aku_Lulus_Calistung_Perjalanan_Cinta_Belajar_Bersama_Azwana 2 78568 1 1
+/Spesial_Hardiknas_GRATIS_Biaya_Pendaftaran_di_Bimbel_Azwana 2 27951 1 2
+/Struktur_Organisasi 2 127281 0 0
+/Meraih_Surga_dengan_Jalan_Menuntut_Ilmu_Kilas_Balik_Kegiatan_Tahsin_danamp_Pembagian_Raport_Tahsin_Team_Bimbel_Azwana 2 82470 0 1
+/Kuasai_4_Skill_Bahasa_Inggris_Sejak_Dini_di_Bimbel_Azwana 1 14047 1 1
+/Temukan_Cabang_Azwana_di_sekitar_rumahmu_Saatnya_Belajar_Cinta 1 13494 1 1
+/Kajian_Wali_Murid_Bimbel_Azwana_Orang_Tua_Belajar_Anak_Bahagia 1 14160 1 1
+/Selamat_Ini_Dia_Juara_Try_Out_2_Semester_2_Bimbel_Azwana_Part_2 1 14377 1 1
+/Layanan_Penuh_Kasih_Hasil_yang_Menginspirasi_Inilah_Cabang_Terbaik_Bimbel_Azwana_Periode_April-Juli 1 69129 0 0
+/webshell 1 6758 1 1
+/Serunya_Holiday_Class_Bimbel_Azwana_di_Jati_Argo_Belajar_Bermain_dan_Tumbuh_Bersama 1 14538 1 1
+/Fondasi_Hebat_Dimulai_dari_Calistung_Kenapa_Bimbel_Azwana_Jadi_Pilihan_Tepat 1 14151 1 1
+/Pembagian_Map_Raport_Bimbel_Azwana_Bukan_Sekadar_Nilai_Tapi_Bukti_Cinta_dalam_Proses_Belajar 1 14313 1 1
+/Belajar_Bahasa_Inggris_Online_Cuma_99_Ribu_Yuk_Gabung_Sekarang_di_Kelas_Online_Azwana 1 13749 1 1
+/Temukan_Solusi_Belajar_yang_Tepat_untuk_Anak_Ayah_Bunda 1 13910 1 1
+/Kelas_Privat_Online_Bahasa_Inggris_Hanya_50_Ribu_Solusi_Belajar_yang_Nyaman_danamp_Fokus_dari_Bimbel_Azwana_Lampung 1 13993 1 1
+/Belajar_dan_Bertumbuh_Training_Internal_Tim_Hebat_Bimbel_Azwana 1 14370 1 1
+/Selamat_Inilah_Juara_Umum_Try_Out_2_Semester_Genap_Bimbel_Azwana_Seluruh_Cabang 1 14177 1 1
+/daftar/Program_EFK 1 1210 0 0
+/Cabang_Terbaik_Bimbel_Azwana_Periode_Januari_April_2025_Konsisten_Memberikan_yang_Terbaik 1 13823 1 1
+/Selamat_Ini_Dia_Pemenang_Giveaway_Cabang_ke-11_Bagi-bagi_Marchandise_ 1 13632 1 1
+/Bangga_Inilah_Juara_Try_Out_2_Semester_2_Bimbel_Azwana_Part_1 1 14281 1 1
+/Bimbel_Azwana_Kini_Bernaung_di_Bawah_Yayasan_Prestasi_Azwana_Indonesia 1 13786 1 1
+/Yuk_Kenalan_Sama_JAZA_Maskot_Bimbel_Azwana_yang_Penuh_Cinta 1 13757 1 1
+/Belajar_Lebih_Dekat_Tumbuh_Lebih_Hebat_-_Manfaat_Program_Private_di_Bimbel_Azwana 1 13896 1 1
+END_SIDER
+
+# Payload Range - Payload Frequency
+BEGIN_FILESIZE 7
+500-1K 14
+1K-2K 88
+100-500 44
+2K-5K 35
+44-100 306
+0-44 6
+5K+ 1059
+END_FILESIZE

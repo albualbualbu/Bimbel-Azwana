@@ -1,0 +1,8 @@
+RewriteEngine on
+
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-f
+
+RewriteRule ^([a-zA-Z0-9-z\-\_]+)$ detail.php?id=$1
+
+ErrorDocument 404 "<center><H1>Halaman Tidak ditemukan</H1><a href='../#home'>Kembali</a></center>"

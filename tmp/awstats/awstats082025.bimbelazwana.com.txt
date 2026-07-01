@@ -1,0 +1,1436 @@
+AWSTATS DATA FILE 7.9 (build 20230108)
+# If you remove this file, all statistics for date 202508 will be lost/reset.
+# Last config file used to build this data file was /home/bimbelaz/tmp/awstats/awstats.bimbelazwana.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2047                
+POS_TIME 2708                
+POS_VISITOR 30680               
+POS_DAY 43112               
+POS_DOMAIN 3540                
+POS_LOGIN 4232                
+POS_ROBOT 4387                
+POS_WORMS 5120                
+POS_EMAILSENDER 5251                
+POS_EMAILRECEIVER 5394                
+POS_SESSION 43839               
+POS_FILESIZE 57266               
+POS_SIDER 43997               
+POS_FILETYPES 5529                
+POS_DOWNLOADS 5756                
+POS_OS 7229                
+POS_BROWSER 7556                
+POS_SCREENSIZE 9098                
+POS_UNKNOWNREFERER 9172                
+POS_UNKNOWNREFERERBROWSER 9682                
+POS_ORIGIN 10026               
+POS_SEREFERRALS 10163               
+POS_PAGEREFS 10307               
+POS_SEARCHWORDS 10488               
+POS_KEYWORDS 10640               
+POS_MISC 2372                
+POS_ERRORS 10699               
+POS_CLUSTER 4088                
+POS_SIDER_404 10799               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20250901000106 9 993 10571728539564
+FirstTime 0
+LastTime 20250831170448
+LastUpdate 20250901193456 9 0 8 0 0
+TotalVisits 311                 
+TotalUnique 309                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 321                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+TotalMisc 0 0 0
+AddToFavourites 0 0 0
+JavaEnabled 0 0 0
+QuickTimeSupport 0 0 0
+RealPlayerSupport 0 0 0
+DirectorSupport 0 0 0
+JavascriptDisabled 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 9 9 70747 7 27 46762893
+1 24 50 5050572 26 67 3229423
+2 15 41 3663671 47 77 24497312
+3 5 5 21304 543 553 3090236
+4 2 2 17454 18 29 1009089
+5 3 3 25966 3 17 21973268
+6 4 4 23908 15 29 7832692
+7 3 3 20806 5 15 50621
+8 4 6 91059 24 43 31470613
+9 44 70 2383185 10 31 70345625
+10 10 10 58567 18 39 35300610
+11 16 18 1126345 7 29 44674092
+12 94 148 9087238 24 104 53057538
+13 35 66 3696734 8 46 25775518
+14 8 12 172032 13 36 8079245
+15 3 5 83660 7 18 319674
+16 68 101 5411518 14 100 6443197
+17 8 9 89910 15 42 39720111
+18 36 89 8213705 22 41 18408189
+19 16 42 4431695 23 31 36200197
+20 5 12 116669 96 106 17988958
+21 21 23 269740 20 37 26021210
+22 59 85 5123941 37 64 25083972
+23 30 64 3145581 16 43 27813569
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 35
+us 164 460 41204781
+br 85 85 763524
+jp 53 79 5030712
+cn 41 67 2509224
+in 40 40 363679
+vn 32 32 265958
+ru 17 17 141532
+nz 14 14 172844
+ec 8 8 104366
+id 8 11 1196719
+eu 7 7 90374
+ar 7 7 47586
+ca 6 8 129670
+co 5 5 33146
+se 4 4 29020
+ma 4 4 49678
+ch 3 3 26234
+za 2 2 9501
+fr 2 2 14456
+mx 2 2 2958
+pe 2 2 25323
+zz 2 2 7318
+ro 2 2 2224
+pk 1 1 8403
+cl 1 1 1136
+cr 1 1 8474
+au 1 2 35548
+nl 1 2 35461
+de 1 1 6143
+uy 1 1 1773
+eg 1 1 37407
+ua 1 1 13192
+lb 1 1 1773
+py 1 1 13133
+ke 1 1 12737
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 15
+Googlebot/ 120 1299445 20250831125730 0
+crawl 99 5501395 20250831211146 0
+link 80 967031 20250820210726 0
+Applebot/ 74 563023441 20250830221205 0
+bingbot/ 73 3381339 20250829020337 0
+CheckMarkNetwork/ 43 373593 20250830220711 0
+360Spider 18 130682 20250831184744 0
+BW/ 11 87764 20250819174248 0
+checker 6 43653 20250828201718 0
+Googlebot\-Image/ 5 141180 20250831132642 0
+[\s_+:,\.\;\/\\-]bot 4 24610 20250826170738 0
+bot[\s_+:,\.\;\/\\-] 1 7231 20250811080953 0
+Go\-http\-client/ 1 7223 20250811014903 0
+(firefox/)([0-9]\.|[0-1][0]\.) 1 37886 20250805114512 0
+no_user_agent 1 37812 20250803035530 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 8
+woff2 50 1439040 0 0
+png 61 12700976 0 0
+js 98 1009620 0 0
+Unknown 329 3776614 0 0
+html 143 1163027 0 0
+jpg 94 18999706 0 0
+css 51 754492 0 0
+jpeg 51 12552532 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 39
+/uploads/1749708256.mp4 2 0 2007910
+/uploads/1748670754.mp4 2 0 3698266
+/uploads/1748659107.mp4 2 0 5324650
+/uploads/1747278289.mp4 2 0 20226706
+/uploads/1747882036.mp4 2 0 10305342
+/uploads/1748326670.mp4 2 0 4454640
+/uploads/1750055864.mp4 2 0 39807666
+/uploads/1749027876.mp4 2 0 50690670
+/uploads/1747818616.mp4 2 0 12776424
+/uploads/1748234992.mp4 2 0 9674502
+/uploads/1748335959.mp4 2 0 5310398
+/uploads/1748949979.mp4 2 0 7479390
+/uploads/1736152724.mov 2 0 71001868
+/uploads/1747645261.mp4 1 0 13609309
+/uploads/1748070304.mp4 1 0 14792017
+/uploads/1747997823.mp4 1 0 6527831
+/uploads/1753148397.mp4 1 0 12975199
+/uploads/1750479613.mp4 1 0 8065138
+/uploads/1750325395.mp4 1 0 11126322
+/uploads/1751355922.mp4 1 0 15980762
+/uploads/1747449333.mp4 1 0 5229297
+/uploads/1748396929.mp4 1 0 8238838
+/uploads/1747378679.mp4 1 0 7485576
+/uploads/1747623465.mp4 1 0 6958163
+/uploads/1750153518.mp4 1 0 33053330
+/uploads/1749540301.mp4 1 0 13247165
+/uploads/1736151903.mov 1 0 37967522
+/uploads/1747469961.mp4 1 0 10152998
+/uploads/1747797622.mp4 1 0 13374915
+/uploads/1748413877.mp4 1 0 16822432
+/uploads/1748084140.mp4 1 0 14396876
+/uploads/1751266495.mp4 1 0 26219108
+/uploads/1749789496.mp4 1 0 6240783
+/uploads/1751446979.mp4 1 0 6794383
+/uploads/1748240018.mp4 1 0 12365291
+/uploads/1752651187.mp4 1 0 8228421
+/uploads/1749623799.mp4 1 0 3561655
+/uploads/1748679181.mp4 1 0 1743649
+/uploads/1748827900.mp4 1 0 1800894
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 19
+linuxubuntu 1 1
+unix 1 1
+ios_iphone 158 80
+android11 1 1
+macosx15 50 23
+winxp 2 0
+macosx12 1 1
+android12 4 1
+win8.1 4 0
+androidoreo 38 12
+macosx9 3 1
+android10 43 41
+Unknown 61 34
+androidlollipop 1 1
+win10 387 282
+linux 102 31
+macosx 1 1
+win7 11 3
+ios_ipad 8 8
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 73
+chrome107.0.0.0 55 29
+chrome101.0.4951.61 1 1
+chrome60.0.3112.113 1 1
+chrome105.0.0.0 4 4
+firefox52.0 1 1
+chrome139.0.0.0 18 9
+chrome83.0.4103.97 1 1
+firefox139.0 14 7
+chrome80.0.3987.162 1 1
+chrome84.0.4147.105 1 1
+firefox114.0 1 0
+chrome64.0.3282.140 1 1
+chrome103.0.0.0 6 6
+safari7.0.3 2 0
+chrome112.0.0.0 3 3
+chrome23.0.1271.95 1 0
+chrome92.0.4515.107 2 2
+firefox137.0 6 3
+chrome103.0.5060.66 32 6
+firefox36.0 1 0
+safari18.1.1 1 1
+chrome63.0.3239.111 33 7
+chrome73.0.3683.90 1 1
+chrome120.0.0.0 6 6
+chrome123.0.0.0 1 1
+Unknown 14 13
+chrome104.0.5112.81 2 2
+chrome122.0.0.0 78 78
+chrome129.0.0.0 2 2
+mozilla 47 21
+chrome133.0.0.0 6 6
+safari17.0 70 70
+chrome113.0.0.0 34 7
+chrome81.0.4044.92 27 1
+chrome110.0.0.0 4 4
+firefox38.0 2 0
+chrome138.0.7204.179 4 1
+chrome117.0.0.0 2 2
+firefox50.0 1 0
+chrome109.0.0.0 4 4
+chrome108.0.0.0 3 3
+chrome121.0.0.0 68 68
+chrome94.0.4606.61 13 13
+safari14.0 4 4
+safari15.4 64 12
+firefox89.0 1 1
+chrome74.0.3729.169 2 2
+chrome78.0.3904.108 3 3
+chrome117.0.5938.132 32 6
+chrome116.0.0.0 6 6
+chrome114.0.0.0 1 1
+safari17.3.1 1 1
+chrome37.0.2049.0 1 0
+chrome134.0.0.0 13 13
+chrome79.0.3945.130 14 14
+chrome58.0.3029.110 1 1
+firefox123.0 18 18
+chrome104.0.0.0 2 2
+safari17.1.2 1 1
+chrome131.0.0.0 6 6
+opera12.0 1 0
+chrome111.0.0.0 5 5
+chrome83.0.4103.61 8 1
+iphone 32 6
+chrome106.0.5249.119 3 3
+safari17.0.3 1 1
+safari17.0.1 1 1
+chrome124.0.0.0 11 11
+chrome79.0.3945.79 32 6
+chrome95.0.4638.69 1 1
+chrome70.0.3538.110 32 6
+chrome138.0.0.0 4 2
+firefox132.0 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 6
+Cpanel-HTTP-Client/1.0 20250809094252
+Mozilla/5.0_(compatible;_Dataprovider.com) 20250828015902
+Mozilla/5.0_(compatible;_Let's_Encrypt_validation_server;__https://www.letsencrypt.org) 20250809095321
+Python/3.8_aiohttp/3.9.5 20250820233055
+Hello_from_Palo_Alto_Networks,_find_out_more_about_our_scans_in_https://docs-cortex.paloaltonetworks.com/r/1/Cortex-Xpanse/Scanning-activity 20250830071250
+axios/1.11.0 20250829211456
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 4
+Hello_from_Palo_Alto_Networks,_find_out_more_about_our_scans_in_https://docs-cortex.paloaltonetworks.com/r/1/Cortex-Xpanse/Scanning-activity 20250830071250
+axios/1.11.0 20250829211456
+Cpanel-HTTP-Client/1.0 20250809094252
+Python/3.8_aiohttp/3.9.5 20250820233055
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 458 496
+From1 0 0
+From2 0 0
+From3 0 2
+From4 64 379
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+http://mail.bimbelazwana.com 0 2
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+404 1065 83503
+302 1 64
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 489
+/.well-known/acme-challenge/alfacgiapi/perl.alfa 2 -
+/wp-content/updraft/alfacgiapi/bash.alfa 2 -
+/cgi-bin/alfacgiapi/perl.alfa 2 -
+/wp-content/alfacgiapi/radio.php 1 -
+/wp-includes/ALFA_DATA/alfacgiapi/index.php 1 -
+/wp-content/themes/ALFA_DATA/alfacgiapi/404.php 1 -
+/.well-known/alfacgiapi/bash.alfa 2 -
+/assets/alfacgiapi/radio.php 1 -
+/assets/alfacgiapi/perl.alfa 2 -
+/wp-admin/ALFA_DATA/alfacgiapi/bash.alfa 2 -
+/.well-known/acme-challenge/ALFA_DATA/alfacgiapi/index.php 1 -
+/wp-includes/ALFA_DATA/alfacgiapi/py.alfa 2 -
+/old/ALFA_DATA/alfacgiapi/perl.alfa 2 -
+/wp-admin/css/ 3 binance.com
+/backup/ALFA_DATA/alfacgiapi/perl.alfa 2 -
+/alfacgiapi/bash.alfa 2 -
+/wp-includes/alfacgiapi/radio.php 1 -
+/images/alfacgiapi/radio.php 1 -
+/webshell.php 1 -
+/new/alfacgiapi/radio.php 1 -
+/old/alfacgiapi/404.php 1 -
+/wp-content/plugins/library/alfacgiapi/radio.php 1 -
+/wp-content/plugins/alfacgiapi/perl.alfa 2 -
+/bre.php 1 www.google.com
+/.tmb/ALFA_DATA/alfacgiapi/bash.alfa 2 -
+/upload/ALFA_DATA/alfacgiapi/py.alfa 2 -
+/files.php 1 https://www.google.com
+/wp-content/updraft/ALFA_DATA/alfacgiapi/bash.alfa 2 -
+/wp-content/uploads/ALFA_DATA/alfacgiapi/perl.alfa 2 -
+http://bimbelazwana.com:80/cms/wp-includes/wlwmanifest.xml 1 -
+/01.php 1 www.google.com
+/components/ALFA_DATA/alfacgiapi/perl.alfa 2 -
+/.quarantine/alfacgiapi/index.php 1 -
+/wp-content/themes/alfacgiapi/radio.php 1 -
+/sitemap_index.xml 2 -
+/wp-content/ALFA_DATA/alfacgiapi/wp-content/uploads/alfacgiapi/perl.alfa 2 -
+/.tmb/ALFA_DATA/alfacgiapi/py.alfa 2 -
+/load.php 1 www.google.com
+/.well-known/wp-signup.php 1 www.google.com
+/old/ALFA_DATA/alfacgiapi/404.php 1 -
+/b.php 1 www.google.com
+/backup/alfacgiapi/py.alfa 2 -
+http://bimbelazwana.com:80/wp/wp-includes/wlwmanifest.xml 1 -
+/images/ALFA_DATA/alfacgiapi/radio.php 1 -
+/new/ALFA_DATA/alfacgiapi/py.alfa 2 -
+/media/wp-includes/wlwmanifest.xml 1 -
+/assets/uploads/ALFA_DATA/alfacgiapi/404.php 1 -
+/sito/wp-includes/wlwmanifest.xml 1 -
+/wp-booking.php 1 www.google.com
+http://bimbelazwana.com/Discover_the_Hidden_Stars_%E2%80%93_Student_Talent_Show_English_for_Kids_Bimbel_Azwana 2 -
+/alfacgiapi/py.alfa 2 -
+/wordpress/alfacgiapi/py.alfa 2 -
+/assets/alfacgiapi/py.alfa 2 -
+/docs.zip 1 -
+/wp-content/plugins/library/ALFA_DATA/alfacgiapi/py.alfa 2 -
+/.quarantine/ALFA_DATA/alfacgiapi/perl.alfa 2 -
+/backup/ALFA_DATA/alfacgiapi/radio.php 1 -
+/shop/wp-includes/wlwmanifest.xml 1 -
+/xmlrpc.php 1 -
+/wordpress/alfacgiapi/404.php 1 -
+/uploads/ALFA_DATA/alfacgiapi/perl.alfa 2 -
+/files/ 3 binance.com
+/.well-known/security.txt 2 -
+/wordpress/ALFA_DATA/alfacgiapi/perl.alfa 2 -
+/.tmb/alfacgiapi/radio.php 1 -
+/uploads/ALFA_DATA/alfacgiapi/radio.php 1 -
+/.well-known/pki-validation/ALFA_DATA/alfacgiapi/perl.alfa 2 -
+/ALFA_DATA/alfacgiapi/perl.alfa 2 -
+/wp/ALFA_DATA/alfacgiapi/perl.alfa 2 -
+/.quarantine/alfacgiapi/bash.alfa 2 -
+/wp-content.php 1 www.google.com
+/.quarantine/ALFA_DATA/alfacgiapi/404.php 1 -
+/wp-login.php 1 -
+/wordpress/alfacgiapi/radio.php 1 -
+/upload/alfacgiapi/index.php 1 -
+/wp/ALFA_DATA/alfacgiapi/bash.alfa 2 -
+/cgi-bin/alfacgiapi/radio.php 1 -
+/backup/alfacgiapi/404.php 1 -
+/wp/wp-includes/wlwmanifest.xml 1 -
+/cgi-bin/alfacgiapi/py.alfa 2 -
+/wp/ALFA_DATA/alfacgiapi/404.php 1 -
+/wp-content/upgrade/ALFA_DATA/alfacgiapi/bash.alfa 2 -
+/2018/wp-includes/wlwmanifest.xml 1 -
+/wp-content/plugins/alfacgiapi/py.alfa 2 -
+/old/alfacgiapi/radio.php 1 -
+/alfacgiapi/index.php 1 -
+/un.php 2 www.google.com
+/zf.php 1 www.google.com
+/cgi-bin/alfacgiapi/bash.alfa 2 -
+/upload/ALFA_DATA/alfacgiapi/bash.alfa 2 -
+/wordpress/alfacgiapi/index.php 1 -
+/uploads/alfacgiapi/perl.alfa 2 -
+/wordpress/ALFA_DATA/alfacgiapi/py.alfa 2 -
+/backup/ALFA_DATA/alfacgiapi/404.php 1 -
+/wp-content/updraft/alfacgiapi/perl.alfa 2 -
+/wp-content/themes/alfacgiapi/py.alfa 2 -
+/components/ALFA_DATA/alfacgiapi/radio.php 1 -
+/simple.php 1 -
+/lock360.php 2 www.google.com
+/wp-content/upgrade/ALFA_DATA/alfacgiapi/index.php 1 -
+/wp-content/plugins/ALFA_DATA/alfacgiapi/bash.alfa 1 -
+http://bimbelazwana.com:80/web/wp-includes/wlwmanifest.xml 1 -
+/blog/wp-admin/install.php 2 -
+/upload/alfacgiapi/perl.alfa 2 -
+/images/ALFA_DATA/alfacgiapi/perl.alfa 2 -
+/5.php 1 www.google.com
+/wp-content/alfacgiapi/404.php 1 -
+/backup/alfacgiapi/perl.alfa 2 -
+/.well-known/acme-challenge/ALFA_DATA/alfacgiapi/bash.alfa 2 -
+/.well-known/acme-challenge/alfacgiapi/radio.php 1 -
+/wp-help.php 1 www.google.com
+/wordpress/wp-includes/wlwmanifest.xml 1 -
+/upload/alfacgiapi/bash.alfa 2 -
+/.well-known/alfacgiapi/perl.alfa 2 -
+/llms.txt 1 -
+/aua.php 1 -
+/wp-includes/js/jquery/jquery.js 18 -
+/wp-content/plugins/library/alfacgiapi/perl.alfa 2 -
+/blog/alfacgiapi/radio.php 1 -
+/Sanskrit.php 1 -
+/sites/default/files/ 3 binance.com
+http://bimbelazwana.com:80/2020/wp-includes/wlwmanifest.xml 1 -
+/wp-includes/alfacgiapi/perl.alfa 2 -
+/wp-content/plugins/library/alfacgiapi/404.php 1 -
+/.well-known/pki-validation/alfacgiapi/perl.alfa 2 -
+/epinyins.php 1 -
+/file.php 1 -
+/wp-content/plugins/wp-diambar/includes/loadme.php 1 www.google.com
+/cgi-bin/ALFA_DATA/alfacgiapi/perl.alfa 2 -
+/.quarantine/alfacgiapi/perl.alfa 2 -
+http://bimbelazwana.com:80/2019/wp-includes/wlwmanifest.xml 1 -
+/assets/ALFA_DATA/alfacgiapi/py.alfa 2 -
+/assets/alfacgiapi/404.php 1 -
+/Holiday_Class_with_Bimbel_Azwana_2025_%E2%80%93_Liburan_Seru_dan_Bermakna 6 -
+/wp-includes/ALFA_DATA/alfacgiapi/404.php 1 -
+/wp-content/plugins/alfacgiapi/radio.php 1 -
+/wordpress/alfacgiapi/perl.alfa 2 -
+/upload/alfacgiapi/py.alfa 2 -
+/flame.php 1 www.google.com
+/adriv.php 1 www.google.com
+/wp-admin/alfacgiapi/perl.alfa 1 -
+/ALFA_DATA/alfacgiapi/bash.alfa 2 -
+/uploads/ 3 binance.com
+/components/ALFA_DATA/alfacgiapi/bash.alfa 2 -
+/4mosan.php 1 www.google.com
+/zfox.php 1 www.google.com
+/hh.php 1 -
+/wp-conctent.php 1 www.google.com
+/wp-content/uploads/ALFA_DATA/alfacgiapi/index.php 1 -
+/wp-includes/alfacgiapi/py.alfa 2 -
+/wp-content/upgrade/ALFA_DATA/alfacgiapi/py.alfa 2 -
+http://bimbelazwana.com:80/2021/wp-includes/wlwmanifest.xml 1 -
+/assets/upload/ALFA_DATA/alfacgiapi/perl.alfa 2 -
+/wp/alfacgiapi/radio.php 1 -
+/great.php 1 -
+/assets/uploads/ALFA_DATA/alfacgiapi/py.alfa 2 -
+/upload/ALFA_DATA/alfacgiapi/index.php 1 -
+/.well-known/pki-validation/alfacgiapi/index.php 1 -
+/wp-content/ALFA_DATA/alfacgiapi/wp-content/uploads/alfacgiapi/radio.php 1 -
+/wp-includes/ALFA_DATA/alfacgiapi/bash.alfa 2 -
+/wp-content/plugins/library/ALFA_DATA/alfacgiapi/radio.php 1 -
+/components/alfacgiapi/perl.alfa 2 -
+/wp-content/themes/ALFA_DATA/alfacgiapi/py.alfa 2 -
+/.quarantine/alfacgiapi/radio.php 1 -
+/0o.php 1 www.google.com
+/wp-includes/alfacgiapi/index.php 1 -
+/blog/alfacgiapi/404.php 1 -
+/wp-includes/alfacgiapi/404.php 1 -
+/new/alfacgiapi/index.php 1 -
+/.tmb/alfacgiapi/bash.alfa 2 -
+/wp-content/plugins/library/ALFA_DATA/alfacgiapi/404.php 1 -
+/backup/alfacgiapi/radio.php 1 -
+http://bimbelazwana.com:80/wp1/wp-includes/wlwmanifest.xml 1 -
+/uploads/ALFA_DATA/alfacgiapi/index.php 1 -
+/blog/alfacgiapi/perl.alfa 2 -
+/wp-content/updraft/ALFA_DATA/alfacgiapi/perl.alfa 2 -
+/wp-content/themes/fitnessbase/crp.php 1 www.google.com
+/ALFA_DATA/alfacgiapi/radio.php 1 -
+/assets/ALFA_DATA/alfacgiapi/perl.alfa 2 -
+/shop/wp-admin/install.php 2 -
+/wawe.php 1 www.google.com
+/site/wp-includes/wlwmanifest.xml 1 -
+/style.php 1 -
+http://bimbelazwana.com:80/wordpress/wp-includes/wlwmanifest.xml 1 -
+/new/ALFA_DATA/alfacgiapi/bash.alfa 2 -
+/assets/uploads/ALFA_DATA/alfacgiapi/radio.php 1 -
+/gecko.php 1 www.google.com
+/new/alfacgiapi/bash.alfa 2 -
+/wp-content/plugins/library/ALFA_DATA/alfacgiapi/index.php 1 -
+/.tmb/ALFA_DATA/alfacgiapi/radio.php 1 -
+/wp-content/themes/fitnessbase/dev.php 1 www.google.com
+/.well-known/acme-challenge/ALFA_DATA/alfacgiapi/radio.php 1 -
+/assets/uploads/alfacgiapi/py.alfa 2 -
+/doiconvs.php 1 -
+/news/wp-includes/wlwmanifest.xml 1 -
+/moddofuns.php 1 -
+http://bimbelazwana.com/Discover_the_Hidden_Stars_%C3%A2%E2%82%AC%E2%80%9C_Student_Talent_Show_English_for_Kids_Bimbel_Azwana 2 -
+/assets/upload/ALFA_DATA/alfacgiapi/bash.alfa 2 -
+/wp-content/uploads/ALFA_DATA/alfacgiapi/404.php 1 -
+/wp/ALFA_DATA/alfacgiapi/radio.php 1 -
+/wp/alfacgiapi/index.php 1 -
+/backup/wp-admin/install.php 2 -
+/.well-known/pki-validation/ALFA_DATA/alfacgiapi/bash.alfa 2 -
+/wp-content/upgrade/alfacgiapi/py.alfa 2 -
+/uploads/ALFA_DATA/alfacgiapi/bash.alfa 2 -
+/.tmb/alfacgiapi/404.php 1 -
+/temp.zip 1 -
+/alfacgiapi/404.php 1 -
+http://bimbelazwana.com:80/blog/wp-includes/wlwmanifest.xml 1 -
+/wp-content/plugins/ALFA_DATA/alfacgiapi/perl.alfa 2 -
+/wp-content/plugins/alfacgiapi/bash.alfa 2 -
+http://bimbelazwana.com/Holiday_Class_with_Bimbel_Azwana_2025_%C3%A2%E2%82%AC%E2%80%9C_Liburan_Seru_dan_Bermakna 2 -
+/components/alfacgiapi/bash.alfa 2 -
+/.well-known/acme-challenge/alfacgiapi/py.alfa 2 -
+/wp-content/alfacgiapi/py.alfa 2 -
+/wp/alfacgiapi/404.php 1 -
+/phpinfo.php 1 www.google.com
+/.well-known/alfacgiapi/404.php 1 -
+/aa.php 1 -
+/components/alfacgiapi/404.php 1 -
+/.well-known/ALFA_DATA/alfacgiapi/perl.alfa 2 -
+/cgi-bin/ALFA_DATA/alfacgiapi/py.alfa 2 -
+/assets/ALFA_DATA/alfacgiapi/radio.php 1 -
+/assets/uploads/alfacgiapi/index.php 1 -
+/new/alfacgiapi/404.php 1 -
+/wp-content/plugins/library/ALFA_DATA/alfacgiapi/bash.alfa 2 -
+/old/ALFA_DATA/alfacgiapi/py.alfa 2 -
+/.well-known/pki-validation/ALFA_DATA/alfacgiapi/py.alfa 2 -
+/wp-content/uploads/ALFA_DATA/alfacgiapi/bash.alfa 2 -
+/wp-content/themes/ALFA_DATA/alfacgiapi/radio.php 1 -
+/test/wp-includes/wlwmanifest.xml 1 -
+/wordpress/ 3 -
+/991176.php 1 www.google.com
+/alfacgiapi/radio.php 1 -
+/wp-content/plugins/hellopress/nc4.php 1 -
+/wp-key.php 1 www.google.com
+/wp-content/themes/ALFA_DATA/alfacgiapi/index.php 1 -
+/wp-content/upgrade/ALFA_DATA/alfacgiapi/perl.alfa 2 -
+/wp-content/plugins/library/alfacgiapi/bash.alfa 2 -
+/uploads/alfacgiapi/404.php 1 -
+/tonant.php 1 www.google.com
+/components/ALFA_DATA/alfacgiapi/404.php 1 -
+/blog/ALFA_DATA/alfacgiapi/index.php 1 -
+/wp/alfacgiapi/py.alfa 2 -
+/images/alfacgiapi/404.php 1 -
+/blog.zip 1 -
+/blurbs.php 2 -
+/wordpress/wp-admin/setup-config.php 1 -
+/ahax.php 1 -
+/assets/uploads/alfacgiapi/404.php 1 -
+/wp-content/uploads/ALFA_DATA/alfacgiapi/py.alfa 2 -
+/wp-content/upgrade/alfacgiapi/radio.php 1 -
+/upload/ALFA_DATA/alfacgiapi/404.php 1 -
+/new/ALFA_DATA/alfacgiapi/perl.alfa 2 -
+/wp-content/updraft/alfacgiapi/404.php 1 -
+/uploads/alfacgiapi/bash.alfa 2 -
+/.well-known/acme-challenge/ALFA_DATA/alfacgiapi/py.alfa 2 -
+/humans.txt 1 -
+/cgi-bin/ALFA_DATA/alfacgiapi/404.php 1 -
+/upload/ALFA_DATA/alfacgiapi/perl.alfa 2 -
+/wordpress/ALFA_DATA/alfacgiapi/radio.php 1 -
+/.tmb/alfacgiapi/index.php 1 -
+/old/alfacgiapi/bash.alfa 2 -
+/uploads/ALFA_DATA/alfacgiapi/404.php 1 -
+/assets/upload/alfacgiapi/py.alfa 2 -
+/.well-known/acme-challenge/ALFA_DATA/alfacgiapi/perl.alfa 2 -
+/.well-known/pki-validation/wp-signup.php 1 www.google.com
+/wp2/wp-includes/wlwmanifest.xml 1 -
+/ALFA_DATA/alfacgiapi/py.alfa 2 -
+/assets/upload/alfacgiapi/404.php 1 -
+/wp-includes/alfacgiapi/bash.alfa 2 -
+/.tmb/alfacgiapi/perl.alfa 2 -
+/old.zip 1 -
+/ciis.php 1 www.google.com
+/blog/ALFA_DATA/alfacgiapi/perl.alfa 2 -
+/.tmb/ALFA_DATA/alfacgiapi/404.php 1 -
+/assets/upload/alfacgiapi/perl.alfa 2 -
+/images/ALFA_DATA/alfacgiapi/bash.alfa 2 -
+http://bimbelazwana.com:80/test/wp-includes/wlwmanifest.xml 1 -
+/wp-email.php 1 www.google.com
+http://bimbelazwana.com/robots.txt 148 -
+/wp-content/upgrade/ALFA_DATA/alfacgiapi/404.php 1 -
+/assets/upload/alfacgiapi/bash.alfa 2 -
+/wp-content/themes/alfacgiapi/perl.alfa 2 -
+/.quarantine/ALFA_DATA/alfacgiapi/radio.php 1 -
+/old/wp-admin/install.php 2 -
+http://bimbelazwana.com:80/feed/ 1 -
+/blog/ALFA_DATA/alfacgiapi/py.alfa 2 -
+/old/alfacgiapi/py.alfa 2 -
+/admin/controller/extension/extension/ 3 binance.com
+/wp/wp-admin/install.php 2 -
+/site/wp-admin/install.php 2 -
+/.well-known/pki-validation/ALFA_DATA/alfacgiapi/index.php 1 -
+/assets/uploads/alfacgiapi/perl.alfa 2 -
+/images/ALFA_DATA/alfacgiapi/404.php 1 -
+/components/ALFA_DATA/alfacgiapi/py.alfa 2 -
+/assets/uploads/ALFA_DATA/alfacgiapi/index.php 1 -
+/Holiday_Class_with_Bimbel_Azwana_2025_\xc3\xa2\xe2\x82\xac\xe2\x80\x9c_Liburan_Seru_dan_Bermakna 1 -
+/backup/ALFA_DATA/alfacgiapi/py.alfa 2 -
+/components/alfacgiapi/py.alfa 2 -
+/old/ALFA_DATA/alfacgiapi/bash.alfa 2 -
+/cgi-bin/alfacgiapi/404.php 1 -
+/assets/upload/ALFA_DATA/alfacgiapi/index.php 1 -
+/assets/uploads/ALFA_DATA/alfacgiapi/bash.alfa 2 -
+/foxx.php 1 www.google.com
+/wp-admin/ALFA_DATA/alfacgiapi/py.alfa 2 -
+/wp-admin/ALFA_DATA/alfacgiapi/perl.alfa 2 -
+/wp1/wp-includes/wlwmanifest.xml 1 -
+/wp-content/plugins/library/ALFA_DATA/alfacgiapi/perl.alfa 2 -
+/web/wp-includes/wlwmanifest.xml 1 -
+/uploads/ALFA_DATA/alfacgiapi/py.alfa 2 -
+/wordpress/alfacgiapi/bash.alfa 2 -
+/wp/ALFA_DATA/alfacgiapi/py.alfa 2 -
+/xleet-shell.php 1 www.google.com
+/wordpress/ALFA_DATA/alfacgiapi/bash.alfa 2 -
+/.well-known/alfacgiapi/radio.php 1 -
+/.quarantine/ALFA_DATA/alfacgiapi/index.php 1 -
+/uploads/alfacgiapi/py.alfa 2 -
+/.well-known/pki-validation/ALFA_DATA/alfacgiapi/radio.php 1 -
+/oldsite/wp-admin/install.php 2 -
+/wordpress/ALFA_DATA/alfacgiapi/404.php 1 -
+/Discover_the_Hidden_Stars_%E2%80%93_Student_Talent_Show_English_for_Kids_Bimbel_Azwana 5 -
+/assets/alfacgiapi/bash.alfa 2 -
+/.quarantine/alfacgiapi/py.alfa 2 -
+/robots.txt 170 -
+/test/wp-admin/install.php 2 -
+/room.php 1 www.google.com
+/wp-admin/setup-config.php 1 -
+/js.php 1 www.google.com
+/wp-content/plugins/hellopress/wp_filemanager.php 5 -
+/blog/alfacgiapi/index.php 1 -
+/wp-includes/wlwmanifest.xml 1 -
+/backup/alfacgiapi/bash.alfa 2 -
+/jindex.php 1 www.google.com
+/witmm.php 1 -
+/website/wp-includes/wlwmanifest.xml 1 -
+/blog/ALFA_DATA/alfacgiapi/404.php 1 -
+/assets/ALFA_DATA/alfacgiapi/index.php 1 -
+/wp-content/themes/alfacgiapi/404.php 1 -
+/ALFA_DATA/alfacgiapi/index.php 1 -
+/images/alfacgiapi/index.php 1 -
+/.well-known/ 3 binance.com
+/images/alfacgiapi/perl.alfa 2 -
+/fierza.php 1 www.google.com
+http://bimbelazwana.com:80/shop/wp-includes/wlwmanifest.xml 1 -
+/images/ALFA_DATA/alfacgiapi/py.alfa 2 -
+/components/ALFA_DATA/alfacgiapi/index.php 1 -
+/wp-content/ALFA_DATA/alfacgiapi/wp-content/uploads/alfacgiapi/404.php 1 -
+/wp/ALFA_DATA/alfacgiapi/index.php 1 -
+/components/alfacgiapi/radio.php 1 -
+/new/ALFA_DATA/alfacgiapi/radio.php 1 -
+/wp-content/updraft/alfacgiapi/py.alfa 2 -
+/security.txt 1 -
+/old/alfacgiapi/perl.alfa 2 -
+/wordpress/ALFA_DATA/alfacgiapi/index.php 1 -
+/wp-content/upgrade/alfacgiapi/index.php 1 -
+/class9.php 1 -
+/cong.php 1 www.google.com
+/new/alfacgiapi/perl.alfa 2 -
+/.well-known/alfacgiapi/py.alfa 2 -
+/wp-includes/css/buttons.css 1 -
+/wp-content/uploads/ALFA_DATA/alfacgiapi/radio.php 1 -
+/wp-content/upgrade/alfacgiapi/404.php 1 -
+/.quarantine/alfacgiapi/404.php 1 -
+/filemanager.php 1 www.google.com
+/.well-known/acme-challenge/alfacgiapi/404.php 1 -
+/files.zip 1 -
+/wp-content/ALFA_DATA/alfacgiapi/wp-content/uploads/alfacgiapi/py.alfa 2 -
+/components/alfacgiapi/index.php 1 -
+/sitemap.xml.gz 2 -
+/wp-content/plugins/alfacgiapi/index.php 1 -
+/wp-content/ALFA_DATA/alfacgiapi/wp-content/uploads/alfacgiapi/index.php 1 -
+/Discover_the_Hidden_Stars_%C3%A2%E2%82%AC%E2%80%9C_Student_Talent_Show_English_for_Kids_Bimbel_Azwana 2 -
+/assets/upload/ALFA_DATA/alfacgiapi/py.alfa 2 -
+/assets/ALFA_DATA/alfacgiapi/bash.alfa 2 -
+/asd67.php 1 -
+/lo.php 1 -
+/backup/ALFA_DATA/alfacgiapi/index.php 1 -
+/wp-content/themes/ALFA_DATA/alfacgiapi/bash.alfa 2 -
+/sitemap.txt 4 -
+/CLA.php 1 -
+/wp-content/upgrade/alfacgiapi/bash.alfa 2 -
+/assets/uploads/ALFA_DATA/alfacgiapi/perl.alfa 2 -
+/wp-content/themes/alfacgiapi/index.php 1 -
+/wp-content/flame.php 1 www.google.com
+http://bimbelazwana.com:80/site/wp-includes/wlwmanifest.xml 1 -
+/cms/wp-includes/wlwmanifest.xml 1 -
+/data.zip 1 -
+/blog/wp-includes/wlwmanifest.xml 1 -
+/assets/uploads/alfacgiapi/bash.alfa 2 -
+/wp-content/upgrade/alfacgiapi/perl.alfa 2 -
+/.well-known/acme-challenge/ALFA_DATA/alfacgiapi/404.php 1 -
+/.well-known/acme-challenge/alfacgiapi/bash.alfa 2 -
+/cgi-bin/ALFA_DATA/alfacgiapi/index.php 1 -
+/wp-content/plugins/library/alfacgiapi/index.php 1 -
+/.tmb/alfacgiapi/py.alfa 2 -
+/images/alfacgiapi/py.alfa 2 -
+/alfacgiapi/perl.alfa 2 -
+/new/ALFA_DATA/alfacgiapi/404.php 1 -
+/assets/upload/ALFA_DATA/alfacgiapi/404.php 1 -
+/un2.php 1 www.google.com
+http://bimbelazwana.com:80/wp-includes/ID3/license.txt 1 -
+/wp-content/updraft/ALFA_DATA/alfacgiapi/py.alfa 1 -
+/backup/alfacgiapi/index.php 1 -
+/uploads/alfacgiapi/radio.php 1 -
+/cgi-bin/ALFA_DATA/alfacgiapi/bash.alfa 2 -
+/upload/alfacgiapi/404.php 1 -
+/assets/ALFA_DATA/alfacgiapi/404.php 1 -
+/uploads/alfacgiapi/index.php 1 -
+/lx.php 1 www.google.com
+/images/ 3 binance.com
+/old/ALFA_DATA/alfacgiapi/radio.php 1 -
+/new/ALFA_DATA/alfacgiapi/index.php 1 -
+/cgi-bin/alfacgiapi/index.php 1 -
+/.well-known/pki-validation/alfacgiapi/bash.alfa 2 -
+/assets/upload/alfacgiapi/radio.php 1 -
+/wp/alfacgiapi/perl.alfa 2 -
+/assets/uploads/alfacgiapi/radio.php 1 -
+/wp-includes/ALFA_DATA/alfacgiapi/radio.php 1 -
+/wp-content/ALFA_DATA/alfacgiapi/wp-content/uploads/alfacgiapi/bash.alfa 2 -
+/bak.zip 1 -
+/wp-content/themes/alfacgiapi/bash.alfa 2 -
+/.well-known/pki-validation/alfacgiapi/py.alfa 2 -
+/web/wp-admin/install.php 1 -
+/wp-content/alfacgiapi/bash.alfa 2 -
+/wp/alfacgiapi/bash.alfa 2 -
+/old/ALFA_DATA/alfacgiapi/index.php 1 -
+/blog/alfacgiapi/bash.alfa 2 -
+/.tmb/ALFA_DATA/alfacgiapi/index.php 1 -
+/blog/alfacgiapi/py.alfa 2 -
+/cgi-bin/ALFA_DATA/alfacgiapi/radio.php 1 -
+/block-patwp.php 1 www.google.com
+/chosen.php 1 -
+/wp-content/updraft/alfacgiapi/radio.php 1 -
+/new/wp-admin/install.php 2 -
+http://bimbelazwana.com:80/xmlrpc.php 1 -
+/tinyfilemanager.php 1 www.google.com
+/upload/alfacgiapi/radio.php 1 -
+/manager.php 1 www.google.com
+/images/ALFA_DATA/alfacgiapi/index.php 1 -
+/2019/wp-includes/wlwmanifest.xml 1 -
+/wp-content/plugins/library/alfacgiapi/py.alfa 2 -
+/.well-known/pki-validation/ALFA_DATA/alfacgiapi/404.php 1 -
+/uwu2.php 1 -
+/wp-includes/ALFA_DATA/alfacgiapi/perl.alfa 2 -
+/cms/wp-admin/install.php 2 -
+/.quarantine/ALFA_DATA/alfacgiapi/bash.alfa 2 -
+/.well-known/alfacgiapi/index.php 1 -
+/alpha.php 1 www.google.com
+/media/system/js/core.js 19 -
+/shell.php 1 -
+/wp-content/alfacgiapi/index.php 1 -
+/wp-content/upgrade/ALFA_DATA/alfacgiapi/radio.php 1 -
+/pass.php 1 -
+/config.php 1 www.google.com
+/.tmb/ALFA_DATA/alfacgiapi/perl.alfa 2 -
+/new/alfacgiapi/py.alfa 2 -
+/wp-content/plugins/alfacgiapi/404.php 1 -
+/blog/ALFA_DATA/alfacgiapi/radio.php 1 -
+/upload/ALFA_DATA/alfacgiapi/radio.php 1 -
+/ot.php 1 -
+/old/alfacgiapi/index.php 1 -
+/wp-content/themes/ALFA_DATA/alfacgiapi/perl.alfa 2 -
+/wp-content/themes/alera/alpha.php 1 www.google.com
+/sitemap.xml 5 -
+/wp-content/updraft/alfacgiapi/index.php 1 -
+/.well-known/pki-validation/alfacgiapi/404.php 1 -
+/assets/upload/ALFA_DATA/alfacgiapi/radio.php 1 -
+/wp-content/alfacgiapi/perl.alfa 2 -
+/gfile.php 1 -
+/backup/ALFA_DATA/alfacgiapi/bash.alfa 2 -
+/wp-admin/install.php 2 -
+/Holiday_Class_with_Bimbel_Azwana_2025_%C3%A2%E2%82%AC%E2%80%9C_Liburan_Seru_dan_Bermakna 2 -
+/Discover_the_Hidden_Stars_\xc3\xa2\xe2\x82\xac\xe2\x80\x9c_Student_Talent_Show_English_for_Kids_Bimbel_Azwana 1 -
+/.quarantine/ALFA_DATA/alfacgiapi/py.alfa 2 -
+/new.zip 1 -
+/assets/alfacgiapi/index.php 1 -
+/images/alfacgiapi/bash.alfa 2 -
+/.well-known/acme-challenge/alfacgiapi/index.php 1 -
+/ads.txt 4 -
+/wordpress/wp-admin/install.php 2 -
+/Public/Admin/lib/webuploader/0.1.5/server/preview.php 1 -
+/assets/upload/alfacgiapi/index.php 1 -
+/.well-known/pki-validation/alfacgiapi/radio.php 1 -
+/xd.php 1 www.google.com
+/ALFA_DATA/alfacgiapi/404.php 1 -
+/ffAA531.php 1 www.google.com
+/blog/ALFA_DATA/alfacgiapi/bash.alfa 2 -
+/.well-known/ALFA_DATA/alfacgiapi/bash.alfa 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 321
+183.207.45.118 28 54 2367708 20250803094622
+69.160.160.57 15 41 3400792 20250814131539
+14.1.106.68 13 13 171071 20250828124314
+47.88.85.189 12 12 85732 20250824130808
+54.190.170.194 12 64 8057164 20250810180334
+149.56.150.48 11 11 642617 20250828015829
+103.163.138.86 9 9 576 20250809094252
+45.175.60.28 8 8 104149 20250828124424
+179.104.4.46 8 8 105604 20250828124532
+45.181.39.75 8 8 105861 20250828124423
+178.62.82.141 7 7 90374 20250802233536
+205.169.39.134 7 40 2906794 20250819233309
+177.37.138.126 7 7 92599 20250828124534
+43.135.180.171 6 32 4379835 20250823193926
+3.145.62.226 6 32 4379835 20250830220221
+13.221.183.250 6 32 4028582 20250810120845
+205.169.39.51 6 32 3580815 20250820022635
+54.211.227.98 6 32 4028582 20250810120853
+170.106.106.34 6 32 3443767 20250813160433
+149.56.150.159 6 32 4379824 20250828015901
+187.61.185.53 5 5 64965 20250828124152
+45.160.60.215 4 4 52629 20250826162636
+109.248.253.237 4 4 51715 20250826162731
+157.100.107.10 4 4 51651 20250826163742
+123.25.207.174 3 3 38789 20250826163020
+34.216.36.38 1 1 87 20250809095321
+43.163.1.102 1 1 14599 20250826223716
+170.231.179.8 1 1 12673 20250822133111
+13.53.136.160 1 1 87 20250809095321
+176.53.218.219 1 1 7233 20250825093702
+37.59.22.99 1 1 7233 20250826105137
+190.52.68.180 1 1 13305 20250826164457
+124.156.195.174 1 1 14777 20250826223720
+43.153.225.47 1 1 15238 20250826223717
+177.200.5.235 1 1 1767 20250820025718
+14.191.198.146 1 1 1086 20250823054642
+187.34.164.35 1 1 12944 20250826163632
+18.232.146.67 1 1 7260 20250815005413
+181.163.80.208 1 1 1136 20250820014942
+43.154.124.176 1 1 15487 20250826223357
+43.153.225.245 1 1 15356 20250826223644
+42.83.147.56 2 2 14491 20250815023948
+45.168.90.142 1 1 12392 20250822120313
+18.118.197.138 1 1 87 20250809095321
+161.35.237.146 1 2 35493 20250812131309
+157.100.199.97 2 2 26517 20250826163835
+45.225.160.62 1 1 12340 20250820042305
+89.104.111.114 1 1 7233 20250827230506
+43.133.47.57 1 1 14737 20250826223655
+177.64.235.243 1 1 5114 20250823044829
+139.59.1.20 1 2 35548 20250817083017
+64.233.173.151 0 1 24648 
+192.36.137.155 1 1 7225 20250826105710
+113.187.29.227 1 1 1185 20250822121054
+34.215.135.135 0 1 360 
+18.141.13.65 1 1 87 20250809095321
+143.137.34.161 1 1 12489 20250823055429
+177.185.180.65 1 1 12879 20250827004154
+157.230.232.250 1 2 35469 20250823175414
+178.156.177.233 1 1 1136 20250830001443
+179.127.250.11 1 1 13149 20250826233758
+167.99.55.179 1 2 35481 20250814162103
+103.135.252.76 1 1 12676 20250822120403
+43.134.104.237 1 1 14531 20250826211942
+179.116.113.152 2 2 6192 20250820180344
+189.50.41.106 1 1 13441 20250826163601
+18.191.172.28 2 2 14483 20250808034904
+119.28.106.115 1 1 15233 20250826223718
+179.0.35.175 1 1 8474 20250822161500
+189.126.75.167 2 2 2859 20250820181534
+177.10.9.51 2 2 13210 20250822115057
+41.90.176.122 1 1 12737 20250826163514
+190.111.108.113 1 1 12893 20250819205720
+140.213.113.251 1 4 1135387 20250809160317
+186.219.136.66 1 1 1136 20250818195029
+45.128.123.150 1 1 15073 20250826223400
+181.110.83.155 1 1 1126 20250819124543
+1.13.178.131 1 1 6022 20250826210539
+45.90.62.8 1 1 7211 20250813024514
+43.163.84.145 1 1 15068 20250826223720
+179.125.134.239 1 1 12231 20250822120631
+54.185.57.145 1 1 7233 20250822205633
+134.122.87.89 1 2 35467 20250809232234
+43.134.178.60 1 1 15322 20250826223718
+168.0.106.173 1 1 1767 20250819230234
+14.249.234.117 1 1 3672 20250820180826
+44.251.220.197 1 1 7231 20250810110517
+138.36.149.199 1 1 13211 20250826222534
+52.33.28.68 0 1 2031 
+14.187.161.235 1 1 1767 20250820025719
+43.163.104.89 1 1 14738 20250826223713
+93.158.90.68 1 1 7235 20250813181223
+170.246.213.129 1 1 1773 20250822114720
+14.186.57.212 1 1 3672 20250819125024
+34.60.212.122 1 1 7247 20250812212112
+43.159.32.71 1 1 14611 20250826223721
+170.239.215.152 1 1 12808 20250820181016
+85.10.206.185 1 1 6143 20250823143514
+45.237.188.170 1 1 12465 20250822123641
+129.226.92.181 1 1 14946 20250826223717
+201.131.182.30 1 1 13194 20250820180131
+14.191.5.116 1 1 13487 20250826162522
+115.178.53.122 2 2 26216 20250826163117
+14.255.117.1 1 1 12926 20250823021639
+89.40.30.61 1 1 1088 20250819160953
+152.42.162.29 1 1 7233 20250829134133
+186.222.242.191 1 1 12772 20250823085350
+113.183.58.19 1 1 5026 20250820010542
+171.229.32.148 1 1 1773 20250819030616
+179.233.149.217 1 1 13316 20250826163228
+43.128.87.231 1 1 15209 20250826223648
+113.161.222.231 1 1 12889 20250822114541
+179.191.130.15 1 1 12675 20250820181554
+176.53.220.188 1 1 7233 20250824061840
+165.227.133.96 1 2 35526 20250820133302
+170.244.163.43 1 1 1078 20250819223509
+94.154.39.63 1 1 13192 20250819235221
+177.134.32.191 1 1 8466 20250819005250
+188.166.152.82 1 2 35461 20250827155605
+38.191.209.26 1 1 3863 20250823012148
+162.62.223.78 1 1 14957 20250826223404
+43.133.45.165 1 1 13886 20250826211247
+43.134.130.220 1 1 15049 20250826223649
+114.122.39.196 1 1 5026 20250821211742
+170.0.73.78 1 1 8413 20250819172935
+150.109.12.168 1 1 14770 20250826223715
+177.72.196.181 1 1 12469 20250822121102
+201.46.20.55 1 1 13095 20250826164521
+129.226.221.43 1 1 15124 20250826223720
+123.21.165.167 1 1 1767 20250822120344
+52.41.184.147 0 1 1552 
+186.235.126.211 1 1 13198 20250822205031
+168.205.27.104 1 1 13410 20250826162450
+89.104.100.0 1 1 7312 20250817102754
+121.101.129.109 1 1 3672 20250819195740
+18.236.173.124 0 1 21818 
+34.143.156.185 1 1 7233 20250828233201
+14.191.68.194 3 3 39406 20250826164125
+54.201.219.58 0 1 420 
+24.144.85.69 1 2 35469 20250824140644
+189.127.153.60 1 1 12231 20250820005812
+168.194.57.232 1 1 13066 20250826164500
+146.190.16.192 1 2 35496 20250813213327
+114.10.43.83 1 1 1185 20250822234157
+135.148.195.2 0 2 1016747 
+14.241.84.159 1 1 3815 20250819204533
+186.232.28.25 1 1 3636 20250822120931
+113.173.165.247 1 1 1773 20250820000005
+45.232.176.212 1 1 12414 20250820180248
+191.5.4.37 1 1 12753 20250822131600
+34.136.151.73 1 1 7300 20250817212719
+43.159.36.185 1 1 14763 20250826223645
+164.92.152.178 1 2 35507 20250802140124
+186.205.10.182 1 1 13291 20250826162854
+200.102.161.84 1 1 1126 20250820180941
+36.74.203.176 1 1 12461 20250823105113
+45.187.161.123 3 3 39285 20250826164253
+199.244.88.225 1 1 7270 20250808122526
+39.38.153.52 1 1 8403 20250822120046
+177.125.24.66 1 1 3863 20250820180553
+160.20.204.17 1 1 1078 20250822120702
+190.237.163.177 1 1 12131 20250822120507
+147.185.132.195 1 1 6758 20250830071152
+177.66.87.67 1 1 13185 20250826185556
+34.213.200.96 0 1 16142 
+177.140.239.238 1 1 12391 20250819054313
+43.163.115.218 1 1 15085 20250826223355
+165.227.235.57 1 2 35469 20250831080525
+43.163.110.214 1 1 14953 20250826223715
+43.156.218.237 1 1 15361 20250826223402
+43.134.223.111 1 1 15003 20250831170448
+187.0.235.159 1 1 668 20250827105540
+14.172.84.0 1 1 1773 20250818190003
+43.134.49.178 1 1 14570 20250826223655
+43.156.250.247 1 1 15754 20250826223648
+192.36.121.172 1 1 7290 20250820010751
+152.241.103.23 1 1 1136 20250823105517
+52.76.184.184 0 1 28236 
+189.113.74.183 1 1 1088 20250819221458
+187.187.195.254 1 1 1773 20250822115451
+189.76.178.58 1 1 1088 20250820180638
+43.163.122.82 1 1 14199 20250826211246
+124.156.197.25 1 1 14997 20250826223656
+66.231.79.24 1 1 1773 20250819191721
+168.197.38.210 1 1 1126 20250822235454
+43.134.71.69 2 2 30106 20250826223654
+101.32.165.238 1 1 14772 20250826223653
+45.185.156.23 1 1 3863 20250820035238
+187.75.200.243 1 1 13149 20250828124000
+3.94.93.78 0 1 28236 
+43.134.237.30 1 1 4196 20250826211246
+187.84.0.116 1 1 3672 20250822162902
+135.148.195.4 1 1 7180 20250829110006
+101.32.252.200 1 1 15269 20250826223652
+34.142.227.95 1 1 7233 20250827222911
+43.156.17.101 1 1 15321 20250826223654
+34.219.66.152 2 2 14462 20250810173421
+123.26.39.24 1 1 13348 20250826163456
+123.21.234.13 1 1 12674 20250819195713
+43.131.19.221 1 1 15163 20250826223646
+45.71.209.235 1 1 1773 20250820181653
+37.78.56.135 1 1 12231 20250819232456
+189.18.42.209 1 1 668 20250826163745
+190.111.138.249 1 1 1773 20250823060121
+45.182.150.217 1 1 1767 20250822190637
+177.10.189.4 1 1 3672 20250822143144
+150.109.16.166 2 2 29786 20250826223714
+201.182.213.208 1 1 13502 20250826230021
+34.145.145.115 1 1 7270 20250808012336
+138.185.58.36 1 1 13811 20250826163833
+43.167.194.173 1 1 15537 20250826223349
+43.156.181.249 1 1 15355 20250826223714
+205.210.31.227 2 2 44165 20250830071250
+186.241.59.125 1 1 12732 20250819152009
+123.17.114.37 1 1 13479 20250826162853
+142.93.113.71 1 2 35506 20250806144148
+43.166.135.117 1 1 14820 20250826223352
+176.53.218.189 1 1 7233 20250829231201
+176.53.219.4 1 1 7231 20250810112615
+170.239.240.38 2 2 13426 20250822120406
+43.163.117.50 2 2 5590 20250826211436
+3.91.181.175 0 1 28236 
+113.189.71.131 3 3 39499 20250826162751
+45.90.63.182 1 1 7206 20250813023626
+176.53.220.117 1 1 7233 20250823095828
+179.135.188.239 1 1 1086 20250819182045
+201.93.178.83 1 1 12807 20250819195403
+43.133.33.211 1 1 15408 20250826223356
+206.189.129.69 1 2 35469 20250826161412
+119.28.99.253 1 1 1207 20250826211248
+187.55.71.18 1 1 13169 20250826163859
+179.49.254.229 1 1 3863 20250822121132
+134.209.214.56 1 2 35515 20250803182426
+101.32.244.21 1 1 14958 20250826223721
+164.92.155.162 1 2 35431 20250830145245
+159.89.116.28 1 2 35469 20250828135453
+186.158.200.214 1 1 1136 20250820180657
+183.134.88.251 1 1 7290 20250820233055
+177.172.84.6 1 1 1773 20250823060701
+179.125.202.210 1 1 13231 20250826164459
+38.52.222.122 1 1 13320 20250826164400
+45.185.35.50 3 3 15408 20250820181152
+186.242.243.101 1 1 1185 20250819235019
+23.178.112.211 1 1 87 20250809095320
+104.248.201.82 1 2 35515 20250822131737
+80.83.21.79 1 1 1773 20250820181448
+131.255.144.199 1 1 12626 20250829165048
+186.209.190.0 1 1 12090 20250822231022
+181.126.16.111 1 1 13133 20250827103309
+113.165.213.192 1 1 1078 20250823100611
+102.184.141.114 1 1 12772 20250828124029
+89.104.101.22 1 1 7290 20250820210507
+43.131.1.223 1 1 15366 20250826211223
+177.21.49.193 1 1 1773 20250822120832
+43.157.1.226 1 1 14935 20250826211236
+177.37.249.232 1 1 1773 20250822174845
+191.37.123.114 1 1 13558 20250826163357
+43.128.66.15 1 1 14949 20250826223652
+118.195.146.33 1 1 15275 20250831114700
+176.53.219.208 1 1 7312 20250815212438
+14.186.109.44 1 1 13099 20250819140219
+177.8.53.118 1 1 13026 20250826162855
+45.90.62.66 1 1 7290 20250822075323
+43.156.176.224 1 1 15025 20250826223647
+159.65.195.196 1 2 35467 20250810151816
+187.90.140.232 1 1 13387 20250826163225
+47.82.11.140 1 1 7260 20250814194002
+176.115.141.130 1 1 8413 20250820180750
+34.19.38.155 1 1 7260 20250814235830
+181.53.99.129 3 3 27510 20250828124157
+54.221.37.139 1 1 7205 20250804140015
+170.246.249.32 2 2 20919 20250822115300
+43.156.54.7 1 1 15026 20250826223651
+189.58.222.120 1 1 1078 20250819225941
+156.228.115.7 1 1 37407 20250826021511
+190.108.79.156 1 1 13166 20250826163250
+43.154.238.208 1 1 14547 20250826211234
+138.0.44.206 1 1 1126 20250819185822
+38.41.187.156 1 1 1126 20250822115412
+45.90.61.246 1 1 7233 20250826200715
+34.46.32.133 1 1 7312 20250816025913
+95.165.201.206 1 1 3863 20250822115012
+123.20.255.30 1 1 1773 20250820013224
+189.183.188.73 1 1 1185 20250820032455
+177.195.17.83 1 1 1773 20250819193117
+159.65.233.31 1 2 35548 20250816133518
+43.133.23.49 1 1 15155 20250831121805
+139.155.89.145 1 1 7225 20250826194913
+186.235.38.57 1 1 1126 20250822120902
+131.72.49.236 3 3 39866 20250826163957
+93.158.90.53 1 1 7270 20250807084658
+14.169.132.99 1 1 12271 20250822115702
+123.20.145.230 1 1 12158 20250819162805
+35.162.23.59 0 1 29974 
+43.156.24.129 1 1 15190 20250826223719
+181.66.177.186 1 1 13192 20250822120159
+91.227.68.162 1 1 0 20250810023807
+43.156.13.199 1 1 14311 20250826211247
+3.0.94.54 3 3 113658 20250808125809
+177.137.60.176 2 2 2909 20250822120755
+104.199.120.136 1 1 7312 20250816005340
+10.57.0.181 1 1 7231 20250811121617
+43.156.0.69 2 2 29329 20250826223719
+45.233.178.8 1 1 12459 20250820003648
+179.25.205.44 1 1 1773 20250820010228
+62.210.122.147 1 1 7223 20250809214137
+150.109.20.69 1 1 15029 20250826223653
+105.246.146.162 1 1 1088 20250822120657
+47.82.11.75 1 1 7270 20250807233657
+191.243.139.173 1 1 8413 20250819210857
+43.153.194.236 1 1 15210 20250826223716
+168.228.100.136 1 1 3672 20250822115607
+123.21.224.52 1 1 1773 20250819172859
+129.226.50.213 1 1 15136 20250826223346
+35.240.186.105 1 1 7233 20250829102223
+187.120.135.129 1 1 1185 20250822115126
+170.246.69.121 1 1 1088 20250823101731
+43.157.60.38 1 1 13252 20250826223201
+64.233.173.152 2 3 26920 20250809160319
+177.191.80.88 1 1 13129 20250827061131
+170.78.82.106 1 1 13017 20250826172357
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 29
+20250802 8 9 125881 2
+20250803 29 56 2403223 2
+20250804 1 1 7205 1
+20250806 1 2 35506 1
+20250807 2 2 14540 2
+20250808 7 7 142681 4
+20250809 19 25 1230656 10
+20250810 30 137 16235191 8
+20250811 1 1 7231 1
+20250812 3 4 49971 3
+20250813 10 37 3500915 5
+20250814 18 45 3450793 4
+20250815 3 3 21832 3
+20250816 3 4 50172 3
+20250817 3 4 50160 3
+20250818 2 2 2909 2
+20250819 35 68 3075136 29
+20250820 41 68 3793698 32
+20250821 1 1 5026 1
+20250822 46 54 395209 42
+20250823 21 48 4496239 16
+20250824 14 15 128434 3
+20250825 1 1 7233 1
+20250826 123 124 1678892 98
+20250827 7 8 89736 7
+20250828 73 100 5762823 13
+20250829 6 9 1123895 6
+20250830 10 37 4429918 5
+20250831 4 5 80902 4
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 2
+30s-2mn 4
+0s-30s 307
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 164
+/ 103 940977 83 72
+/fonts/bootstrap-icons.woff2 10 920640 0 5
+/fonts/Metropolis/Metropolis-Light.woff2 10 128240 0 0
+/fonts/Metropolis/Metropolis-SemiBold.woff2 10 129840 0 4
+/fonts/Metropolis/Metropolis-Regular.woff2 10 129960 0 0
+/fonts/Metropolis/Metropolis-Bold.woff2 10 130360 0 0
+http://bimbelazwana.com/Visi_dan_Misi 9 111878 6 8
+http://bimbelazwana.com/kegiatan/ 7 59033 7 6
+http://bimbelazwana.com/ProfileBimbelAzwana 7 86230 7 7
+http://bimbelazwana.com/Join_Our_Team_Open_Recruitment_for_All_Team_Bimbel_Azwana 7 88955 7 7
+http://bimbelazwana.com/program/ 7 25668 7 7
+http://bimbelazwana.com/Promo_Semester_Baru 7 12411 6 7
+http://bimbelazwana.com/promo/ 6 23130 6 6
+http://bimbelazwana.com/daftar/Program_Private 6 7110 5 6
+http://bimbelazwana.com/daftar/Program_Full_Day_Class 6 6756 6 6
+http://bimbelazwana.com/daftar/Program_Calistung 6 10602 6 5
+http://bimbelazwana.com/daftar/Program_Bimbel_SD 6 6816 6 4
+http://bimbelazwana.com/Promo_Kelas_Intensif 6 10638 6 6
+/Visi_dan_Misi 6 141430 1 1
+/daftar/Program_Bimbel_SD 6 7200 3 3
+http://bimbelazwana.com/daftar/Program_Bimbel_SMP 5 5390 4 5
+http://bimbelazwana.com/Terima_Kasih_Open_House_Cabang_Karang_Anyar_Bimbel_Azwana_Berlangsung_Sukses 5 65875 5 5
+/.well-known/acme-challenge/2mHmRI2CTZnGq6E5IRi4UeL4kFixNt2njt78ETqbzsc 5 435 5 5
+http://bimbelazwana.com/SpecialPromo_AkhirTahun 5 8865 5 4
+http://bimbelazwana.com/daftar/Program_IL 5 5440 5 5
+http://bimbelazwana.com/Spesial_Bulan_Juli_Bimbel_di_Azwana_biaya_pendaftarannya_GRATIS 2 26664 0 2
+/.well-known/acme-challenge/FCBIQZZ77H1U_6RR8NR4BM6UUI0L96-P 1 64 0 0
+http://bimbelazwana.com/Menguatkan_Peran_Orang_Tua_dalam_Pendidikan_Anak_Kajian_Wali_Murid_Bimbel_Azwana_Cabang_RA_Basyid 2 26478 0 1
+/Kajian_Rutin_Wali_Murid_Bersama_Ustadzah_Azizah_Astuti_S_HI_Senjata_Orang_Tua_dalam_Mendidik_Anak 1 14949 1 1
+/Serunya_Sahabat_Azwana_Berswafoto_Bareng_danquotJazadanquot_Maskot_Kesayangan_Bimbel_Azwana 1 14770 1 1
+/Kajian_Rutin_Wali_Murid_dan_Syukuran_Menyatukan_Ilmu_Doa_dan_Kebersamaan 1 15068 1 1
+/.well-known/acme-challenge/3YWWXT_HU6M4CDF1RKQG1I23_XBK3V0G 1 64 0 0
+/Belajar_Bahasa_Inggris_di_Usia_Dewasa_Siapa_Takut 1 14772 1 1
+http://bimbelazwana.com/Spesial_Hardiknas_GRATIS_Biaya_Pendaftaran_di_Bimbel_Azwana 2 26149 0 1
+/webshell 1 6758 1 1
+/HOLIDAY_CLASS 1 15003 1 1
+/Pembagian_Map_Raport_Bimbel_Azwana_Bukan_Sekadar_Nilai_Tapi_Bukti_Cinta_dalam_Proses_Belajar 1 15321 1 1
+http://bimbelazwana.com/Penelitian_Mahasiswi_UIN_Lampung_Ungkap_Strategi_Manajemen_Bimbel_Azwana 2 26729 1 1
+http://bimbelazwana.com/Alasan_Kenapa_Adik_Harus_Bimbel_di_Azwana 2 25524 1 0
+http://bimbelazwana.com/Rehat_Sejenak_Kuatkan_Ikatan_Satukan_Visi_Serunya_Family_Gathering_Tim_Bimbel_Azwana_ke_Yogyakarta 2 26932 2 1
+/Meraih_Surga_dengan_Jalan_Menuntut_Ilmu_Kilas_Balik_Kegiatan_Tahsin_danamp_Pembagian_Raport_Tahsin_Team_Bimbel_Azwana 2 91886 1 1
+http://bimbelazwana.com/Selamat_Inilah_Juara_Umum_Try_Out_2_Semester_Genap_Bimbel_Azwana_Seluruh_Cabang 2 26490 2 1
+/TalentShow_EFK 1 15155 1 1
+http://bimbelazwana.com/Islamic_Learning_Program_Bimbel_Azwana_Menanamkan_Cinta_Islam_Sejak_Dini_Lewat_Pembelajaran_yang_Penuh_Makna_ 2 26213 0 0
+http://bimbelazwana.com/UNDANGAN_KAJIAN_WALI_MURID 2 25204 0 1
+/daftar/Program_Calistung 2 3820 0 0
+/10_Tips_Belajar_Efektif_untuk_Sukses_di_Masa_Depan 1 15754 1 1
+/Selamat_Ini_Dia_Pemenang_Giveaway_Cabang_ke-11_Bagi-bagi_Marchandise_ 1 14570 1 1
+/Layanan_Penuh_Kasih_Hasil_yang_Menginspirasi_Inilah_Cabang_Terbaik_Bimbel_Azwana_Periode_April-Juli 4 119102 1 0
+http://bimbelazwana.com/Bimbel_SMP_Solusi_Belajar_Efektif_dengan_Pendekatan_Learning_by_Loving 2 26701 1 1
+http://bimbelazwana.com/Tempat_Baru_Semangat_Baru_GRATIS_PENDAFTARAN_di_Bimbel_Azwana_Pusat_ 2 26328 0 0
+/shell 1 6758 1 1
+/Belajar_Bahasa_Inggris_di_Kelas_Online_Why_Not 1 14953 1 1
+/Islamic_Learning_Bimbel_Azwana 1 15275 1 1
+http://bimbelazwana.com/Bangga_Inilah_Juara_Try_Out_2_Semester_2_Bimbel_Azwana_Part_1 2 26633 1 0
+http://bimbelazwana.com/daftar/Program_EFK 4 4344 3 3
+/Serunya_Holiday_Class_Bimbel_Azwana_di_Jati_Argo_Belajar_Bermain_dan_Tumbuh_Bersama 1 15537 1 1
+/program/ 2 8345 1 1
+http://bimbelazwana.com/HOLIDAY_CLASS 2 26332 1 0
+/Join_Our_Team_Open_Recruitment_for_All_Team_Bimbel_Azwana 3 103548 0 2
+http://bimbelazwana.com/Cabang_Terbaik_Bimbel_Azwana_Periode_Januari_April_2025_Konsisten_Memberikan_yang_Terbaik 2 25774 0 0
+/daftar/Program_Full_Day_Class 2 2510 0 0
+http://bimbelazwana.com/TalentShow_EFK 2 26583 0 1
+/14_Tahun_Tumbuh_Bersama_Bimbel_Azwana_Learning_by_Loving_ 1 14776 0 1
+http://bimbelazwana.com/Bimbel_Azwana_Kini_Bernaung_di_Bawah_Yayasan_Prestasi_Azwana_Indonesia 2 25849 0 1
+/Belajar_dan_Bertumbuh_Training_Internal_Tim_Hebat_Bimbel_Azwana 3 44345 1 2
+http://bimbelazwana.com/Spesial_Opening_Bimbel_Azwana_Cabang_Teluk_Betung_Dapatkan_Gratis_Biaya_Pendaftaran 2 25642 1 1
+http://bimbelazwana.com/Selamat_Ini_Dia_Pemenang_Giveaway_Cabang_ke-11_Bagi-bagi_Marchandise_ 2 25450 1 1
+http://bimbelazwana.com/Kegiatan_Seru_di_Bimbel_Azwana_Cabang_Way_Halim_Belajar_Jadi_Menyenangkan 2 26235 1 0
+http://bimbelazwana.com/Belajar_Lebih_Dekat_Tumbuh_Lebih_Hebat_-_Manfaat_Program_Private_di_Bimbel_Azwana 2 26104 1 0
+/Islamic_Learning_Program_Bimbel_Azwana_Menanamkan_Cinta_Islam_Sejak_Dini_Lewat_Pembelajaran_yang_Penuh_Makna_ 1 15026 1 1
+http://bimbelazwana.com/Temukan_Solusi_Belajar_yang_Tepat_untuk_Anak_Ayah_Bunda 3 39123 2 2
+/Tingkatkan_Pemahaman_Matematika_dengan_Metode_Belajar_Terbaik 1 14820 1 1
+/Juara_Lomba_Mewarnai_Bersama_Si_Jaza_Merayakan_Kreativitas_dan_Semangat_Belajar_Sahabat_Azwana 1 15209 1 1
+/Merekatkan_Hati_Menguatkan_Iman_-_Spiritual_Education_Tim_Bimbel_Azwana 1 14599 1 1
+http://bimbelazwana.com/Temukan_Cabang_Azwana_di_sekitar_rumahmu_Saatnya_Belajar_Cinta 2 25366 0 0
+/Mengintip_Tren_Pendidikan_Terkini_Masa_Depan_Belajar_Ada_di_Sini 2 30514 1 1
+http://bimbelazwana.com/Siswa_Bimbel_Azwana_Jatimulyo_Raih_Juara_1_English_Olympiad_Tingkat_SMP_ 2 26178 2 0
+/.well-known/acme-challenge/74PPANM_51YRMAFHNOPX9Y1__SF55KZQ 1 64 0 0
+/Temukan_Cabang_Azwana_di_sekitar_rumahmu_Saatnya_Belajar_Cinta 1 14343 0 0
+http://bimbelazwana.com/Serunya_Holiday_Class_Bimbel_Azwana_di_Jati_Argo_Belajar_Bermain_dan_Tumbuh_Bersama 3 40598 2 2
+/Spesial_Bulan_Juli_Bimbel_di_Azwana_biaya_pendaftarannya_GRATIS 1 14346 0 0
+/daftar/Program_EFK 2 2420 0 0
+http://bimbelazwana.com/Belajar_Bahasa_Inggris_di_Kelas_Online_Why_Not 3 39337 2 2
+http://bimbelazwana.com/video/ 4 20280 4 3
+/Bimbel_Azwana_Kini_Bernaung_di_Bawah_Yayasan_Prestasi_Azwana_Indonesia 1 14763 1 1
+/Yuk_Kenalan_Sama_JAZA_Maskot_Bimbel_Azwana_yang_Penuh_Cinta 1 14737 1 1
+/Warna-Warni_Ceria_Lomba_Mewarnai_Bersama_Si_Jaza_di_Bimbel_Azwana_Penuh_Cinta_danamp_Makna 1 15238 1 1
+http://bimbelazwana.com/Lomba_Mewarnai_Bareng_Si_Jaza_Event_Edukatif_dan_Seru_untuk_Anak-Anak_Bandar_Lampung 1 13220 0 1
+/promo/ 3 13183 0 1
+http://bimbelazwana.com/Juara_Lomba_Mewarnai_Bersama_Si_Jaza_Merayakan_Kreativitas_dan_Semangat_Belajar_Sahabat_Azwana 2 26538 1 1
+/Belajar_Bahasa_Inggris_Online_Cuma_99_Ribu_Yuk_Gabung_Sekarang_di_Kelas_Online_Azwana 1 14738 1 1
+/Cabang_Terbaik_Bimbel_Azwana_Periode_Januari_April_2025_Konsisten_Memberikan_yang_Terbaik 1 14777 1 1
+/Rehat_Sejenak_Kuatkan_Ikatan_Satukan_Visi_Serunya_Family_Gathering_Tim_Bimbel_Azwana_ke_Yogyakarta 1 15487 1 1
+/UNDANGAN_KAJIAN_WALI_MURID 1 14547 1 1
+/Kelas_Privat_Online_Bahasa_Inggris_Hanya_50_Ribu_Solusi_Belajar_yang_Nyaman_danamp_Fokus_dari_Bimbel_Azwana_Lampung 1 14958 1 1
+/Spesial_Hardiknas_GRATIS_Biaya_Pendaftaran_di_Bimbel_Azwana 2 29008 1 1
+/.well-known/acme-challenge/8284XLHBP71DAF8GF8ERB833CMKCQLUU 1 64 0 0
+http://bimbelazwana.com/Struktur_Organisasi 4 48453 3 4
+http://bimbelazwana.com/daftar/ 3 2004 2 3
+http://bimbelazwana.com/Belajar_dan_Bertumbuh_Training_Internal_Tim_Hebat_Bimbel_Azwana 2 26881 1 1
+http://bimbelazwana.com/Kajian_Rutin_Wali_Murid_dan_Syukuran_Menyatukan_Ilmu_Doa_dan_Kebersamaan 2 26093 1 1
+http://bimbelazwana.com/Islamic_Learning_Bimbel_Azwana 2 26738 0 1
+/Bimbel_SMP_Solusi_Belajar_Efektif_dengan_Pendekatan_Learning_by_Loving 1 15269 1 1
+/Belajar_Parenting_untuk_Masa_Depan_Anak_yang_Cemerlang_Bergabunglah_dengan_Kami 2 29854 1 1
+http://bimbelazwana.com/Belajar_Bahasa_Inggris_di_Usia_Dewasa_Siapa_Takut 2 25888 1 1
+/Lomba_Mewarnai_Bareng_Si_Jaza_Event_Edukatif_dan_Seru_untuk_Anak-Anak_Bandar_Lampung 3 43876 1 1
+/Fondasi_Hebat_Dimulai_dari_Calistung_Kenapa_Bimbel_Azwana_Jadi_Pilihan_Tepat 1 15085 1 1
+http://bimbelazwana.com/Warna-Warni_Ceria_Lomba_Mewarnai_Bersama_Si_Jaza_di_Bimbel_Azwana_Penuh_Cinta_danamp_Makna 2 26798 0 1
+/Evaluasi_Tasmi_Langkah_Menuju_Hafalan_yang_Lebih_Baik 1 14997 1 1
+/Spesial_Opening_Bimbel_Azwana_Cabang_Teluk_Betung_Dapatkan_Gratis_Biaya_Pendaftaran 1 14687 1 0
+/video/ 3 57294 0 0
+http://bimbelazwana.com/ALC_BimbelAzwana 2 26888 2 1
+/Azwana_Peduli_Palestina_Bukti_Nyata_Cinta_danamp_Kepedulian_dari_Bimbel_Azwana_untuk_Sesama 1 15136 1 1
+http://bimbelazwana.com/14_Tahun_Tumbuh_Bersama_Bimbel_Azwana_Learning_by_Loving_ 2 25781 0 1
+/Siswa_Bimbel_Azwana_Jatimulyo_Raih_Juara_1_English_Olympiad_Tingkat_SMP_ 2 29758 1 1
+/ProfileBimbelAzwana 5 126898 1 1
+http://bimbelazwana.com/Merekatkan_Hati_Menguatkan_Iman_-_Spiritual_Education_Tim_Bimbel_Azwana 3 38388 1 1
+/login/ 4 3352 0 0
+http://bimbelazwana.com/Grand_Opening_Kantor_Pusat_Bimbel_Azwana_Wujud_Nyata_Pendidikan_dengan_Cinta_dan_Nilai_Spiritual 1 13407 0 0
+/Penelitian_Mahasiswi_UIN_Lampung_Ungkap_Strategi_Manajemen_Bimbel_Azwana 2 28618 2 2
+/.well-known/acme-challenge/V2SDNG_PWJ7R3RIPY-FR-716NUT0KJ4N 1 64 0 0
+http://bimbelazwana.com/Kajian_Wali_Murid_Bimbel_Azwana_Orang_Tua_Belajar_Anak_Bahagia 3 39435 2 2
+/daftar/Program_Bimbel_SMP 3 3621 1 1
+/.well-known/acme-challenge/S0_LW8HWL78-R45CKOTVI7XKDVHLF_GU 1 64 0 0
+http://bimbelazwana.com/Belajar_Bahasa_Inggris_Online_Cuma_99_Ribu_Yuk_Gabung_Sekarang_di_Kelas_Online_Azwana 2 25662 0 0
+/daftar/Program_Private 1 1352 0 0
+http://bimbelazwana.com/10_Tips_Belajar_Efektif_untuk_Sukses_di_Masa_Depan 2 27624 1 1
+/Selamat_Inilah_Juara_Umum_Try_Out_2_Semester_Genap_Bimbel_Azwana_Seluruh_Cabang 1 15163 1 1
+/Belajar_Lebih_Dekat_Tumbuh_Lebih_Hebat_-_Manfaat_Program_Private_di_Bimbel_Azwana 1 14957 1 1
+http://bimbelazwana.com/EVALUASI_LEVEL_CALISTUNG 1 12626 1 1
+http://bimbelazwana.com/Pembagian_Map_Raport_Bimbel_Azwana_Bukan_Sekadar_Nilai_Tapi_Bukti_Cinta_dalam_Proses_Belajar 2 26664 1 1
+/daftar/Program_IL 3 3633 1 0
+/.well-known/acme-challenge/9GNQJD8HYT6B9F2BB7XYI7FIONFKAGRB 1 64 0 0
+http://bimbelazwana.com/Kajian_Inspiratif_Bersama_Wali_Murid_Bimbel_Azwana_Way_Halim 3 39446 2 2
+http://bimbelazwana.com/Layanan_Penuh_Kasih_Hasil_yang_Menginspirasi_Inilah_Cabang_Terbaik_Bimbel_Azwana_Periode_April-Juli 3 39364 3 3
+/kegiatan/ 1 9761 0 0
+/.well-known/acme-challenge/N24B_QNVBKP7CE8BNLPCCH5TN029OXZD 1 64 0 1
+http://bimbelazwana.com/Evaluasi_Tasmi_Langkah_Menuju_Hafalan_yang_Lebih_Baik 2 26252 1 0
+/Kajian_Wali_Murid_Bimbel_Azwana_Orang_Tua_Belajar_Anak_Bahagia 1 15042 0 1
+http://bimbelazwana.com/Tingkatkan_Pemahaman_Matematika_dengan_Metode_Belajar_Terbaik 5 64323 5 5
+http://bimbelazwana.com/Belajar_Parenting_untuk_Masa_Depan_Anak_yang_Cemerlang_Bergabunglah_dengan_Kami 2 26192 1 1
+http://bimbelazwana.com/Kuasai_4_Skill_Bahasa_Inggris_Sejak_Dini_di_Bimbel_Azwana 3 39477 2 1
+/Kuasai_4_Skill_Bahasa_Inggris_Sejak_Dini_di_Bimbel_Azwana 1 15025 1 1
+/Kegiatan_Seru_di_Bimbel_Azwana_Cabang_Way_Halim_Belajar_Jadi_Menyenangkan 1 15049 1 1
+/Struktur_Organisasi 5 125161 1 1
+/Selamat_Ini_Dia_Juara_Try_Out_2_Semester_2_Bimbel_Azwana_Part_2 1 15355 1 1
+http://bimbelazwana.com/Aku_Lulus_Calistung_Perjalanan_Cinta_Belajar_Bersama_Azwana 2 26700 0 0
+http://bimbelazwana.com/Azwana_Peduli_Palestina_Bukti_Nyata_Cinta_danamp_Kepedulian_dari_Bimbel_Azwana_untuk_Sesama 2 26543 1 2
+http://bimbelazwana.com/Kelas_Privat_Online_Bahasa_Inggris_Hanya_50_Ribu_Solusi_Belajar_yang_Nyaman_danamp_Fokus_dari_Bimbel_Azwana_Lampung 2 26136 1 1
+/Menguatkan_Peran_Orang_Tua_dalam_Pendidikan_Anak_Kajian_Wali_Murid_Bimbel_Azwana_Cabang_RA_Basyid 1 15190 1 1
+/Tempat_Baru_Semangat_Baru_GRATIS_PENDAFTARAN_di_Bimbel_Azwana_Pusat_ 1 15124 1 1
+/Kajian_Inspiratif_Bersama_Wali_Murid_Bimbel_Azwana_Way_Halim 1 15010 1 0
+http://bimbelazwana.com/Selamat_Ini_Dia_Juara_Try_Out_2_Semester_2_Bimbel_Azwana_Part_2 2 26848 2 1
+/Grand_Opening_Kantor_Pusat_Bimbel_Azwana_Wujud_Nyata_Pendidikan_dengan_Cinta_dan_Nilai_Spiritual 1 15408 1 1
+/.well-known/acme-challenge/CVTNTJ-ABRO0PYI3MLQMJ9EFOH65FPM4 1 64 1 0
+/EVALUASI_LEVEL_CALISTUNG 2 88539 1 1
+/Alasan_Kenapa_Adik_Harus_Bimbel_di_Azwana 1 14611 1 1
+http://bimbelazwana.com/Kajian_Rutin_Wali_Murid_Bersama_Ustadzah_Azizah_Astuti_S_HI_Senjata_Orang_Tua_dalam_Mendidik_Anak 2 26040 1 0
+http://bimbelazwana.com/Meraih_Surga_dengan_Jalan_Menuntut_Ilmu_Kilas_Balik_Kegiatan_Tahsin_danamp_Pembagian_Raport_Tahsin_Team_Bimbel_Azwana 2 26854 0 1
+http://bimbelazwana.com/Mengintip_Tren_Pendidikan_Terkini_Masa_Depan_Belajar_Ada_di_Sini 2 26988 1 1
+/Bangga_Inilah_Juara_Try_Out_2_Semester_2_Bimbel_Azwana_Part_1 1 15233 1 1
+http://bimbelazwana.com/Serunya_Sahabat_Azwana_Berswafoto_Bareng_danquotJazadanquot_Maskot_Kesayangan_Bimbel_Azwana 2 25916 0 0
+/Terima_Kasih_Open_House_Cabang_Karang_Anyar_Bimbel_Azwana_Berlangsung_Sukses 1 15073 1 1
+END_SIDER
+
+# Payload Range - Payload Frequency
+BEGIN_FILESIZE 7
+44-100 1093
+500-1K 11
+2K-5K 49
+1K-2K 172
+5K+ 1118
+100-500 47
+0-44 11
+END_FILESIZE

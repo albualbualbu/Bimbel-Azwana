@@ -1,0 +1,26 @@
+# Upload user
+public_html/images/img/
+
+# Database
+*.sql
+
+# Video
+*.mov
+*.MOV
+*.mp4
+
+# XAMPP
+xampp-control.ini
+
+# Node
+node_modules/
+
+# Composer
+vendor/
+
+# Log
+*.log
+
+# OS
+Thumbs.db
+.DS_Store
